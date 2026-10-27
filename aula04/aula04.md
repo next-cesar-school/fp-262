@@ -1,4 +1,4 @@
-# NExT 26.1 | Fundamento de Python Aplicado a Dados
+# NExT 26.2 | Fundamento de Python Aplicado a Dados
 
 ![CESAR School](/cesar_school.png)
 
