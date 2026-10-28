@@ -77,8 +77,7 @@ Esse tipo de técnica é usada no `print` que tem 4 parâmetros opcionais previa
  print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
 ```
 
-> 💡 *Mais detalhes sobre o print [aqui](https://docs.python.org/3/library/functions.html#print).*
-
+> 💡 *Mais detalhes sobre o print [aqui](https://docs.python.org/3/library/functions.html#print).*\
 > ⚠️ Os valores *default* devem ser sempre os últimos!
 
 ### Quantidade arbitrária de parâmetros
