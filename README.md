@@ -13,7 +13,7 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 03 - Estruturas de Repetição (`while`) | [Colab](https://colab.research.google.com/drive/1gRT1U9zp14s-ASxCXvlvzCQ-uSSWWXd1?usp=sharing) |
 | Aula 04 - Estruturas de Repetição (`for`) | [Ambiente](/aula04/ambiente.md) - [Conteúdo](/aula04/aula04.md) - [Práticas](/aula04/praticas/) |
 | Aula 05 - Função | [Conteúdo](/aula05/README.md) - [Práticas](/aula05/praticas/) |
-| Aula 06 - Arquivos | `em breve` |
+| Aula 06 - Arquivos | [Conteúdo](/aula06/README.md) |
 | Aula 07 - Tratamento de Exceções | `em breve` |
 | Aula 08 - Estruturas de Dados | `em breve` |
 | Aula 09 - Módulos e Pacotes | `em breve` |
