@@ -135,13 +135,66 @@ Podem ser usadas para esconder um recurso de acesso externo ou para criação de
 
 Mais sobre Inner Functions [aqui](https://realpython.com/inner-functions-what-are-they-good-for/).
 
-## 🐝 Beecrowd
+# 🐝 Beecrowd
 
-[3475 - Conversor](https://judge.beecrowd.com/pt/problems/view/3475)
+## [3475 - Conversor](https://judge.beecrowd.com/pt/problems/view/3475)
 
-[1099 - Soma de Ímpares Consecutivos II](https://judge.beecrowd.com/pt/problems/view/1099)
+Axela é uma assistente virtual ainda em desenvolvimento, que vai ajudar em tarefas do dia a dia, como digitar textos. Sua tarefa é criar uma das funções dela: um conversor de números. Quando receber um número escrito por extenso em português, a função deve devolvê-lo em algarismos. Quando receber algarismos, deve devolver o número por extenso.
 
-[1151 - Fibonacci Fácil](https://judge.beecrowd.com/pt/problems/view/1151)
+### Entrada
+
+Vários casos de teste. Cada caso tem um número N (0 ≤ N ≤ 9), escrito por extenso ou em algarismos.
+
+### Saída
+
+Para cada caso de teste, o valor convertido.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `1` | `um` |
+| `dois` | `2` |
+
+
+## [1099 - Soma de Ímpares Consecutivos II](https://judge.beecrowd.com/pt/problems/view/1099)
+
+Leia um inteiro N, que é a quantidade de casos de teste. Cada caso tem dois inteiros X e Y. Para cada caso, mostre a soma de todos os números ímpares que estão entre X e Y.
+
+Pelos exemplos, X e Y não entram na soma (o intervalo é aberto) e X pode ser maior que Y.
+
+### Entrada
+
+A primeira linha tem o inteiro N, a quantidade de casos de teste. Cada uma das N linhas seguintes tem dois inteiros, X e Y.
+
+### Saída
+
+Para cada caso, a soma dos ímpares entre X e Y.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `7`<br>`4 5`<br>`13 10`<br>`6 4`<br>`3 3`<br>`3 5`<br>`3 4`<br>`3 8` | `0`<br>`11`<br>`5`<br>`0`<br>`0`<br>`0`<br>`12` |
+
+## [1151 - Fibonacci Fácil](https://judge.beecrowd.com/pt/problems/view/1151)
+
+A sequência 0 1 1 2 3 5 8 13 21… é a série de Fibonacci: a partir do terceiro termo, cada número é a soma dos dois anteriores. Leia um inteiro N e mostre os N primeiros termos da série.
+
+### Entrada
+
+Um valor inteiro N (0 < N < 46).
+
+### Saída
+
+Os termos numa única linha, separados por um espaço, sem espaço depois do último.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `5` | `0 1 1 2 3` |
+
 
 ## 🧱 Exercícios Fundamentais
 

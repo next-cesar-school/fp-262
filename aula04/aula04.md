@@ -104,19 +104,101 @@ nomes_selecionados = []
 | **Flexibilidade** | Mais flexível, pode ser usado para uma variedade de situações baseadas em condições | Menos flexível, pois depende de um iterável ou de uma sequência |
 | **Eficiência** | Pode ser menos eficiente se a condição não for controlada corretamente | Geralmente mais eficiente e fácil de usar em iterações simples |
 
-## 🐝 Exercícios Beecrowd
+# 🐝 Exercícios Beecrowd
 
 -- 💡 Refaça todos os exercícios da aula passada usando `for` --
 
-[1067 - Números Ímpares](https://judge.beecrowd.com/pt/problems/view/1067)
+## [1067 - Números Ímpares](https://judge.beecrowd.com/pt/problems/view/1067)
 
-[1075 - Resto 2](https://judge.beecrowd.com/pt/problems/view/1075)
+Leia um inteiro X (1 ≤ X ≤ 1000) e mostre os números ímpares de 1 até X, um por linha. Se X for ímpar, ele também aparece.
 
-[1172 - Substituição em Vetor I](https://judge.beecrowd.com/pt/problems/view/1172)
+### Entrada
 
-[1095 - Sequencia IJ 1](https://judge.beecrowd.com/pt/problems/view/1095)
+Um valor inteiro qualquer.
 
-[1116 - Dividindo X por Y](https://judge.beecrowd.com/pt/problems/view/1116)
+### Saída
+
+Todos os ímpares de 1 até X, incluindo X se for o caso.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `8` | `1`<br>`3`<br>`5`<br>`7` |
+
+## [1075 - Resto 2](https://judge.beecrowd.com/pt/problems/view/1075)
+
+Leia um inteiro N e mostre todos os números de 1 a 10000 cujo resto da divisão por N é 2.
+
+### Entrada
+
+Um valor inteiro N (N < 10000).
+
+### Saída
+
+Os valores cujo resto da divisão por N é 2, um por linha.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `13` | `2`<br>`15`<br>`28`<br>`41`<br>`...` |
+
+## [1172 - Substituição em Vetor I](https://judge.beecrowd.com/pt/problems/view/1172)
+
+Leia um vetor `X[10]`. Troque por 1 todos os valores iguais a zero ou negativos e depois mostre o vetor.
+
+### Entrada
+
+10 valores inteiros, positivos ou negativos.
+
+### Saída
+
+Para cada posição do vetor, mostre `X[i] = x`, em que `i` é a posição e `x` é o valor guardado nela.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `0`<br>`-5`<br>`63`<br>`0`<br>`...` | `X[0] = 1`<br>`X[1] = 1`<br>`X[2] = 63`<br>`X[3] = 1`<br>`...` |
+
+## [1095 - Sequencia IJ 1](https://judge.beecrowd.com/pt/problems/view/1095)
+
+Mostre a sequência do exemplo abaixo: `I` começa em 1 e aumenta de 3 em 3, `J` começa em 60 e diminui de 5 em 5, até `J` chegar a 0.
+
+### Entrada
+
+Não há entrada.
+
+### Saída
+
+A sequência no formato do exemplo.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| *(sem entrada)* | `I=1 J=60`<br>`I=4 J=55`<br>`I=7 J=50`<br>`...`<br>`I=? J=0` |
+
+## [1116 - Dividindo X por Y](https://judge.beecrowd.com/pt/problems/view/1116)
+
+Leia pares de números e mostre o resultado da divisão do primeiro pelo segundo. Se a divisão não puder ser feita (divisor igual a zero), mostre `divisao impossivel`.
+
+Observação: em linguagens como C e C++, dividir dois inteiros dá um inteiro. Faça a conversão (*cast*) para obter o resultado com casa decimal.
+
+### Entrada
+
+Um inteiro N, que é a quantidade de pares de inteiros (X e Y) que vêm a seguir.
+
+### Saída
+
+Para cada par, o resultado da divisão com um dígito depois do ponto, ou `divisao impossivel` se o cálculo não for possível.
+
+### Exemplos
+
+| Entrada | Saída |
+|---|---|
+| `3`<br>`3 -2`<br>`-8 0`<br>`0 8` | `-1.5`<br>`divisao impossivel`<br>`0.0` |
 
 ## 🧱 Exercícios Fundamentais
 
