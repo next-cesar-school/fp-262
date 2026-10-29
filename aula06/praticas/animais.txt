@@ -1,0 +1,12 @@
+elefante,terrestre
+tambagui,aquatico
+arara,aéreo
+elefante,terrestre
+tambagui,aquatico
+arara,aéreo
+elefante,terrestre
+tambagui,aquatico
+arara,aéreo
+elefante,terrestre
+tambagui,aquatico
+arara,aéreo
