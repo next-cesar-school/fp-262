@@ -22,9 +22,20 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 
 ### 📚 Livros
 
-Para quem gosta de estudar por livros, temos essas sugestões:
+Para quem gosta de estudar por livros, temos essas sugestões.
 
-* Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação (3ª Edição | Eric Matthes)
-* Pense em Python: Pense Como um Cientista da Computação (3ª Edição | Allen B. Downey)
-* Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes (4ª Edição | Nilo Ney Coutinho Menezes)
-* Entendendo Algoritmos, Aditya Y. Bhargava (2017)
+## Para quem está começando:
+
+* **Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação** (3ª Edição | Eric Matthes)
+* **Pense em Python: Pense Como um Cientista da Computação** (3ª Edição | Allen B. Downey)
+* **Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes** (4ª Edição | Nilo Ney Coutinho Menezes)
+* **Entendendo Algoritmos**, Aditya Y. Bhargava (2017)
+
+## Para quem quer apresender a parte de dados:
+
+* **Python para Análise de Dados: Tratamento de Dados com pandas, NumPy & Jupyter** (3ª Edição | Wes McKinney)
+* **Data Science do Zero: Noções Fundamentais com Python** (2ª Edição | Joel Grus)
+* **Estatística Prática para Cientistas de Dados: 50+ Conceitos Essenciais Usando R e Python** (2ª Edição | Peter Bruce, Andrew Bruce e Peter Gedeck)
+* **Estatística Básica** (9ª Edição | Wilton de O. Bussab e Pedro A. Morettin)
+* **Storytelling com Dados: Um Guia Sobre Visualização de Dados Para Profissionais de Negócios**, Cole Nussbaumer Knaflic (2018)
+* **Como Mentir com Estatística**, Darrell Huff (2016)
