@@ -19,3 +19,12 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 09 - Módulos e Pacotes | `em breve` |
 | Aula 10 - Numpy | `em breve` |
 | Aula 11 - Numpy | `em breve` |
+
+### 📚 Livros
+
+Para quem gosta de estudar por livros, temos essas sugestões:
+
+* Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação (3ª Edição | Eric Matthes)
+* Pense em Python: Pense Como um Cientista da Computação (3ª Edição | Allen B. Downey)
+* Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes (4ª Edição | Nilo Ney Coutinho Menezes)
+* Entendendo Algoritmos, Aditya Y. Bhargava (2017)
