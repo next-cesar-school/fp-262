@@ -15,7 +15,7 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 05 - Função | [Conteúdo](/aula05/README.md) - [Práticas](/aula05/praticas/)  - [Exercícios Resolvidos](/aula05/exercicios/) |
 | Aula 06 - Arquivos | [Conteúdo](/aula06/README.md) - [Práticas](/aula06/praticas/)  - [Exercícios Resolvidos](/aula06/exercicios/) |
 | Aula 07 - Tratamento de Exceções | [Conteúdo](/aula07/README.md) - [Práticas](/aula07/praticas/) |
-| Aula 08 - Estruturas de Dados | `em breve` |
+| Aula 08 - Estruturas de Dados | [Conteúdo](/aula08/README.md) |
 | Aula 09 - Módulos e Pacotes | `em breve` |
 | Aula 10 - Numpy | `em breve` |
 | Aula 11 - Numpy | `em breve` |
