@@ -1,0 +1,16 @@
+id_cliente,nome,idade,valor_compra
+1,Ana,28,150.50
+2,Bruno,N/A,200.00
+3,Carlos,45,300.10
+4,Daniela,Trinta,350.25
+5,Eduardo,22,120.00
+6,Fernanda,34,cem reais
+7,Gustavo,29,89.90
+8,Helena,18,50.00
+9,Igor,50
+10,Julia,31,450.75
+11,Kleber,40,N/A
+12,Laura,26,199.99
+13,Marcos,NULL,NULL
+14,Natalia,33,210.00
+15,Oswaldo,,
