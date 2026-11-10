@@ -1,0 +1,901 @@
+id,produto,nota,comentario
+1,Mochila Esportiva,1,A QUALIDADE É HORRÍVEL E QUEBROU NA PRIMEIRA SEMANA. DECEPCIONADO COM O SOM, FRACO DEMAIS...
+2,Fone Bluetooth,3,O atendimento é normal, como esperado!!
+3,Mochila Esportiva,5,Adorei o produto, ficou excelente
+4,Caderno Inteligente,5,Muito bom, recomendo demais.
+5,Smartwatch,1,BARULHENTO E DESCONFORTÁVEL. NÃO RECOMENDO, MUITO RUIM...
+6,Mochila Esportiva,1,Bonito, mas parou de funcionar
+7,Tênis de Corrida,5,AMEI! MELHOR COMPRA DO ANO!
+8,Tênis de Corrida,1,Bonito, mas parou de funcionar...
+9,Mochila Esportiva,3,Ainda estou testando a bateria
+10,Smartwatch,4,Qualidade incrível pelo preço.
+11,Smartwatch,1,PÉSSIMO, O ATENDIMENTO VEIO COM DEFEITO. PIOR COMPRA QUE JÁ FIZ!!
+12,Caderno Inteligente,5,Recomendo, a qualidade é top. Chegou antes do prazo e funciona perfeitamente. Barulhento e desconfortável!
+13,Smartwatch,1,Pior compra que já fiz...
+14,Caderno Inteligente,1,Muito fraco, não vale o preço...
+15,Mochila Esportiva,5,Excelente compra, maravilhoso
+16,Tênis de Corrida,1,Produto frágil, me arrependi
+17,Cafeteira,5,Muito bom, recomendo demais
+18,Caixa de Som,5,Recomendo, o atendimento é top
+19,Fone Bluetooth,1,PAROU DE FUNCIONAR EM POUCOS DIAS, LIXO.
+20,Caderno Inteligente,2,Quebrado e com defeito, quero devolver
+21,Luminária LED,5,Não é ruim, gostei!!
+22,Cafeteira,4,O som é ótimo e chegou rápido...
+23,Mochila Esportiva,5,A qualidade é ótimo e chegou rápido.
+24,Smartwatch,4,Estou satisfeito, o material é muito bom
+25,Caderno Inteligente,2,Decepcionado com o material, fraco demais. O tamanho é ruim e caro
+26,Luminária LED,4,Gostei muito, vale cada centavo!
+27,Fone Bluetooth,3,Produto mediano, nada demais...
+28,Smartwatch,5,Achei que seria fraco, mas não é...
+29,Caixa de Som,5,FUNCIONA BEM E A ENTREGA É BOM
+30,Luminária LED,1,DECEPCIONADO COM A EMBALAGEM, FRACO DEMAIS. PIOR COMPRA QUE JÁ FIZ
+31,Mochila Esportiva,4,Adorei a entrega, ficou excelente!!
+32,Fone Bluetooth,5,Muito bom, recomendo demais!
+33,Mochila Esportiva,3,Nem bom nem ruim.
+34,Mochila Esportiva,4,Nada de defeito, tudo certo
+35,Caixa de Som,5,Muito bom, recomendo demais
+36,Smartwatch,1,ESQUENTOU E TRAVOU, TERRÍVEL!!
+37,Cafeteira,5,Estou satisfeito, a bateria é muito bom. Amei! Melhor compra do ano...
+38,Cafeteira,4,A ENTREGA É ÓTIMO E CHEGOU RÁPIDO
+39,Fone Bluetooth,1,O produto é ruim e caro
+40,Caderno Inteligente,4,Recomendo, o tamanho é top. A entrega é ruim e caro
+41,Fone Bluetooth,2,ATRASOU MUITO E VEIO ERRADO. NÃO RECOMENDO, MUITO RUIM!!
+42,Mochila Esportiva,2,Ótimo... quebrou em dois dias. Parabéns...
+43,Mochila Esportiva,4,Bonito, confortável e resistente
+44,Cafeteira,4,Estou satisfeito, a entrega é muito bom. Chegou antes do prazo e funciona perfeitamente
+45,Luminária LED,5,Chegou antes do prazo e funciona perfeitamente. Amei! Melhor compra do ano.
+46,Caixa de Som,3,Esperava um pouco mais, mas serve
+47,Caixa de Som,3,É razoável para o dia a dia!
+48,Luminária LED,4,Qualidade incrível pelo preço. Bonito, confortável e resistente!!
+49,Fone Bluetooth,1,Péssimo, o material veio com defeito. O atendimento é ruim e caro...
+50,Tênis de Corrida,1,PRODUTO FRÁGIL, ME ARREPENDI.
+51,Mochila Esportiva,2,Esquentou e travou, terrível.
+52,Caderno Inteligente,1,DECEPCIONADO COM O PRODUTO, FRACO DEMAIS!!
+53,Tênis de Corrida,5,NÃO TENHO DO QUE RECLAMAR!
+54,Smartwatch,1,A entrega é ruim e caro. Decepcionado com o tamanho, fraco demais
+55,Cafeteira,4,GOSTEI MUITO, VALE CADA CENTAVO. O TAMANHO É ÓTIMO E CHEGOU RÁPIDO. ESQUENTOU E TRAVOU, TERRÍVEL
+56,Caixa de Som,1,Produto frágil, me arrependi
+57,Smartwatch,1,QUEBRADO E COM DEFEITO, QUERO DEVOLVER. PÉSSIMO, O MATERIAL VEIO COM DEFEITO...
+58,Mochila Esportiva,2,Ótimo... quebrou em dois dias. Parabéns
+59,Smartwatch,5,Recomendo, a entrega é top
+60,Caixa de Som,,DECEPCIONADO COM O TAMANHO, FRACO DEMAIS. O ATENDIMENTO É RUIM E CARO...
+61,Luminária LED,4,Chegou antes do prazo e funciona perfeitamente. Produto perfeito, superou as expectativas!!
+62,Luminária LED,3,Nem bom nem ruim!!
+63,Tênis de Corrida,,Adorei o som, ficou excelente...
+64,Caixa de Som,2,Produto frágil, me arrependi. O material é horrível e quebrou na primeira semana.
+65,Smartwatch,5,Recomendo, o produto é top. Adorei a entrega, ficou excelente
+66,Caixa de Som,3,É razoável para o dia a dia!
+67,Luminária LED,5,Amei! Melhor compra do ano. Gostei muito, vale cada centavo
+68,Smartwatch,1,Barulhento e desconfortável!
+69,Smartwatch,1,Péssimo, o produto veio com defeito. Atrasou muito e veio errado
+70,Caderno Inteligente,5,Chegou antes do prazo e funciona perfeitamente!!
+71,Mochila Esportiva,4,Chegou antes do prazo e funciona perfeitamente
+72,Tênis de Corrida,5,Qualidade incrível pelo preço...
+73,Fone Bluetooth,2,Péssimo, a qualidade veio com defeito!!
+74,Cafeteira,5,A bateria é ótimo e chegou rápido!!
+75,Fone Bluetooth,4,Recomendo, a bateria é top.
+76,Mochila Esportiva,4,Bonito, confortável e resistente!
+77,Luminária LED,5,Recomendo, a bateria é top. Funciona bem e a embalagem é bom
+78,Fone Bluetooth,3,Nem bom nem ruim
+79,Caderno Inteligente,4,A embalagem é ótimo e chegou rápido
+80,Fone Bluetooth,5,Adorei a embalagem, ficou excelente
+81,Mochila Esportiva,2,PÉSSIMO, O ATENDIMENTO VEIO COM DEFEITO
+82,Mochila Esportiva,4,Estou satisfeito, a embalagem é muito bom. Amei! Melhor compra do ano
+83,Mochila Esportiva,3,ESPERAVA UM POUCO MAIS, MAS SERVE!!
+84,Cafeteira,5,Amei! Melhor compra do ano. Chegou antes do prazo e funciona perfeitamente
+85,Cafeteira,3,Chegou no prazo, a qualidade é ok. Estou satisfeito, a bateria é muito bom
+86,Caderno Inteligente,1,Atrasou muito e veio errado.
+87,Tênis de Corrida,5,CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE.
+88,Smartwatch,1,A embalagem é horrível e quebrou na primeira semana. Decepcionado com o som, fraco demais.
+89,Mochila Esportiva,3,Chegou no prazo, a entrega é ok.
+90,Mochila Esportiva,1,Pior compra que já fiz
+91,Cafeteira,5,Chegou antes do prazo e funciona perfeitamente. Gostei muito, vale cada centavo
+92,Caixa de Som,1,Bonito, mas parou de funcionar!
+93,Caixa de Som,2,Péssimo, a qualidade veio com defeito!!
+94,Smartwatch,2,QUEBRADO E COM DEFEITO, QUERO DEVOLVER
+95,Cafeteira,5,Bonito, confortável e resistente. Qualidade incrível pelo preço
+96,Caixa de Som,5,Bonito, confortável e resistente
+97,Fone Bluetooth,5,Qualidade incrível pelo preço
+98,Caderno Inteligente,4,Estou satisfeito, o som é muito bom
+99,Luminária LED,5,Excelente compra, maravilhoso. Bonito, confortável e resistente...
+100,Smartwatch,2,Péssimo, o atendimento veio com defeito. A bateria é horrível e quebrou na primeira semana!
+101,Caixa de Som,1,QUEBRADO E COM DEFEITO, QUERO DEVOLVER!!
+102,Fone Bluetooth,5,Estou satisfeito, o material é muito bom!!
+103,Fone Bluetooth,cinco,É razoável para o dia a dia
+104,Fone Bluetooth,1,Decepcionado com a bateria, fraco demais. Produto frágil, me arrependi...
+105,Cafeteira,5,Achei que seria fraco, mas não é.
+106,Caderno Inteligente,4,Estou satisfeito, a embalagem é muito bom. Produto perfeito, superou as expectativas
+107,Caderno Inteligente,5,Qualidade incrível pelo preço. Produto perfeito, superou as expectativas
+108,Cafeteira,4,Bonito, confortável e resistente...
+109,Caderno Inteligente,1,Muito fraco, não vale o preço...
+110,Smartwatch,5,Gostei muito, vale cada centavo. Funciona bem e a entrega é bom
+111,Fone Bluetooth,5,Produto perfeito, superou as expectativas. Gostei muito, vale cada centavo!
+112,Mochila Esportiva,4,O acabamento é ótimo e chegou rápido.
+113,Fone Bluetooth,1,A embalagem é horrível e quebrou na primeira semana!!
+114,Caderno Inteligente,4,ACHEI QUE SERIA FRACO, MAS NÃO É
+115,Luminária LED,3,É razoável para o dia a dia. Qualidade incrível pelo preço
+116,Tênis de Corrida,1,O produto é horrível e quebrou na primeira semana. Esquentou e travou, terrível...
+117,Caixa de Som,2,Péssimo, a embalagem veio com defeito
+118,Cafeteira,3,Nem bom nem ruim
+119,Luminária LED,5,Gostei muito, vale cada centavo
+120,Caixa de Som,1,Barulhento e desconfortável!
+121,Tênis de Corrida,4,Chegou antes do prazo e funciona perfeitamente...
+122,Smartwatch,5,AMEI! MELHOR COMPRA DO ANO
+123,Caderno Inteligente,5,Qualidade incrível pelo preço
+124,Luminária LED,2,BARULHENTO E DESCONFORTÁVEL!!
+125,Smartwatch,2,O som é ruim e caro...
+126,Fone Bluetooth,1,Pior compra que já fiz. Produto frágil, me arrependi
+127,Tênis de Corrida,1,Pior compra que já fiz!
+128,Fone Bluetooth,2,Não é bom, não recomendo
+129,Cafeteira,4,Qualidade incrível pelo preço!!
+130,Caderno Inteligente,5,Gostei muito, vale cada centavo. Amei! Melhor compra do ano
+131,Tênis de Corrida,3,É RAZOÁVEL PARA O DIA A DIA.
+132,Fone Bluetooth,3,NEM BOM NEM RUIM
+133,Luminária LED,4,Amei! Melhor compra do ano
+134,Smartwatch,2,O acabamento é horrível e quebrou na primeira semana. Barulhento e desconfortável.
+135,Cafeteira,5,MUITO BOM, RECOMENDO DEMAIS. MUITO FRACO, NÃO VALE O PREÇO
+136,Cafeteira,5,Bonito, confortável e resistente. Amei! Melhor compra do ano!
+137,Fone Bluetooth,3,Ainda estou testando a entrega. Quebrado e com defeito, quero devolver!!
+138,Luminária LED,5,Adorei a entrega, ficou excelente. Excelente compra, maravilhoso
+139,Caixa de Som,2,Decepcionado com o atendimento, fraco demais!!
+140,Mochila Esportiva,4,Achei que seria fraco, mas não é
+141,Fone Bluetooth,3,Ainda estou testando a embalagem. Excelente compra, maravilhoso
+142,Cafeteira,5,Funciona bem e a entrega é bom. Chegou antes do prazo e funciona perfeitamente...
+143,Caderno Inteligente,,PAROU DE FUNCIONAR EM POUCOS DIAS, LIXO!
+144,Smartwatch,3,O som é normal, como esperado!!
+145,Fone Bluetooth,5,Adorei o atendimento, ficou excelente. A embalagem é ótimo e chegou rápido!
+146,Fone Bluetooth,5,Muito bom, recomendo demais
+147,Smartwatch,2,Não recomendo, muito ruim
+148,Luminária LED,5,Adorei o som, ficou excelente...
+149,Fone Bluetooth,5,Amei! Melhor compra do ano...
+150,Caixa de Som,1,Produto frágil, me arrependi...
+151,Fone Bluetooth,2,Decepcionado com o produto, fraco demais
+152,Luminária LED,5,Estou satisfeito, o acabamento é muito bom.
+153,Caderno Inteligente,2,Quebrado e com defeito, quero devolver
+154,Fone Bluetooth,4,Adorei o acabamento, ficou excelente
+155,Caderno Inteligente,4,Muito bom, recomendo demais!
+156,Tênis de Corrida,1,Esquentou e travou, terrível. Produto frágil, me arrependi
+157,Caixa de Som,1,Decepcionado com a bateria, fraco demais
+158,Caixa de Som,5,Nada de defeito, tudo certo!!
+159,Smartwatch,1,Esquentou e travou, terrível
+160,Mochila Esportiva,1,Muito fraco, não vale o preço
+161,Luminária LED,4,Qualidade incrível pelo preço. Produto perfeito, superou as expectativas.
+162,Luminária LED,5,Excelente compra, maravilhoso
+163,Caderno Inteligente,2,Muito fraco, não vale o preço!
+164,Fone Bluetooth,5,Produto perfeito, superou as expectativas...
+165,Smartwatch,2,Barulhento e desconfortável!
+166,Tênis de Corrida,5,Muito bom, recomendo demais!
+167,Fone Bluetooth,3,A EMBALAGEM É NORMAL, COMO ESPERADO
+168,Luminária LED,3,Cumpre o que promete. Amei! Melhor compra do ano
+169,Smartwatch,5,Estou satisfeito, o acabamento é muito bom
+170,Smartwatch,5,Bonito, confortável e resistente
+171,Fone Bluetooth,5,Nada de defeito, tudo certo
+172,Smartwatch,1,BARULHENTO E DESCONFORTÁVEL...
+173,Caixa de Som,5,Funciona bem e o som é bom!!
+174,Luminária LED,2,Muito fraco, não vale o preço
+175,Luminária LED,cinco,Gostei muito, vale cada centavo. Funciona bem e o produto é bom!
+176,Tênis de Corrida,1,Decepcionado com a entrega, fraco demais. Decepcionado com o produto, fraco demais
+177,Cafeteira,1,Pior compra que já fiz...
+178,Fone Bluetooth,5,Amei! Melhor compra do ano. Chegou antes do prazo e funciona perfeitamente!
+179,Caixa de Som,2,Produto frágil, me arrependi.
+180,Smartwatch,4,Produto perfeito, superou as expectativas
+181,Tênis de Corrida,1,Muito fraco, não vale o preço
+182,Tênis de Corrida,1,DECEPCIONADO COM A ENTREGA, FRACO DEMAIS. MUITO FRACO, NÃO VALE O PREÇO
+183,Caixa de Som,1,Quebrado e com defeito, quero devolver
+184,Cafeteira,5,Gostei muito, vale cada centavo.
+185,Caixa de Som,3,Esperava um pouco mais, mas serve.
+186,Cafeteira,5,Qualidade incrível pelo preço!!
+187,Tênis de Corrida,5,Recomendo, a qualidade é top!!
+188,Caixa de Som,1,Não gostei, nada bom
+189,Tênis de Corrida,4,QUALIDADE INCRÍVEL PELO PREÇO!
+190,Caderno Inteligente,4,Achei que seria fraco, mas não é.
+191,Fone Bluetooth,4,Estou satisfeito, a qualidade é muito bom
+192,Mochila Esportiva,5,Recomendo, o som é top
+193,Tênis de Corrida,4,Gostei muito, vale cada centavo!!
+194,Smartwatch,5,Bonito, confortável e resistente!!
+195,Smartwatch,1,Muito fraco, não vale o preço. A entrega é ruim e caro
+196,Tênis de Corrida,5,Estou satisfeito, o som é muito bom!!
+197,Tênis de Corrida,2,Esquentou e travou, terrível
+198,Luminária LED,5,Adorei o produto, ficou excelente
+199,Smartwatch,1,O som é ruim e caro!!
+200,Caderno Inteligente,3,É razoável para o dia a dia!!
+201,Caixa de Som,1,Atrasou muito e veio errado. Parou de funcionar em poucos dias, lixo.
+202,Fone Bluetooth,4,Produto perfeito, superou as expectativas. Bonito, confortável e resistente!
+203,Caixa de Som,1,Pior compra que já fiz. Barulhento e desconfortável
+204,Mochila Esportiva,4,Não é ruim, gostei!
+205,Mochila Esportiva,2,Parou de funcionar em poucos dias, lixo
+206,Caderno Inteligente,2,Ótimo... quebrou em dois dias. Parabéns
+207,Caixa de Som,4,Qualidade incrível pelo preço!
+208,Luminária LED,4,Estou satisfeito, a entrega é muito bom. Amei! Melhor compra do ano.
+209,Mochila Esportiva,2,Produto frágil, me arrependi...
+210,Tênis de Corrida,5,Não é ruim, gostei.
+211,Mochila Esportiva,5,EXCELENTE COMPRA, MARAVILHOSO
+212,Smartwatch,1,NÃO RECOMENDO, MUITO RUIM. MUITO FRACO, NÃO VALE O PREÇO!!
+213,Caderno Inteligente,5,Achei que seria fraco, mas não é!!
+214,Caderno Inteligente,2,Bonito, mas parou de funcionar
+215,Luminária LED,2,O som é horrível e quebrou na primeira semana.
+216,Luminária LED,5,Excelente compra, maravilhoso.
+217,Cafeteira,4,Chegou antes do prazo e funciona perfeitamente...
+218,Caderno Inteligente,1,NÃO RECOMENDO, MUITO RUIM!
+219,Tênis de Corrida,2,Quebrado e com defeito, quero devolver...
+220,Fone Bluetooth,3,Cumpre o que promete. Pior compra que já fiz!
+221,Caixa de Som,1,Quebrado e com defeito, quero devolver!!
+222,Fone Bluetooth,2,Pior compra que já fiz. Quebrado e com defeito, quero devolver...
+223,Caderno Inteligente,5,Adorei o som, ficou excelente!
+224,Mochila Esportiva,2,Produto frágil, me arrependi...
+225,Caderno Inteligente,5,Produto perfeito, superou as expectativas. Produto perfeito, superou as expectativas
+226,Cafeteira,4,Chegou antes do prazo e funciona perfeitamente.
+227,Caixa de Som,2,Não é bom, não recomendo
+228,Tênis de Corrida,5,Nada de defeito, tudo certo.
+229,Caderno Inteligente,5,Gostei muito, vale cada centavo. Recomendo, o tamanho é top!
+230,Fone Bluetooth,4,Recomendo, o acabamento é top. Qualidade incrível pelo preço
+231,Tênis de Corrida,5,Gostei muito, vale cada centavo
+232,Tênis de Corrida,5,Achei que seria fraco, mas não é!
+233,Caderno Inteligente,3,É RAZOÁVEL PARA O DIA A DIA. NÃO RECOMENDO, MUITO RUIM
+234,Caixa de Som,5,Achei que seria fraco, mas não é
+235,Luminária LED,4,Gostei muito, vale cada centavo
+236,Fone Bluetooth,2,Quebrado e com defeito, quero devolver
+237,Cafeteira,5,Amei! Melhor compra do ano. Excelente compra, maravilhoso
+238,Cafeteira,3,Ainda estou testando a qualidade...
+239,Cafeteira,3,Nem bom nem ruim.
+240,Caderno Inteligente,1,Não gostei, nada bom!
+241,Tênis de Corrida,4,Estou satisfeito, o material é muito bom. Excelente compra, maravilhoso
+242,Cafeteira,4,Muito bom, recomendo demais
+243,Tênis de Corrida,5,Nada de defeito, tudo certo!
+244,Smartwatch,2,O TAMANHO É RUIM E CARO.
+245,Caixa de Som,5,Funciona bem e o som é bom. Recomendo, a qualidade é top
+246,Smartwatch,1,O produto é ruim e caro. O som é horrível e quebrou na primeira semana!
+247,Smartwatch,2,Não recomendo, muito ruim. Pior compra que já fiz!
+248,Mochila Esportiva,1,PÉSSIMO, O TAMANHO VEIO COM DEFEITO
+249,Caderno Inteligente,4,Funciona bem e o acabamento é bom. Muito bom, recomendo demais.
+250,Luminária LED,5,Não tenho do que reclamar.
+251,Fone Bluetooth,5,Recomendo, o material é top. Estou satisfeito, o tamanho é muito bom. Decepcionado com o produto, fraco demais
+252,Caderno Inteligente,5,Qualidade incrível pelo preço. Amei! Melhor compra do ano
+253,Smartwatch,3,Esperava um pouco mais, mas serve
+254,Fone Bluetooth,2,Pior compra que já fiz
+255,Cafeteira,1,Barulhento e desconfortável. Muito fraco, não vale o preço.
+256,Cafeteira,4,Amei! Melhor compra do ano. Bonito, confortável e resistente!
+257,Smartwatch,1,Ótimo... quebrou em dois dias. Parabéns!!
+258,Mochila Esportiva,1,A embalagem é horrível e quebrou na primeira semana...
+259,Caixa de Som,5,Recomendo, o atendimento é top
+260,Luminária LED,4,Nada de defeito, tudo certo...
+261,Cafeteira,4,Adorei o tamanho, ficou excelente.
+262,Fone Bluetooth,3,É razoável para o dia a dia. O tamanho é ótimo e chegou rápido
+263,Luminária LED,4,Bonito, confortável e resistente.
+264,Smartwatch,2,Decepcionado com o acabamento, fraco demais
+265,Cafeteira,4,Excelente compra, maravilhoso. Muito bom, recomendo demais
+266,Mochila Esportiva,5,Chegou antes do prazo e funciona perfeitamente!!
+267,Tênis de Corrida,2,Produto frágil, me arrependi...
+268,Caixa de Som,1,ESQUENTOU E TRAVOU, TERRÍVEL...
+269,Mochila Esportiva,5,Não é ruim, gostei...
+270,Caderno Inteligente,5,Qualidade incrível pelo preço!
+271,Cafeteira,4,EXCELENTE COMPRA, MARAVILHOSO!
+272,Luminária LED,5,EXCELENTE COMPRA, MARAVILHOSO. BONITO, CONFORTÁVEL E RESISTENTE
+273,Fone Bluetooth,3,Cumpre o que promete
+274,Luminária LED,5,Adorei a embalagem, ficou excelente. Estou satisfeito, a entrega é muito bom!
+275,Caderno Inteligente,5,Amei! Melhor compra do ano!
+276,Cafeteira,3,PRODUTO MEDIANO, NADA DEMAIS...
+277,Caderno Inteligente,2,Péssimo, o atendimento veio com defeito...
+278,Smartwatch,3,Produto mediano, nada demais...
+279,Luminária LED,5,A qualidade é ótimo e chegou rápido!!
+280,Mochila Esportiva,4,Estou satisfeito, o material é muito bom
+281,Fone Bluetooth,2,Quebrado e com defeito, quero devolver
+282,Tênis de Corrida,2,Pior compra que já fiz
+283,Caderno Inteligente,1,Não gostei, nada bom
+284,Cafeteira,4,Funciona bem e a embalagem é bom
+285,Smartwatch,1,Péssimo, o som veio com defeito
+286,Smartwatch,4,Recomendo, a entrega é top. Amei! Melhor compra do ano
+287,Cafeteira,1,NÃO É BOM, NÃO RECOMENDO
+288,Mochila Esportiva,5,Recomendo, o tamanho é top
+289,Smartwatch,5,Muito bom, recomendo demais...
+290,Caixa de Som,1,Parou de funcionar em poucos dias, lixo...
+291,Fone Bluetooth,3,Ainda estou testando a qualidade. Bonito, confortável e resistente
+292,Caderno Inteligente,2,Pior compra que já fiz
+293,Tênis de Corrida,4,Gostei muito, vale cada centavo
+294,Cafeteira,3,Produto mediano, nada demais. O som é ruim e caro!!
+295,Caixa de Som,3,Produto mediano, nada demais!!
+296,Fone Bluetooth,5,BONITO, CONFORTÁVEL E RESISTENTE. QUEBRADO E COM DEFEITO, QUERO DEVOLVER
+297,Caixa de Som,3,O som é normal, como esperado...
+298,Caderno Inteligente,5,Muito bom, recomendo demais. Bonito, confortável e resistente.
+299,Cafeteira,3,Chegou no prazo, a entrega é ok
+300,Smartwatch,1,O som é ruim e caro
+301,Cafeteira,4,Adorei a embalagem, ficou excelente
+302,Luminária LED,5,CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE.
+303,Tênis de Corrida,,Recomendo, o tamanho é top...
+304,Mochila Esportiva,3,Nem bom nem ruim.
+305,Caixa de Som,cinco,Parou de funcionar em poucos dias, lixo. Péssimo, o atendimento veio com defeito
+306,Caderno Inteligente,3,A embalagem é normal, como esperado
+307,Mochila Esportiva,,Esperava um pouco mais, mas serve!!
+308,Mochila Esportiva,4,Produto perfeito, superou as expectativas
+309,Tênis de Corrida,2,ESQUENTOU E TRAVOU, TERRÍVEL
+310,Fone Bluetooth,5,Amei! Melhor compra do ano
+311,Luminária LED,4,Nada de defeito, tudo certo.
+312,Tênis de Corrida,5,Chegou antes do prazo e funciona perfeitamente. Produto frágil, me arrependi!!
+313,Smartwatch,2,BARULHENTO E DESCONFORTÁVEL. PAROU DE FUNCIONAR EM POUCOS DIAS, LIXO!!
+314,Luminária LED,5,Funciona bem e a embalagem é bom. Recomendo, a bateria é top
+315,Smartwatch,1,Pior compra que já fiz
+316,Tênis de Corrida,2,Bonito, mas parou de funcionar!
+317,Caderno Inteligente,4,Qualidade incrível pelo preço
+318,Mochila Esportiva,4,O atendimento é ótimo e chegou rápido
+319,Tênis de Corrida,1,Péssimo, a entrega veio com defeito!
+320,Caixa de Som,2,Muito fraco, não vale o preço
+321,Luminária LED,cinco,Recomendo, a bateria é top. Excelente compra, maravilhoso. Barulhento e desconfortável
+322,Mochila Esportiva,5,Qualidade incrível pelo preço...
+323,Luminária LED,4,Adorei a embalagem, ficou excelente. Gostei muito, vale cada centavo
+324,Fone Bluetooth,5,Muito bom, recomendo demais. Gostei muito, vale cada centavo!
+325,Cafeteira,cinco,Muito bom, recomendo demais. Estou satisfeito, o produto é muito bom
+326,Caderno Inteligente,4,QUALIDADE INCRÍVEL PELO PREÇO
+327,Caixa de Som,5,MUITO BOM, RECOMENDO DEMAIS. FUNCIONA BEM E A QUALIDADE É BOM!!
+328,Luminária LED,5,NÃO É RUIM, GOSTEI!!
+329,Tênis de Corrida,4,NÃO TENHO DO QUE RECLAMAR
+330,Luminária LED,4,O tamanho é ótimo e chegou rápido!!
+331,Smartwatch,5,Nada de defeito, tudo certo
+332,Cafeteira,5,Gostei muito, vale cada centavo. Decepcionado com a embalagem, fraco demais.
+333,Caixa de Som,1,Não é bom, não recomendo.
+334,Cafeteira,5,Gostei muito, vale cada centavo
+335,Tênis de Corrida,3,É razoável para o dia a dia.
+336,Smartwatch,1,Atrasou muito e veio errado...
+337,Luminária LED,,MUITO BOM, RECOMENDO DEMAIS. ADOREI A BATERIA, FICOU EXCELENTE
+338,Caderno Inteligente,5,Excelente compra, maravilhoso
+339,Caixa de Som,1,PIOR COMPRA QUE JÁ FIZ
+340,Fone Bluetooth,2,Produto frágil, me arrependi
+341,Caixa de Som,3,ESPERAVA UM POUCO MAIS, MAS SERVE!
+342,Tênis de Corrida,5,Nada de defeito, tudo certo
+343,Luminária LED,5,Estou satisfeito, o material é muito bom!!
+344,Luminária LED,4,Recomendo, o material é top!
+345,Cafeteira,1,Barulhento e desconfortável!!
+346,Caixa de Som,2,Barulhento e desconfortável.
+347,Mochila Esportiva,2,Não é bom, não recomendo!
+348,Caderno Inteligente,5,A QUALIDADE É ÓTIMO E CHEGOU RÁPIDO.
+349,Tênis de Corrida,4,Recomendo, o som é top. Excelente compra, maravilhoso
+350,Caderno Inteligente,4,O material é ótimo e chegou rápido. Quebrado e com defeito, quero devolver...
+351,Cafeteira,1,Barulhento e desconfortável. Decepcionado com o som, fraco demais!!
+352,Caderno Inteligente,4,O produto é ótimo e chegou rápido. Excelente compra, maravilhoso!!
+353,Mochila Esportiva,4,Qualidade incrível pelo preço
+354,Cafeteira,4,AMEI! MELHOR COMPRA DO ANO. QUALIDADE INCRÍVEL PELO PREÇO...
+355,Smartwatch,1,Atrasou muito e veio errado!
+356,Caixa de Som,1,Esquentou e travou, terrível!!
+357,Caixa de Som,1,Pior compra que já fiz. Produto frágil, me arrependi.
+358,Cafeteira,5,Qualidade incrível pelo preço...
+359,Caixa de Som,3,É razoável para o dia a dia!
+360,Luminária LED,2,Esquentou e travou, terrível
+361,Caderno Inteligente,3,ESPERAVA UM POUCO MAIS, MAS SERVE...
+362,Mochila Esportiva,2,A bateria é ruim e caro
+363,Cafeteira,2,Esquentou e travou, terrível
+364,Fone Bluetooth,5,Produto perfeito, superou as expectativas
+365,Tênis de Corrida,5,Não tenho do que reclamar.
+366,Mochila Esportiva,4,Recomendo, a qualidade é top...
+367,Caixa de Som,2,Produto frágil, me arrependi!
+368,Smartwatch,5,GOSTEI MUITO, VALE CADA CENTAVO!!
+369,Caderno Inteligente,5,Adorei a embalagem, ficou excelente. Muito bom, recomendo demais
+370,Smartwatch,2,O acabamento é ruim e caro. Produto frágil, me arrependi!!
+371,Tênis de Corrida,3,Produto mediano, nada demais...
+372,Caderno Inteligente,,Excelente compra, maravilhoso!!
+373,Mochila Esportiva,1,Péssimo, a embalagem veio com defeito...
+374,Caixa de Som,3,Esperava um pouco mais, mas serve. Excelente compra, maravilhoso!!
+375,Tênis de Corrida,3,Cumpre o que promete!!
+376,Mochila Esportiva,5,Bonito, confortável e resistente
+377,Tênis de Corrida,5,Excelente compra, maravilhoso
+378,Caixa de Som,5,NÃO TENHO DO QUE RECLAMAR
+379,Fone Bluetooth,4,Chegou antes do prazo e funciona perfeitamente!
+380,Smartwatch,2,DECEPCIONADO COM A EMBALAGEM, FRACO DEMAIS!
+381,Tênis de Corrida,4,Bonito, confortável e resistente!!
+382,Smartwatch,5,Qualidade incrível pelo preço!!
+383,Caixa de Som,2,O material é ruim e caro
+384,Luminária LED,5,Estou satisfeito, a bateria é muito bom!
+385,Caixa de Som,2,PAROU DE FUNCIONAR EM POUCOS DIAS, LIXO
+386,Tênis de Corrida,3,Ainda estou testando o material!!
+387,Fone Bluetooth,5,Estou satisfeito, a qualidade é muito bom. Produto perfeito, superou as expectativas
+388,Fone Bluetooth,5,Amei! Melhor compra do ano
+389,Fone Bluetooth,5,ADOREI O SOM, FICOU EXCELENTE...
+390,Luminária LED,3,É razoável para o dia a dia
+391,Caixa de Som,1,MUITO FRACO, NÃO VALE O PREÇO. PRODUTO FRÁGIL, ME ARREPENDI.
+392,Luminária LED,5,Não é ruim, gostei.
+393,Tênis de Corrida,3,A qualidade é normal, como esperado.
+394,Smartwatch,2,Quebrado e com defeito, quero devolver. Esquentou e travou, terrível
+395,Tênis de Corrida,3,O acabamento é normal, como esperado
+396,Mochila Esportiva,4,Funciona bem e o tamanho é bom
+397,Luminária LED,4,A entrega é ótimo e chegou rápido. Amei! Melhor compra do ano
+398,Tênis de Corrida,5,Produto perfeito, superou as expectativas. Estou satisfeito, a qualidade é muito bom...
+399,Cafeteira,4,Adorei a bateria, ficou excelente...
+400,Caderno Inteligente,1,Atrasou muito e veio errado!!
+401,Fone Bluetooth,3,É razoável para o dia a dia.
+402,Caderno Inteligente,3,Nem bom nem ruim!!
+403,Luminária LED,2,Decepcionado com a embalagem, fraco demais!
+404,Caderno Inteligente,3,A embalagem é normal, como esperado. Amei! Melhor compra do ano
+405,Fone Bluetooth,4,Produto perfeito, superou as expectativas. Gostei muito, vale cada centavo.
+406,Cafeteira,5,Estou satisfeito, a qualidade é muito bom!
+407,Smartwatch,3,CUMPRE O QUE PROMETE
+408,Smartwatch,4,O SOM É ÓTIMO E CHEGOU RÁPIDO...
+409,Caixa de Som,5,MUITO BOM, RECOMENDO DEMAIS
+410,Caixa de Som,4,O som é ótimo e chegou rápido...
+411,Cafeteira,3,É razoável para o dia a dia
+412,Tênis de Corrida,5,Muito bom, recomendo demais!
+413,Cafeteira,5,Chegou antes do prazo e funciona perfeitamente!!
+414,Caixa de Som,1,Parou de funcionar em poucos dias, lixo
+415,Caderno Inteligente,5,Recomendo, o acabamento é top. Produto perfeito, superou as expectativas!
+416,Tênis de Corrida,4,Recomendo, o tamanho é top.
+417,Cafeteira,3,Produto mediano, nada demais. Péssimo, o tamanho veio com defeito
+418,Caderno Inteligente,5,Muito bom, recomendo demais!
+419,Cafeteira,5,Qualidade incrível pelo preço!
+420,Tênis de Corrida,3,Cumpre o que promete
+421,Caderno Inteligente,5,Qualidade incrível pelo preço. Recomendo, o atendimento é top!!
+422,Smartwatch,3,A entrega é normal, como esperado!!
+423,Smartwatch,1,Ótimo... quebrou em dois dias. Parabéns
+424,Mochila Esportiva,5,Qualidade incrível pelo preço
+425,Caixa de Som,2,Decepcionado com o material, fraco demais.
+426,Luminária LED,4,Chegou antes do prazo e funciona perfeitamente. Recomendo, o acabamento é top
+427,Fone Bluetooth,3,Chegou no prazo, o produto é ok
+428,Cafeteira,cinco,Barulhento e desconfortável. Pior compra que já fiz!
+429,Mochila Esportiva,3,Chegou no prazo, a embalagem é ok
+430,Tênis de Corrida,2,Quebrado e com defeito, quero devolver!
+431,Tênis de Corrida,2,Bonito, mas parou de funcionar!!
+432,Smartwatch,5,AMEI! MELHOR COMPRA DO ANO. QUALIDADE INCRÍVEL PELO PREÇO. PRODUTO FRÁGIL, ME ARREPENDI!!
+433,Luminária LED,4,O tamanho é ótimo e chegou rápido!!
+434,Mochila Esportiva,2,Produto frágil, me arrependi
+435,Caixa de Som,3,É razoável para o dia a dia
+436,Caixa de Som,2,O MATERIAL É RUIM E CARO!!
+437,Fone Bluetooth,4,O ACABAMENTO É ÓTIMO E CHEGOU RÁPIDO!
+438,Tênis de Corrida,4,Qualidade incrível pelo preço.
+439,Tênis de Corrida,4,Chegou antes do prazo e funciona perfeitamente. Qualidade incrível pelo preço!!
+440,Luminária LED,5,Amei! Melhor compra do ano...
+441,Caderno Inteligente,2,O tamanho é ruim e caro...
+442,Caixa de Som,1,Pior compra que já fiz. A qualidade é ruim e caro...
+443,Tênis de Corrida,5,Amei! Melhor compra do ano
+444,Caderno Inteligente,1,Ótimo... quebrou em dois dias. Parabéns!!
+445,Cafeteira,3,Chegou no prazo, a entrega é ok!
+446,Cafeteira,1,Não é bom, não recomendo
+447,Tênis de Corrida,3,Chegou no prazo, a entrega é ok
+448,Caderno Inteligente,4,Muito bom, recomendo demais. Amei! Melhor compra do ano
+449,Cafeteira,5,Nada de defeito, tudo certo.
+450,Fone Bluetooth,4,Amei! Melhor compra do ano
+451,Smartwatch,1,Decepcionado com a embalagem, fraco demais. Parou de funcionar em poucos dias, lixo
+452,Mochila Esportiva,5,Não é ruim, gostei
+453,Luminária LED,5,Amei! Melhor compra do ano. Adorei o tamanho, ficou excelente...
+454,Tênis de Corrida,5,Estou satisfeito, o tamanho é muito bom. A qualidade é ruim e caro
+455,Cafeteira,4,Muito bom, recomendo demais. Recomendo, a embalagem é top.
+456,Luminária LED,5,Qualidade incrível pelo preço. Produto frágil, me arrependi!!
+457,Caixa de Som,2,Ótimo... quebrou em dois dias. Parabéns.
+458,Fone Bluetooth,5,Chegou antes do prazo e funciona perfeitamente. Adorei a embalagem, ficou excelente
+459,Cafeteira,5,Excelente compra, maravilhoso. Adorei o atendimento, ficou excelente!
+460,Smartwatch,1,Quebrado e com defeito, quero devolver!
+461,Caderno Inteligente,5,EXCELENTE COMPRA, MARAVILHOSO...
+462,Cafeteira,5,EXCELENTE COMPRA, MARAVILHOSO...
+463,Mochila Esportiva,1,Muito fraco, não vale o preço.
+464,Mochila Esportiva,4,Bonito, confortável e resistente
+465,Fone Bluetooth,3,É razoável para o dia a dia
+466,Tênis de Corrida,5,Bonito, confortável e resistente!
+467,Luminária LED,5,A ENTREGA É ÓTIMO E CHEGOU RÁPIDO. O SOM É ÓTIMO E CHEGOU RÁPIDO
+468,Luminária LED,5,Gostei muito, vale cada centavo
+469,Smartwatch,4,Achei que seria fraco, mas não é.
+470,Smartwatch,cinco,QUEBRADO E COM DEFEITO, QUERO DEVOLVER. ESQUENTOU E TRAVOU, TERRÍVEL
+471,Caixa de Som,2,BONITO, MAS PAROU DE FUNCIONAR...
+472,Caixa de Som,5,O MATERIAL É ÓTIMO E CHEGOU RÁPIDO. CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE
+473,Fone Bluetooth,2,Ótimo... quebrou em dois dias. Parabéns!!
+474,Caixa de Som,4,Produto perfeito, superou as expectativas!!
+475,Caderno Inteligente,2,Decepcionado com o acabamento, fraco demais. Péssimo, a entrega veio com defeito
+476,Cafeteira,4,Recomendo, o atendimento é top
+477,Caderno Inteligente,4,Muito bom, recomendo demais
+478,Smartwatch,2,Bonito, mas parou de funcionar.
+479,Cafeteira,5,Bonito, confortável e resistente
+480,Cafeteira,5,Qualidade incrível pelo preço. Excelente compra, maravilhoso...
+481,Smartwatch,cinco,Nada de defeito, tudo certo
+482,Smartwatch,1,MUITO FRACO, NÃO VALE O PREÇO. PRODUTO FRÁGIL, ME ARREPENDI!!
+483,Luminária LED,1,QUEBRADO E COM DEFEITO, QUERO DEVOLVER. PAROU DE FUNCIONAR EM POUCOS DIAS, LIXO...
+484,Luminária LED,5,Adorei o produto, ficou excelente. Parou de funcionar em poucos dias, lixo
+485,Luminária LED,5,Gostei muito, vale cada centavo
+486,Caixa de Som,2,Parou de funcionar em poucos dias, lixo.
+487,Tênis de Corrida,4,Funciona bem e a embalagem é bom!
+488,Fone Bluetooth,4,Excelente compra, maravilhoso...
+489,Luminária LED,5,Amei! Melhor compra do ano...
+490,Caderno Inteligente,4,Chegou antes do prazo e funciona perfeitamente. Qualidade incrível pelo preço
+491,Mochila Esportiva,3,É RAZOÁVEL PARA O DIA A DIA!
+492,Mochila Esportiva,4,Adorei o tamanho, ficou excelente. Chegou antes do prazo e funciona perfeitamente.
+493,Luminária LED,5,Qualidade incrível pelo preço!!
+494,Fone Bluetooth,4,O produto é ótimo e chegou rápido
+495,Mochila Esportiva,2,Não é bom, não recomendo!
+496,Caixa de Som,3,Nem bom nem ruim.
+497,Caderno Inteligente,5,Muito bom, recomendo demais
+498,Mochila Esportiva,5,Muito bom, recomendo demais
+499,Luminária LED,5,Recomendo, a qualidade é top.
+500,Caixa de Som,4,Estou satisfeito, a qualidade é muito bom.
+501,Tênis de Corrida,1,MUITO FRACO, NÃO VALE O PREÇO
+502,Cafeteira,4,Muito bom, recomendo demais. Gostei muito, vale cada centavo
+503,Tênis de Corrida,5,BONITO, CONFORTÁVEL E RESISTENTE. FUNCIONA BEM E A ENTREGA É BOM.
+504,Smartwatch,4,Muito bom, recomendo demais...
+505,Tênis de Corrida,1,Barulhento e desconfortável. Péssimo, a bateria veio com defeito.
+506,Smartwatch,1,A bateria é ruim e caro
+507,Caderno Inteligente,5,AMEI! MELHOR COMPRA DO ANO
+508,Caixa de Som,5,ESTOU SATISFEITO, A EMBALAGEM É MUITO BOM
+509,Caderno Inteligente,4,Chegou antes do prazo e funciona perfeitamente. Funciona bem e o produto é bom
+510,Caderno Inteligente,2,Não recomendo, muito ruim!!
+511,Caderno Inteligente,4,Estou satisfeito, a entrega é muito bom...
+512,Smartwatch,1,Não é bom, não recomendo
+513,Luminária LED,4,Adorei o produto, ficou excelente.
+514,Luminária LED,5,Muito bom, recomendo demais...
+515,Caderno Inteligente,3,É razoável para o dia a dia
+516,Tênis de Corrida,2,Produto frágil, me arrependi...
+517,Luminária LED,4,Não é ruim, gostei
+518,Cafeteira,5,Não é ruim, gostei.
+519,Tênis de Corrida,5,Não tenho do que reclamar!!
+520,Caderno Inteligente,1,Pior compra que já fiz
+521,Cafeteira,3,Esperava um pouco mais, mas serve!!
+522,Cafeteira,4,Chegou antes do prazo e funciona perfeitamente. Pior compra que já fiz...
+523,Fone Bluetooth,3,Chegou no prazo, a embalagem é ok.
+524,Caixa de Som,1,Esquentou e travou, terrível. Atrasou muito e veio errado
+525,Caderno Inteligente,4,Funciona bem e o produto é bom!!
+526,Smartwatch,1,A bateria é ruim e caro. O produto é ruim e caro...
+527,Smartwatch,1,Não gostei, nada bom!!
+528,Caderno Inteligente,4,Não é ruim, gostei
+529,Smartwatch,3,Produto mediano, nada demais
+530,Luminária LED,4,ESTOU SATISFEITO, O MATERIAL É MUITO BOM.
+531,Caderno Inteligente,5,Qualidade incrível pelo preço.
+532,Mochila Esportiva,5,Excelente compra, maravilhoso!
+533,Mochila Esportiva,2,O atendimento é ruim e caro. O material é ruim e caro.
+534,Smartwatch,5,Recomendo, a entrega é top. Não recomendo, muito ruim
+535,Cafeteira,4,Recomendo, o material é top. Quebrado e com defeito, quero devolver.
+536,Caixa de Som,1,Barulhento e desconfortável
+537,Smartwatch,4,Estou satisfeito, o som é muito bom
+538,Fone Bluetooth,5,CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE...
+539,Luminária LED,4,Gostei muito, vale cada centavo!
+540,Caderno Inteligente,3,Nem bom nem ruim
+541,Cafeteira,5,Gostei muito, vale cada centavo
+542,Caderno Inteligente,1,PAROU DE FUNCIONAR EM POUCOS DIAS, LIXO. QUEBRADO E COM DEFEITO, QUERO DEVOLVER
+543,Caixa de Som,2,Não recomendo, muito ruim. Muito fraco, não vale o preço...
+544,Cafeteira,cinco,Chegou no prazo, o atendimento é ok. Não recomendo, muito ruim
+545,Cafeteira,5,Excelente compra, maravilhoso
+546,Tênis de Corrida,5,Excelente compra, maravilhoso. Qualidade incrível pelo preço
+547,Tênis de Corrida,1,Decepcionado com a entrega, fraco demais. Pior compra que já fiz
+548,Tênis de Corrida,,Produto perfeito, superou as expectativas...
+549,Smartwatch,4,A entrega é ótimo e chegou rápido. Estou satisfeito, a bateria é muito bom
+550,Cafeteira,5,Produto perfeito, superou as expectativas!
+551,Tênis de Corrida,1,Decepcionado com o acabamento, fraco demais.
+552,Fone Bluetooth,5,Qualidade incrível pelo preço
+553,Smartwatch,2,Não recomendo, muito ruim. Pior compra que já fiz.
+554,Tênis de Corrida,5,Achei que seria fraco, mas não é!!
+555,Tênis de Corrida,2,Péssimo, o produto veio com defeito. Parou de funcionar em poucos dias, lixo
+556,Mochila Esportiva,3,Esperava um pouco mais, mas serve. Qualidade incrível pelo preço.
+557,Tênis de Corrida,3,Chegou no prazo, o atendimento é ok...
+558,Cafeteira,4,Chegou antes do prazo e funciona perfeitamente. Estou satisfeito, a bateria é muito bom.
+559,Caderno Inteligente,4,Chegou antes do prazo e funciona perfeitamente. Bonito, confortável e resistente!
+560,Tênis de Corrida,5,ADOREI A EMBALAGEM, FICOU EXCELENTE. MUITO BOM, RECOMENDO DEMAIS
+561,Cafeteira,5,Chegou antes do prazo e funciona perfeitamente
+562,Fone Bluetooth,3,Esperava um pouco mais, mas serve!
+563,Smartwatch,5,AMEI! MELHOR COMPRA DO ANO. ATRASOU MUITO E VEIO ERRADO
+564,Fone Bluetooth,4,Funciona bem e o tamanho é bom. Excelente compra, maravilhoso. Não recomendo, muito ruim.
+565,Fone Bluetooth,3,Cumpre o que promete. Péssimo, a qualidade veio com defeito
+566,Caderno Inteligente,4,ADOREI O TAMANHO, FICOU EXCELENTE. FUNCIONA BEM E A ENTREGA É BOM.
+567,Smartwatch,5,Amei! Melhor compra do ano. Gostei muito, vale cada centavo!!
+568,Smartwatch,1,Não recomendo, muito ruim.
+569,Fone Bluetooth,5,Gostei muito, vale cada centavo. Não recomendo, muito ruim
+570,Luminária LED,1,Pior compra que já fiz...
+571,Fone Bluetooth,3,Produto mediano, nada demais. Adorei a embalagem, ficou excelente
+572,Smartwatch,2,Não gostei, nada bom
+573,Caderno Inteligente,1,PÉSSIMO, O ATENDIMENTO VEIO COM DEFEITO
+574,Caixa de Som,1,Muito fraco, não vale o preço. Esquentou e travou, terrível
+575,Smartwatch,2,O som é ruim e caro. A entrega é horrível e quebrou na primeira semana
+576,Caderno Inteligente,5,Produto perfeito, superou as expectativas. Qualidade incrível pelo preço!!
+577,Mochila Esportiva,1,Não recomendo, muito ruim!!
+578,Cafeteira,3,Esperava um pouco mais, mas serve. Quebrado e com defeito, quero devolver!!
+579,Caixa de Som,4,Chegou antes do prazo e funciona perfeitamente
+580,Fone Bluetooth,5,Amei! Melhor compra do ano
+581,Fone Bluetooth,5,Amei! Melhor compra do ano
+582,Tênis de Corrida,3,O produto é normal, como esperado.
+583,Luminária LED,3,Esperava um pouco mais, mas serve. Gostei muito, vale cada centavo
+584,Cafeteira,5,Produto perfeito, superou as expectativas.
+585,Caderno Inteligente,3,O atendimento é normal, como esperado
+586,Smartwatch,2,A embalagem é horrível e quebrou na primeira semana!
+587,Luminária LED,5,PRODUTO PERFEITO, SUPEROU AS EXPECTATIVAS...
+588,Caixa de Som,4,Muito bom, recomendo demais
+589,Luminária LED,4,O produto é ótimo e chegou rápido. Estou satisfeito, o tamanho é muito bom
+590,Fone Bluetooth,5,Funciona bem e o som é bom...
+591,Smartwatch,1,Pior compra que já fiz. Pior compra que já fiz
+592,Mochila Esportiva,1,Não é bom, não recomendo
+593,Caderno Inteligente,3,É razoável para o dia a dia. Chegou antes do prazo e funciona perfeitamente
+594,Fone Bluetooth,,Gostei muito, vale cada centavo. Qualidade incrível pelo preço...
+595,Fone Bluetooth,4,Nada de defeito, tudo certo...
+596,Smartwatch,1,Atrasou muito e veio errado...
+597,Luminária LED,3,CUMPRE O QUE PROMETE!!
+598,Tênis de Corrida,5,Bonito, confortável e resistente. Estou satisfeito, o som é muito bom!
+599,Caixa de Som,4,AMEI! MELHOR COMPRA DO ANO. AMEI! MELHOR COMPRA DO ANO
+600,Mochila Esportiva,5,Amei! Melhor compra do ano
+601,Caixa de Som,3,Nem bom nem ruim...
+602,Caixa de Som,1,Não recomendo, muito ruim. Parou de funcionar em poucos dias, lixo
+603,Caixa de Som,3,Cumpre o que promete
+604,Fone Bluetooth,1,A entrega é horrível e quebrou na primeira semana.
+605,Fone Bluetooth,3,CHEGOU NO PRAZO, A QUALIDADE É OK. MUITO BOM, RECOMENDO DEMAIS
+606,Mochila Esportiva,3,NEM BOM NEM RUIM
+607,Luminária LED,5,Adorei a qualidade, ficou excelente. Estou satisfeito, o tamanho é muito bom.
+608,Mochila Esportiva,3,O atendimento é normal, como esperado
+609,Luminária LED,5,Achei que seria fraco, mas não é...
+610,Mochila Esportiva,3,Esperava um pouco mais, mas serve!!
+611,Mochila Esportiva,5,Estou satisfeito, o tamanho é muito bom
+612,Cafeteira,4,Chegou antes do prazo e funciona perfeitamente!
+613,Mochila Esportiva,4,O material é ótimo e chegou rápido. A qualidade é ótimo e chegou rápido!!
+614,Tênis de Corrida,5,Estou satisfeito, o acabamento é muito bom
+615,Smartwatch,1,Bonito, mas parou de funcionar
+616,Fone Bluetooth,1,A qualidade é ruim e caro...
+617,Mochila Esportiva,5,Bonito, confortável e resistente. Adorei a embalagem, ficou excelente.
+618,Caderno Inteligente,3,Nem bom nem ruim
+619,Mochila Esportiva,1,O som é ruim e caro
+620,Fone Bluetooth,2,Muito fraco, não vale o preço. O tamanho é horrível e quebrou na primeira semana
+621,Luminária LED,1,Esquentou e travou, terrível!!
+622,Fone Bluetooth,3,Produto mediano, nada demais!
+623,Caderno Inteligente,4,Gostei muito, vale cada centavo. Quebrado e com defeito, quero devolver
+624,Caderno Inteligente,4,Amei! Melhor compra do ano. Estou satisfeito, o produto é muito bom
+625,Luminária LED,3,Ainda estou testando o atendimento...
+626,Cafeteira,3,O tamanho é normal, como esperado. Produto frágil, me arrependi...
+627,Luminária LED,1,Barulhento e desconfortável
+628,Tênis de Corrida,5,Chegou antes do prazo e funciona perfeitamente. Qualidade incrível pelo preço.
+629,Smartwatch,2,Decepcionado com o material, fraco demais...
+630,Smartwatch,3,A entrega é normal, como esperado!!
+631,Mochila Esportiva,1,Barulhento e desconfortável.
+632,Mochila Esportiva,1,A embalagem é ruim e caro. Parou de funcionar em poucos dias, lixo...
+633,Caderno Inteligente,3,Produto mediano, nada demais!!
+634,Caixa de Som,2,Não recomendo, muito ruim. Muito fraco, não vale o preço.
+635,Caixa de Som,2,O material é horrível e quebrou na primeira semana. O material é horrível e quebrou na primeira semana.
+636,Tênis de Corrida,5,Amei! Melhor compra do ano
+637,Caixa de Som,2,PIOR COMPRA QUE JÁ FIZ
+638,Luminária LED,2,Não recomendo, muito ruim!
+639,Luminária LED,5,Não tenho do que reclamar!!
+640,Smartwatch,5,Gostei muito, vale cada centavo...
+641,Smartwatch,1,Quebrado e com defeito, quero devolver...
+642,Cafeteira,5,PRODUTO PERFEITO, SUPEROU AS EXPECTATIVAS
+643,Tênis de Corrida,3,É razoável para o dia a dia!!
+644,Mochila Esportiva,5,Estou satisfeito, o som é muito bom!!
+645,Cafeteira,5,Chegou antes do prazo e funciona perfeitamente
+646,Luminária LED,4,Amei! Melhor compra do ano.
+647,Luminária LED,5,Estou satisfeito, a bateria é muito bom. Muito bom, recomendo demais
+648,Luminária LED,5,Qualidade incrível pelo preço
+649,Tênis de Corrida,3,É razoável para o dia a dia!
+650,Luminária LED,3,PRODUTO MEDIANO, NADA DEMAIS
+651,Mochila Esportiva,4,Nada de defeito, tudo certo.
+652,Caixa de Som,2,QUEBRADO E COM DEFEITO, QUERO DEVOLVER!
+653,Cafeteira,4,Amei! Melhor compra do ano
+654,Tênis de Corrida,1,Pior compra que já fiz. Barulhento e desconfortável!
+655,Fone Bluetooth,2,Muito fraco, não vale o preço!
+656,Fone Bluetooth,1,Produto frágil, me arrependi...
+657,Luminária LED,5,Bonito, confortável e resistente. Muito bom, recomendo demais
+658,Luminária LED,5,Qualidade incrível pelo preço. Adorei o material, ficou excelente
+659,Tênis de Corrida,5,Amei! Melhor compra do ano.
+660,Luminária LED,5,AMEI! MELHOR COMPRA DO ANO. CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE. PIOR COMPRA QUE JÁ FIZ
+661,Luminária LED,5,Muito bom, recomendo demais
+662,Smartwatch,2,Quebrado e com defeito, quero devolver. Esquentou e travou, terrível!!
+663,Luminária LED,5,Muito bom, recomendo demais!
+664,Tênis de Corrida,4,Muito bom, recomendo demais. Muito bom, recomendo demais
+665,Cafeteira,4,Funciona bem e o produto é bom
+666,Luminária LED,5,Adorei o produto, ficou excelente...
+667,Cafeteira,4,Bonito, confortável e resistente
+668,Mochila Esportiva,4,Gostei muito, vale cada centavo. Esquentou e travou, terrível
+669,Mochila Esportiva,1,Não gostei, nada bom
+670,Cafeteira,5,O material é ótimo e chegou rápido. Gostei muito, vale cada centavo
+671,Tênis de Corrida,1,Péssimo, o atendimento veio com defeito. O atendimento é horrível e quebrou na primeira semana.
+672,Cafeteira,5,Chegou antes do prazo e funciona perfeitamente!!
+673,Fone Bluetooth,3,Esperava um pouco mais, mas serve
+674,Tênis de Corrida,1,Barulhento e desconfortável
+675,Mochila Esportiva,4,Amei! Melhor compra do ano. Chegou antes do prazo e funciona perfeitamente
+676,Caderno Inteligente,1,Produto frágil, me arrependi. Parou de funcionar em poucos dias, lixo!
+677,Cafeteira,4,EXCELENTE COMPRA, MARAVILHOSO
+678,Smartwatch,4,Muito bom, recomendo demais. Bonito, confortável e resistente. Péssimo, o atendimento veio com defeito.
+679,Smartwatch,5,Qualidade incrível pelo preço. O material é ótimo e chegou rápido!
+680,Fone Bluetooth,4,Não é ruim, gostei
+681,Cafeteira,1,Parou de funcionar em poucos dias, lixo
+682,Fone Bluetooth,5,O tamanho é ótimo e chegou rápido...
+683,Luminária LED,5,Qualidade incrível pelo preço. Qualidade incrível pelo preço
+684,Fone Bluetooth,4,O atendimento é ótimo e chegou rápido. Funciona bem e a entrega é bom
+685,Mochila Esportiva,2,O atendimento é ruim e caro!
+686,Mochila Esportiva,2,A entrega é horrível e quebrou na primeira semana!
+687,Tênis de Corrida,4,Recomendo, o som é top. A entrega é ótimo e chegou rápido
+688,Tênis de Corrida,4,Chegou antes do prazo e funciona perfeitamente!
+689,Luminária LED,cinco,PRODUTO PERFEITO, SUPEROU AS EXPECTATIVAS
+690,Luminária LED,1,Muito fraco, não vale o preço
+691,Cafeteira,3,É razoável para o dia a dia.
+692,Caderno Inteligente,3,Nem bom nem ruim.
+693,Fone Bluetooth,5,Adorei a bateria, ficou excelente
+694,Smartwatch,3,É razoável para o dia a dia
+695,Caixa de Som,5,Chegou antes do prazo e funciona perfeitamente. Adorei o produto, ficou excelente!!
+696,Luminária LED,5,Estou satisfeito, o produto é muito bom!
+697,Caixa de Som,5,Produto perfeito, superou as expectativas
+698,Cafeteira,4,FUNCIONA BEM E O ACABAMENTO É BOM. ADOREI O TAMANHO, FICOU EXCELENTE
+699,Cafeteira,3,Esperava um pouco mais, mas serve!
+700,Caderno Inteligente,1,Quebrado e com defeito, quero devolver...
+701,Caixa de Som,1,Muito fraco, não vale o preço!
+702,Mochila Esportiva,5,Adorei o produto, ficou excelente.
+703,Fone Bluetooth,4,Adorei o material, ficou excelente. Estou satisfeito, o material é muito bom
+704,Luminária LED,4,Gostei muito, vale cada centavo. Produto perfeito, superou as expectativas!
+705,Cafeteira,4,Gostei muito, vale cada centavo. Funciona bem e o atendimento é bom. Quebrado e com defeito, quero devolver...
+706,Caderno Inteligente,5,Recomendo, a bateria é top.
+707,Tênis de Corrida,1,Bonito, mas parou de funcionar!!
+708,Cafeteira,4,Nada de defeito, tudo certo!
+709,Luminária LED,3,Ainda estou testando a qualidade!
+710,Luminária LED,3,Produto mediano, nada demais. Quebrado e com defeito, quero devolver
+711,Caixa de Som,1,Atrasou muito e veio errado. Decepcionado com o acabamento, fraco demais
+712,Luminária LED,1,Parou de funcionar em poucos dias, lixo. O produto é ruim e caro!
+713,Caderno Inteligente,5,Funciona bem e a entrega é bom. Funciona bem e a embalagem é bom!
+714,Mochila Esportiva,1,Não recomendo, muito ruim. O som é horrível e quebrou na primeira semana!
+715,Cafeteira,2,Esquentou e travou, terrível.
+716,Caixa de Som,3,CHEGOU NO PRAZO, A ENTREGA É OK
+717,Cafeteira,3,O som é normal, como esperado. Produto perfeito, superou as expectativas.
+718,Fone Bluetooth,5,Estou satisfeito, a embalagem é muito bom
+719,Luminária LED,cinco,Qualidade incrível pelo preço. Bonito, confortável e resistente
+720,Luminária LED,5,Estou satisfeito, a bateria é muito bom
+721,Caderno Inteligente,3,Esperava um pouco mais, mas serve!
+722,Mochila Esportiva,5,Estou satisfeito, o produto é muito bom
+723,Caixa de Som,3,O som é normal, como esperado...
+724,Cafeteira,5,Adorei o material, ficou excelente
+725,Cafeteira,4,Estou satisfeito, a bateria é muito bom. Decepcionado com a entrega, fraco demais.
+726,Caderno Inteligente,5,O ATENDIMENTO É ÓTIMO E CHEGOU RÁPIDO. MUITO BOM, RECOMENDO DEMAIS.
+727,Mochila Esportiva,5,AMEI! MELHOR COMPRA DO ANO. RECOMENDO, O ATENDIMENTO É TOP!!
+728,Caderno Inteligente,5,Funciona bem e o produto é bom. Chegou antes do prazo e funciona perfeitamente
+729,Mochila Esportiva,2,Não gostei, nada bom
+730,Caixa de Som,3,Produto mediano, nada demais.
+731,Mochila Esportiva,1,Pior compra que já fiz
+732,Caderno Inteligente,5,Bonito, confortável e resistente. Chegou antes do prazo e funciona perfeitamente...
+733,Smartwatch,4,Adorei a entrega, ficou excelente. Amei! Melhor compra do ano...
+734,Smartwatch,2,ATRASOU MUITO E VEIO ERRADO. O MATERIAL É RUIM E CARO
+735,Tênis de Corrida,2,Muito fraco, não vale o preço. A qualidade é ruim e caro
+736,Fone Bluetooth,4,RECOMENDO, A ENTREGA É TOP
+737,Mochila Esportiva,2,Barulhento e desconfortável
+738,Mochila Esportiva,1,Bonito, mas parou de funcionar!!
+739,Mochila Esportiva,4,Produto perfeito, superou as expectativas
+740,Luminária LED,,Produto mediano, nada demais
+741,Caderno Inteligente,5,Não tenho do que reclamar!
+742,Caixa de Som,5,Adorei a bateria, ficou excelente!!
+743,Tênis de Corrida,5,MUITO BOM, RECOMENDO DEMAIS. QUALIDADE INCRÍVEL PELO PREÇO
+744,Fone Bluetooth,3,Chegou no prazo, a entrega é ok.
+745,Caixa de Som,1,A qualidade é horrível e quebrou na primeira semana. Pior compra que já fiz!
+746,Luminária LED,3,Produto mediano, nada demais
+747,Tênis de Corrida,5,Nada de defeito, tudo certo. Pior compra que já fiz...
+748,Fone Bluetooth,5,Gostei muito, vale cada centavo
+749,Cafeteira,5,Bonito, confortável e resistente!!
+750,Tênis de Corrida,4,Gostei muito, vale cada centavo
+751,Cafeteira,5,Excelente compra, maravilhoso. Bonito, confortável e resistente
+752,Mochila Esportiva,5,Excelente compra, maravilhoso
+753,Caderno Inteligente,4,Qualidade incrível pelo preço. Estou satisfeito, a embalagem é muito bom
+754,Smartwatch,3,NEM BOM NEM RUIM
+755,Cafeteira,5,Amei! Melhor compra do ano
+756,Caderno Inteligente,2,Péssimo, a entrega veio com defeito. Barulhento e desconfortável!!
+757,Caderno Inteligente,4,Qualidade incrível pelo preço. Parou de funcionar em poucos dias, lixo.
+758,Caixa de Som,2,Barulhento e desconfortável. Barulhento e desconfortável.
+759,Smartwatch,1,ATRASOU MUITO E VEIO ERRADO
+760,Smartwatch,2,Não recomendo, muito ruim. Produto frágil, me arrependi!
+761,Luminária LED,3,Ainda estou testando o acabamento
+762,Cafeteira,5,Nada de defeito, tudo certo. Pior compra que já fiz
+763,Caixa de Som,2,Parou de funcionar em poucos dias, lixo.
+764,Cafeteira,cinco,Bonito, confortável e resistente...
+765,Caderno Inteligente,5,Gostei muito, vale cada centavo!!
+766,Luminária LED,3,Cumpre o que promete. Não recomendo, muito ruim
+767,Cafeteira,5,Produto perfeito, superou as expectativas. Gostei muito, vale cada centavo!!
+768,Tênis de Corrida,3,Ainda estou testando a embalagem. Muito fraco, não vale o preço!
+769,Caderno Inteligente,2,Pior compra que já fiz. Parou de funcionar em poucos dias, lixo
+770,Mochila Esportiva,5,Gostei muito, vale cada centavo!
+771,Caderno Inteligente,5,Funciona bem e o material é bom
+772,Caixa de Som,4,Estou satisfeito, a entrega é muito bom. Muito bom, recomendo demais
+773,Cafeteira,5,Gostei muito, vale cada centavo
+774,Smartwatch,1,Atrasou muito e veio errado. Muito fraco, não vale o preço
+775,Cafeteira,3,Chegou no prazo, o produto é ok
+776,Luminária LED,5,Estou satisfeito, o acabamento é muito bom
+777,Luminária LED,4,Excelente compra, maravilhoso!
+778,Caderno Inteligente,5,O tamanho é ótimo e chegou rápido!
+779,Luminária LED,3,Cumpre o que promete
+780,Tênis de Corrida,1,Quebrado e com defeito, quero devolver
+781,Mochila Esportiva,1,Produto frágil, me arrependi...
+782,Luminária LED,5,Estou satisfeito, a qualidade é muito bom. Excelente compra, maravilhoso.
+783,Smartwatch,3,Ainda estou testando o material.
+784,Smartwatch,5,Bonito, confortável e resistente.
+785,Caixa de Som,2,Não recomendo, muito ruim...
+786,Cafeteira,5,EXCELENTE COMPRA, MARAVILHOSO. ADOREI O SOM, FICOU EXCELENTE
+787,Fone Bluetooth,5,Bonito, confortável e resistente!!
+788,Cafeteira,3,A embalagem é normal, como esperado.
+789,Smartwatch,1,Péssimo, a entrega veio com defeito
+790,Caixa de Som,4,Excelente compra, maravilhoso
+791,Mochila Esportiva,2,Pior compra que já fiz. Decepcionado com o produto, fraco demais
+792,Fone Bluetooth,4,Estou satisfeito, o material é muito bom
+793,Smartwatch,5,Estou satisfeito, a embalagem é muito bom
+794,Tênis de Corrida,3,Produto mediano, nada demais...
+795,Smartwatch,1,Quebrado e com defeito, quero devolver!!
+796,Fone Bluetooth,5,O atendimento é ótimo e chegou rápido!!
+797,Smartwatch,1,Barulhento e desconfortável
+798,Luminária LED,4,Muito bom, recomendo demais. Chegou antes do prazo e funciona perfeitamente...
+799,Smartwatch,1,Produto frágil, me arrependi
+800,Caderno Inteligente,2,Bonito, mas parou de funcionar...
+801,Cafeteira,5,FUNCIONA BEM E O ACABAMENTO É BOM
+802,Cafeteira,1,Pior compra que já fiz. Pior compra que já fiz...
+803,Smartwatch,5,Excelente compra, maravilhoso
+804,Caixa de Som,2,Ótimo... quebrou em dois dias. Parabéns
+805,Caixa de Som,1,Não recomendo, muito ruim. Péssimo, o produto veio com defeito
+806,Tênis de Corrida,3,Chegou no prazo, a entrega é ok
+807,Mochila Esportiva,4,RECOMENDO, A EMBALAGEM É TOP...
+808,Cafeteira,3,Produto mediano, nada demais. Atrasou muito e veio errado
+809,Mochila Esportiva,1,Ótimo... quebrou em dois dias. Parabéns!
+810,Caderno Inteligente,2,O acabamento é ruim e caro!!
+811,Caderno Inteligente,1,Parou de funcionar em poucos dias, lixo
+812,Cafeteira,4,Recomendo, o atendimento é top!!
+813,Mochila Esportiva,3,A embalagem é normal, como esperado!!
+814,Luminária LED,5,CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE. PRODUTO PERFEITO, SUPEROU AS EXPECTATIVAS.
+815,Caixa de Som,1,Barulhento e desconfortável. Atrasou muito e veio errado!!
+816,Caixa de Som,1,O tamanho é horrível e quebrou na primeira semana. Muito fraco, não vale o preço
+817,Smartwatch,1,Produto frágil, me arrependi. Atrasou muito e veio errado
+818,Mochila Esportiva,2,Barulhento e desconfortável. Quebrado e com defeito, quero devolver
+819,Mochila Esportiva,5,O atendimento é ótimo e chegou rápido. Adorei a embalagem, ficou excelente!
+820,Fone Bluetooth,3,Cumpre o que promete...
+821,Fone Bluetooth,2,Pior compra que já fiz!!
+822,Smartwatch,3,Produto mediano, nada demais
+823,Fone Bluetooth,5,Bonito, confortável e resistente.
+824,Caderno Inteligente,1,PRODUTO FRÁGIL, ME ARREPENDI. A ENTREGA É HORRÍVEL E QUEBROU NA PRIMEIRA SEMANA...
+825,Caixa de Som,2,Pior compra que já fiz. Parou de funcionar em poucos dias, lixo
+826,Smartwatch,1,A embalagem é horrível e quebrou na primeira semana. Barulhento e desconfortável...
+827,Smartwatch,3,É razoável para o dia a dia!!
+828,Caderno Inteligente,2,Muito fraco, não vale o preço
+829,Tênis de Corrida,2,Ótimo... quebrou em dois dias. Parabéns
+830,Cafeteira,5,MUITO BOM, RECOMENDO DEMAIS...
+831,Cafeteira,5,Muito bom, recomendo demais!!
+832,Tênis de Corrida,1,Pior compra que já fiz
+833,Cafeteira,4,Recomendo, o material é top. Gostei muito, vale cada centavo!
+834,Caderno Inteligente,3,Ainda estou testando a bateria. A bateria é ruim e caro!!
+835,Luminária LED,4,AMEI! MELHOR COMPRA DO ANO
+836,Fone Bluetooth,3,É razoável para o dia a dia. Bonito, confortável e resistente!
+837,Mochila Esportiva,1,Muito fraco, não vale o preço. Decepcionado com o som, fraco demais
+838,Caderno Inteligente,5,Adorei a embalagem, ficou excelente...
+839,Mochila Esportiva,2,Produto frágil, me arrependi. Pior compra que já fiz!
+840,Luminária LED,3,Nem bom nem ruim.
+841,Caixa de Som,3,O acabamento é normal, como esperado...
+842,Cafeteira,3,É razoável para o dia a dia. Muito bom, recomendo demais...
+843,Luminária LED,4,GOSTEI MUITO, VALE CADA CENTAVO. BONITO, CONFORTÁVEL E RESISTENTE!
+844,Tênis de Corrida,5,Nada de defeito, tudo certo!
+845,Caixa de Som,5,Nada de defeito, tudo certo
+846,Cafeteira,5,Excelente compra, maravilhoso
+847,Smartwatch,4,Qualidade incrível pelo preço. O acabamento é ótimo e chegou rápido...
+848,Tênis de Corrida,3,Cumpre o que promete!!
+849,Caixa de Som,3,O material é normal, como esperado.
+850,Tênis de Corrida,4,Não tenho do que reclamar...
+851,Fone Bluetooth,5,Funciona bem e o tamanho é bom. Excelente compra, maravilhoso
+852,Tênis de Corrida,5,BONITO, CONFORTÁVEL E RESISTENTE. A EMBALAGEM É ÓTIMO E CHEGOU RÁPIDO
+853,Tênis de Corrida,1,Produto frágil, me arrependi!
+854,Tênis de Corrida,4,BONITO, CONFORTÁVEL E RESISTENTE
+855,Luminária LED,3,Chegou no prazo, o tamanho é ok
+856,Luminária LED,5,Bonito, confortável e resistente.
+857,Caixa de Som,1,Parou de funcionar em poucos dias, lixo. Esquentou e travou, terrível
+858,Cafeteira,1,BARULHENTO E DESCONFORTÁVEL. A BATERIA É HORRÍVEL E QUEBROU NA PRIMEIRA SEMANA!
+859,Smartwatch,3,Chegou no prazo, a entrega é ok!
+860,Caderno Inteligente,3,Nem bom nem ruim. Excelente compra, maravilhoso...
+861,Luminária LED,4,Estou satisfeito, o atendimento é muito bom...
+862,Fone Bluetooth,5,Amei! Melhor compra do ano.
+863,Smartwatch,5,Recomendo, o atendimento é top. Quebrado e com defeito, quero devolver
+864,Smartwatch,2,O tamanho é horrível e quebrou na primeira semana
+865,Luminária LED,5,Recomendo, o produto é top!!
+866,Cafeteira,5,Produto perfeito, superou as expectativas
+867,Luminária LED,3,Chegou no prazo, o material é ok
+868,Caderno Inteligente,5,Gostei muito, vale cada centavo. Estou satisfeito, a embalagem é muito bom
+869,Luminária LED,5,Recomendo, o produto é top!
+870,Caixa de Som,1,Não recomendo, muito ruim...
+871,Mochila Esportiva,1,Não gostei, nada bom...
+872,Tênis de Corrida,cinco,Esperava um pouco mais, mas serve. Muito bom, recomendo demais
+873,Fone Bluetooth,4,Recomendo, o material é top
+874,Smartwatch,2,Pior compra que já fiz. Barulhento e desconfortável
+875,Caderno Inteligente,5,Não tenho do que reclamar!!
+876,Cafeteira,1,PIOR COMPRA QUE JÁ FIZ!
+877,Caixa de Som,4,ADOREI O MATERIAL, FICOU EXCELENTE!
+878,Caderno Inteligente,3,CHEGOU NO PRAZO, A ENTREGA É OK. MUITO FRACO, NÃO VALE O PREÇO.
+879,Mochila Esportiva,3,Cumpre o que promete. Excelente compra, maravilhoso!
+880,Cafeteira,3,Produto mediano, nada demais
+881,Caixa de Som,1,A entrega é ruim e caro. Esquentou e travou, terrível!
+882,Smartwatch,2,Parou de funcionar em poucos dias, lixo. Barulhento e desconfortável.
+883,Mochila Esportiva,1,DECEPCIONADO COM A QUALIDADE, FRACO DEMAIS. ATRASOU MUITO E VEIO ERRADO
+884,Cafeteira,5,GOSTEI MUITO, VALE CADA CENTAVO!
+885,Cafeteira,5,GOSTEI MUITO, VALE CADA CENTAVO. BONITO, CONFORTÁVEL E RESISTENTE...
+886,Smartwatch,2,Decepcionado com a bateria, fraco demais. Não recomendo, muito ruim...
+887,Mochila Esportiva,4,Excelente compra, maravilhoso
+888,Cafeteira,1,Decepcionado com o material, fraco demais!!
+889,Caixa de Som,1,ATRASOU MUITO E VEIO ERRADO. PRODUTO FRÁGIL, ME ARREPENDI!!
+890,Caderno Inteligente,,Gostei muito, vale cada centavo!!
+891,Luminária LED,4,Recomendo, o acabamento é top.
+892,Luminária LED,5,Amei! Melhor compra do ano
+893,Luminária LED,3,Chegou no prazo, o produto é ok.
+894,Fone Bluetooth,5,A qualidade é ótimo e chegou rápido. Estou satisfeito, o acabamento é muito bom!!
+895,Cafeteira,5,Qualidade incrível pelo preço. Gostei muito, vale cada centavo...
+896,Cafeteira,5,Recomendo, a bateria é top.
+897,Tênis de Corrida,3,Chegou no prazo, a entrega é ok. Chegou antes do prazo e funciona perfeitamente
+898,Smartwatch,2,O atendimento é ruim e caro
+899,Caderno Inteligente,4,O MATERIAL É ÓTIMO E CHEGOU RÁPIDO. CHEGOU ANTES DO PRAZO E FUNCIONA PERFEITAMENTE!!
+900,Smartwatch,2,Parou de funcionar em poucos dias, lixo.
