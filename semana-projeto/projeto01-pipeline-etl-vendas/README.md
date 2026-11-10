@@ -22,12 +22,12 @@ A diretoria quer um painel de vendas, mas **ninguém confia nos números** enqua
 Escrever um programa que execute as 3 etapas de um **pipeline ETL**:
 
 ```txt
- ┌────────────────────┐      ┌───────────────────────────┐      ┌──────────────────────────┐
- │      EXTRACT       │      │         TRANSFORM         │      │           LOAD           │
+ ┌────────────────────┐       ┌───────────────────────────┐      ┌──────────────────────────┐
+ │      EXTRACT       │       │         TRANSFORM         │      │           LOAD           │
  │ vendas_brutas.csv  │ ───▶ │ valida · corrige · padro- │ ───▶ │ vendas_limpas.csv        │
- │ (1.239 linhas)     │      │ niza · remove duplicatas  │      │ rejeitados.csv           │
- └────────────────────┘      └───────────────────────────┘      │ relatorio_etl.txt        │
-                                                                └──────────────────────────┘
+ │ (1.239 linhas)     │       │ niza · remove duplicatas  │      │ rejeitados.csv           │
+ └────────────────────┘       └───────────────────────────┘      │ relatorio_etl.txt        │
+                                                                 └──────────────────────────┘
 ```
 
 ## 📦 Dados de entrada
