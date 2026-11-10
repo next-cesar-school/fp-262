@@ -21,6 +21,10 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 10 - Numpy | `em breve` |
 | Aula 11 - Numpy | `em breve` |
 
+### 🦾 Semana de Projetos
+
+Acesse às informações [aqui](/semana-projeto/).
+
 ### 📚 Livros
 
 Para quem gosta de estudar por livros, temos essas sugestões.
