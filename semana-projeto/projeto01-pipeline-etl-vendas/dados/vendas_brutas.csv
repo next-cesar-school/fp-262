@@ -1,0 +1,1240 @@
+id_pedido;data;cliente;cidade;categoria;produto;quantidade;preco_unitario;forma_pagamento
+PED-00001;04/02/2025;Felipe Santos;Recife;Esporte;Mochila Esportiva;2;159.00;cartão de crédito
+PED-00002;27/01/2025;Carla Oliveira;Petrolina;Papelaria;Caderno Inteligente;3;R$ 89,00;CARTÃO DE CRÉDITO
+PED-00003;2025-06-30;Otávio Santos;CARUARU;Esporte;Tênis de Corrida;dois;349.90;pix
+PED-00004;2025-01-19;Isabela Costa;Recife;Esporte;Tênis de Corrida;3;349.90;cartão de crédito
+PED-00005;12/06/2025;Carla Santos;  recife ;Casa;Luminária LED;1;74.50;pix
+PED-00006;20/06/2025;Eduarda Cavalcanti;Recife;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00007;11/02/2025;Natália Albuquerque;Recife;papelaria;Kit Canetas;2;R$ 34,90;cartao de credito
+PED-00008;2025-02-24;Isabela Oliveira;Petrolina;Papelaria;Planner 2025;1;64.90;cartão de crédito
+PED-00009;18/01/2025;Marcos Albuquerque;CARUARU;eletrônicos;Carregador Turbo;4;R$ 59,90;pix
+PED-00010;2025-01-10;Diego Costa;Caruaru;Casa;Cafeteira;4;189.90;PIX
+PED-00011;2025-06-07;Diego Souza;  recife ;Eletrônicos;Carregador Turbo;1;59.90;boleto
+PED-00012;2025-02-15;Isabela Costa;Garanhuns;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-00013;2025-02-01;Ana Barbosa;Recife;Eletrônicos;Mouse sem Fio;2;89.90;cartão de débito
+PED-00014;12/05/2025;Eduarda Lima;Garanhuns;Papelaria;Caderno Inteligente;5;89.00;pix
+PED-00015;2025-05-23;Natália Santos;Paulista;Eletrônicos;Caixa de Som;4;249.90;cartão de crédito
+PED-00016;05/05/2025;Bruno Ferreira;Caruaru;Esporte;Tênis de Corrida;1;349,90;boleto
+PED-00017;13/04/2025;Ana Costa;CARUARU;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00018;2025-06-23;Paula Ferreira;Paulista;eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00019;13/06/2025;Otávio Melo;RECIFE;Casa;Garrafa Térmica;5;54.90;cartão de crédito
+PED-00010;2025-01-10;Diego Costa;Caruaru;Casa;Cafeteira;4;189.90;PIX
+PED-00020;2025-02-20;Heitor Cavalcanti;OLINDA;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00021;07/05/2025;Heitor Ferreira;  caruaru ;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00022;2025-05-08;Felipe Barbosa;Recife;Esporte;Garrafa Squeeze;5;R$ 29,90;pix
+PED-00023;2025-03-11;Larissa Cavalcanti;Olinda;Livros;Python para Dados;1;119.00;pix
+PED-00024;2025-04-22;João Santos;RECIFE;esporte;Garrafa Squeeze;1;R$ 29,90;boleto
+PED-00025;2025-01-21;Eduarda Cavalcanti;Recife;Livros;Python para Dados;1;119,00;CARTÃO DE DÉBITO
+PED-00026;2025-03-23;Vitória Albuquerque;Recife;esporte;Tapete de Yoga;4;119.90;pix
+PED-00015;2025-05-23;Natália Santos;Paulista;Eletrônicos;Caixa de Som;4;249.90;cartão de crédito
+PED-00027;2025-04-07;Heitor Barbosa;Olinda;Livros;Storytelling com Dados;4;R$ 79,90;pix
+PED-00028;25/06/2025;João Melo;Garanhuns;Eletrônicos;Caixa de Som;1;249,90;cartão de crédito
+PED-00029;2025-05-04;Felipe Albuquerque;Olinda;Livros;Python para Dados;3;119,00;boleto
+PED-00030;2025-06-16;Sofia Ferreira;Paulista;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00031;14/04/2025;Thiago Lima;Recife;papelaria;Kit Canetas;1;34.90;cartão de débito
+PED-00032;2025-06-04;Isabela Araújo;Recife;Esporte;Tênis de Corrida;5;R$ 349,90;pix
+PED-00033;23/01/2025;Yuri Santos;Recife;Livros;Storytelling com Dados;1;79.90;pix
+PED-00034;26/05/2025;Diego Barbosa;Olinda;Eletrônicos;Mouse sem Fio;1;89,90;pix
+PED-00035;2025-04-17;Yuri Costa;Olinda;Eletrônicos;Fone Bluetooth;2;R$ 129,90;cartão de crédito
+PED-00036;19/06/2025;Heitor Santos;Recife;Esporte;Tênis de Corrida;1;R$ 349,90;cartao de debito
+PED-00037;18/06/2025;Yuri Melo;Paulista;Livros;Estatística Básica;1;159.90;pix
+PED-00038;02/03/2025;Rafael Ferreira;Recife;;Kit Canetas;2;R$ 34,90;boleto
+PED-00039;28/06/2025;Eduarda Melo;Recife;Eletrônicos;Fone Bluetooth;5;129.90;cartão de débito
+PED-00040;2025-01-22;Otávio Araújo;Recife;Livros;Storytelling com Dados;1;79.90;pix
+PED-00041;2025-01-19;Sofia Souza;Garanhuns;Casa;Jogo de Toalhas;2;99,90;boleto
+PED-00042;2025-05-23;Vitória Ferreira;Olinda;esporte;Tênis de Corrida;2;349,90;cartão de crédito
+PED-00043;27/05/2025;Paula Melo;Recife;Eletrônicos;Caixa de Som;1;R$ 249,90;Pix
+PED-00044;2025-01-04;Gabriela Ferreira;  recife ;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-00045;24/06/2025;Felipe Melo;  recife ;Casa;Cafeteira;1;189.90;PIX
+PED-00046;01/01/2025;Eduarda Souza;Recife;Casa;Jogo de Toalhas;1;99.90;CARTÃO DE CRÉDITO
+PED-00047;2025-06-17;Eduarda Souza;Recife;Casa;Jogo de Toalhas;3;99.90;cartão de débito
+PED-00048;2025-04-19;Larissa Melo;Recife;Livros;Estatística Básica;1;R$ 159,90;pix
+PED-00049;2025-01-14;Rafael Santos;Recife;livros;Python para Dados;1;119.00;CARTÃO DE DÉBITO
+PED-00050;2025-06-06;Sofia Cavalcanti;Olinda;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00051;2025-05-23;Isabela Souza;Recife;Esporte;Mochila Esportiva;3;159,00;pix
+PED-00052;2025-05-24;Isabela Silva;Recife;Casa;Garrafa Térmica;1;54.90;Pix
+PED-00053;14/03/2025;Felipe Cavalcanti;Olinda;Papelaria;Caderno Inteligente;2;89.00;cartão de débito
+PED-00054;2025-03-20;Felipe Silva;Olinda;Casa;Jogo de Toalhas;1;99,90;pix
+PED-00055;2025-01-08;Vitória Oliveira;Caruaru;Esporte;Tapete de Yoga;3;R$ 119,90;CARTÃO DE CRÉDITO
+PED-00056;2025-03-30;Marcos Souza;PETROLINA;esporte;Tênis de Corrida;5;R$ 349,90;cartão de débito
+PED-00057;20/05/2025;Bruno Cavalcanti;Paulista;papelaria;Caderno Inteligente;3;R$ 89,00;PIX
+PED-00058;2025-05-02;Vitória Ferreira;Paulista;livros;Estatística Básica;2;R$ 159,90;pix
+PED-00059;2025-06-24;Natália Barbosa;Caruaru;Casa;Garrafa Térmica;3;54.90;cartão de crédito
+PED-00060;2025-01-08;Bruno Melo;Paulista;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-00061;15/01/2025;Heitor Barbosa;Caruaru;Livros;Python para Dados;1;119.00;pix
+PED-00062;2025-03-05;Marcos Albuquerque;Recife;Esporte;Tênis de Corrida;1;349,90;cartão de débito
+PED-00063;2025-04-23;Eduarda Ferreira;Olinda;Eletrônicos;Smartwatch;5;399.00;cartão de crédito
+PED-00064;2025-02-13;Eduarda Araújo;Olinda;Papelaria;Kit Canetas;1;34.90;pix
+PED-00065;2025-01-21;João Cavalcanti;  paulista ;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-00066;17/06/2025;Marcos Oliveira;Caruaru;Livros;Storytelling com Dados;2;79.90;Pix
+PED-00067;2025-06-25;Yuri Melo;Caruaru;Livros;Python para Dados;1;119.00;pix
+PED-00068;2025-04-27;Ana Lima;Recife;Casa;Cafeteira;1;189.90;pix
+PED-00069;2025-05-17;Rafael Lima;Petrolina;Papelaria;Planner 2025;2;R$ 64,90;pix
+PED-00070;07/05/2025;Vitória Santos;Recife;Livros;Entendendo Algoritmos;1;R$ 69,90;pix
+PED-00071;2025-06-19;Diego Costa;  garanhuns ;Eletrônicos;Carregador Turbo;1;R$ 59,90;cartão de débito
+PED-00072;24/05/2025;Heitor Santos;Recife;esporte;Garrafa Squeeze;1;R$ 29,90;pix
+PED-00073;18/02/2025;Larissa Santos;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartão de débito
+PED-00074;30/04/2025;Natália Albuquerque;  paulista ;Eletrônicos;Smartwatch;1;R$ 399,00;boleto
+PED-00075;2025-01-30;Eduarda Silva;Caruaru;Casa;Cafeteira;1;189.90;pix
+PED-00076;2025-05-25;Bruno Costa;RECIFE;Esporte;Garrafa Squeeze;2;29.90;cartao de credito
+PED-00077;10/03/2025;Heitor Costa;Recife;Papelaria;Planner 2025;3;64.90;PIX
+PED-00078;2025-01-28;Heitor Oliveira;Caruaru;casa;Garrafa Térmica;2;54.90;cartão de crédito
+PED-00079;2025-05-23;Sofia Cavalcanti;Recife;Eletrônicos;Fone Bluetooth;2;R$ 129,90;pix
+PED-00080;2025-01-06;Yuri Souza;RECIFE;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00081;2025-06-09;Ana Silva;Caruaru;Esporte;Tapete de Yoga;1;R$ 119,90;cartão de crédito
+PED-00082;09/06/2025;Eduarda Silva;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartão de crédito
+PED-00083;15/06/2025;Paula Silva;Olinda;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00084;2025-06-18;Sofia Barbosa;  recife ;Papelaria;Planner 2025;1;64.90;pix
+PED-00085;2025-05-01;Thiago Albuquerque;Olinda;livros;Storytelling com Dados;2;79.90;PIX
+PED-00086;;Bruno Lima;Garanhuns;Livros;Storytelling com Dados;1;79.90;PIX
+PED-00087;2025-06-16;Diego Cavalcanti;Petrolina;esporte;Tapete de Yoga;1;119.90;pix
+PED-00088;2025-01-22;Thiago Barbosa;Recife;Eletrônicos;Carregador Turbo;1;59.90;boleto
+PED-00089;2025-03-16;Carla Barbosa;Caruaru;Eletrônicos;Smartwatch;1;399.00;PIX
+PED-00090;2025-05-24;João Barbosa;Recife;Papelaria;Caderno Inteligente;1;89.00;PIX
+PED-00091;10/05/2025;Carla Cavalcanti;Caruaru;Livros;Storytelling com Dados;1;79.90;boleto
+PED-00092;2025-02-13;Marcos Santos;Garanhuns;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00093;2025-04-01;Paula Silva;Recife;Livros;Entendendo Algoritmos;3;R$ 69,90;pix
+PED-00094;16/06/2025;Otávio Costa;Olinda;Eletrônicos;Fone Bluetooth;-1;129.90;Pix
+PED-00095;2025-05-09;Rafael Costa;Olinda;Casa;Cafeteira;1;189.90;cartao de debito
+PED-00096;01/05/2025;Carla Ferreira;Paulista;casa;Jogo de Toalhas;1;99.90;cartão de débito
+PED-00097;19/05/2025;João Silva;Caruaru;Livros;Estatística Básica;1;159.90;cartao de credito
+PED-00098;03/05/2025;Ana Ferreira;  olinda ;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00099;2025-05-09;Larissa Albuquerque;RECIFE;Esporte;Mochila Esportiva;2;159.00;cartao de credito
+PED-00100;2025-05-09;Bruno Costa;Olinda;Eletrônicos;Mouse sem Fio;1;89,90;cartão de débito
+PED-00101;2025-03-25;Heitor Araújo;PETROLINA;Eletrônicos;Smartwatch;1;399.00;Pix
+PED-00102;2025-05-16;Rafael Cavalcanti;Petrolina;Eletrônicos;Carregador Turbo;4;59.90;cartão de débito
+PED-00103;28/02/2025;Felipe Barbosa;Recife;Livros;Storytelling com Dados;1;79.90;cartão de débito
+PED-00104;2025-06-17;Rafael Souza;Garanhuns;Casa;Cafeteira;2;189.90;cartão de crédito
+PED-00079;2025-05-23;Sofia Cavalcanti;Recife;Eletrônicos;Fone Bluetooth;2;R$ 129,90;pix
+PED-00105;2025-05-09;Yuri Ferreira;Caruaru;eletrônicos;Caixa de Som;2;249.90;pix
+PED-00106;2025-05-10;João Lima;Paulista;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-00107;21/02/2025;Paula Ferreira;Caruaru;eletrônicos;Mouse sem Fio;1;89.90;boleto
+PED-00108;2025-01-07;Felipe Costa;Petrolina;Eletrônicos;Caixa de Som;3;249.90;cartão de débito
+PED-00109;;Diego Albuquerque;  caruaru ;eletrônicos;Carregador Turbo;1;59.90;cartao de credito
+PED-00110;21/04/2025;Marcos Silva;Recife;eletrônicos;Mouse sem Fio;4;89.90;pix
+PED-00111;24/03/2025;Thiago Ferreira;Caruaru;Eletrônicos;Smartwatch;1;R$ 399,00;PIX
+PED-00112;23/05/2025;Vitória Oliveira;Recife;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-00113;01/05/2025;Thiago Santos;Recife;papelaria;Planner 2025;1;64.90;pix
+PED-00114;2025-03-01;Diego Lima;CARUARU;Papelaria;Caderno Inteligente;1;89,00;pix
+PED-00115;30/03/2025;Rafael Lima;Recife;Casa;Cafeteira;1;189.90;pix
+PED-00116;2025-05-13;Felipe Barbosa;Recife;Esporte;Tapete de Yoga;1;R$ 119,90;boleto
+PED-00117;12/01/2025;Sofia Cavalcanti;Recife;Casa;Jogo de Toalhas;1;R$ 99,90;pix
+PED-00118;02/03/2025;Marcos Santos;Petrolina;livros;Entendendo Algoritmos;4;R$ 69,90;cartão de crédito
+PED-00119;07/02/2025;Paula Cavalcanti;Recife;eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00120;12/02/2025;Eduarda Santos;Recife;Livros;Estatística Básica;4;R$ 159,90;pix
+PED-00121;2025-01-22;Carla Costa;Recife;Livros;Python para Dados;2;119.00;Pix
+PED-00122;31/03/2025;Bruno Araújo;Caruaru;Esporte;Garrafa Squeeze;5;29,90;pix
+PED-00123;04/02/2025;Thiago Costa;Paulista;Casa;Garrafa Térmica;2;54,90;cartão de crédito
+PED-00124;12/02/2025;Felipe Ferreira;Recife;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00125;2025-03-28;Gabriela Silva;Recife;Livros;Storytelling com Dados;1;79.90;cartão de crédito
+PED-00126;2025-04-04;João Araújo;Caruaru;livros;Estatística Básica;2;159.90;cartão de crédito
+PED-00127;2025-05-08;Rafael Araújo;Olinda;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-00128;2025-01-09;Eduarda Barbosa;Olinda;Esporte;Garrafa Squeeze;1;29,90;PIX
+PED-00129;15/02/2025;Rafael Araújo;Recife;Livros;Entendendo Algoritmos;4;69.90;pix
+PED-00130;2025-01-03;João Ferreira;PETROLINA;Papelaria;Kit Canetas;1;34.90;pix
+PED-00131;2025-02-08;Ana Ferreira;Paulista;livros;Estatística Básica;1;R$ 159,90;pix
+PED-00132;2025-02-06;Sofia Cavalcanti;Petrolina;Eletrônicos;Carregador Turbo;2;59.90;cartão de débito
+PED-00133;2025-05-11;Felipe Santos;  petrolina ;Eletrônicos;Mouse sem Fio;4;89.90;pix
+PED-00116;2025-05-13;Felipe Barbosa;Recife;Esporte;Tapete de Yoga;1;R$ 119,90;boleto
+PED-00134;2025-04-17;Rafael Lima;OLINDA;Eletrônicos;Smartwatch;1;399.00;cartao de credito
+PED-00135;2025-04-15;João Oliveira;Caruaru;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-00136;2025-03-21;Ana Araújo;RECIFE;Casa;Jogo de Toalhas;1;99.90;PIX
+PED-00137;2025-03-25;Rafael Oliveira;Recife;Eletrônicos;Mouse sem Fio;2;89.90;cartão de crédito
+PED-00110;21/04/2025;Marcos Silva;Recife;eletrônicos;Mouse sem Fio;4;89.90;pix
+PED-00138;2025-03-17;Isabela Silva;Paulista
+PED-00139;2025-05-07;Natália Albuquerque;Recife;Livros;Storytelling com Dados;1;79.90;cartão de débito
+PED-00140;2025-06-06;Ana Santos;Caruaru;esporte;Garrafa Squeeze;1;29.90;cartão de crédito
+PED-00141;2025-04-15;Yuri Oliveira;RECIFE;Eletrônicos;Carregador Turbo;3;R$ 59,90;PIX
+PED-00142;2025-06-27;Thiago Silva;Caruaru;Livros;Python para Dados;2;119.00;pix
+PED-00143;2025-01-05;Larissa Albuquerque;Garanhuns;Eletrônicos;Caixa de Som;2;R$ 249,90;Boleto
+PED-00144;09/03/2025;Felipe Santos;Garanhuns;Esporte;Tapete de Yoga;3;119.90;pix
+PED-00145;2025-03-20;Felipe Souza;PAULISTA;Esporte;Tênis de Corrida;2;349.90;cartão de débito
+PED-00146;2025-04-08;Larissa Araújo;  recife ;Eletrônicos;Fone Bluetooth;4;129.90;cartão de débito
+PED-00147;16/03/2025;Felipe Araújo;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartao de credito
+PED-00148;2025-05-12;Vitória Melo;Recife;Papelaria;Kit Canetas;2;34.90;cartão de crédito
+PED-00149;17/05/2025;Marcos Araújo;Caruaru;Livros;Entendendo Algoritmos;1;69.90;CARTÃO DE DÉBITO
+PED-00150;2025-03-01;Thiago Souza;Caruaru;Esporte;Tapete de Yoga;4;119.90;boleto
+PED-00151;16/06/2025;Larissa Oliveira;Recife;Casa;Jogo de Toalhas;3;99.90;cartão de crédito
+PED-00152;2025-04-22;Paula Souza;Petrolina;livros;Entendendo Algoritmos;1;69.90;cartão de débito
+PED-00153;26/01/2025;Otávio Santos;Recife;Casa;Garrafa Térmica;2;54.90;pix
+PED-00154;2025-06-03;Carla Lima;Recife;Livros;Storytelling com Dados;3;79.90;cartão de crédito
+PED-00155;2025-06-11;Natália Costa;Petrolina;Casa;Garrafa Térmica;2;R$ 54,90;boleto
+PED-00156;2025-06-27;Natália Souza;Garanhuns;Casa;Jogo de Toalhas;1;99.90;cartão de débito
+PED-00157;2025-06-27;Felipe Ferreira;Caruaru;Livros;Storytelling com Dados;1;R$ 79,90;cartão de crédito
+PED-00158;2025-05-03;João Costa;Recife;Eletrônicos;Carregador Turbo;2;59,90;PIX
+PED-00159;2025-06-20;Diego Santos;Recife;Livros;Entendendo Algoritmos;2;69.90;pix
+
+PED-00160;2025-05-12;Natália Barbosa;  olinda ;Livros;Storytelling com Dados;1;79.90;cartão de débito
+PED-00161;2025-06-05;Otávio Albuquerque;Caruaru;Eletrônicos;Carregador Turbo;1;59.90;CARTÃO DE CRÉDITO
+PED-00162;2025-06-07;Paula Lima;Caruaru;Livros;Estatística Básica;2;159.90;cartão de crédito
+PED-00163;2025-02-19;Carla Santos;Recife;Papelaria;Planner 2025;2;64.90;cartão de crédito
+PED-00164;2025-01-12;Rafael Albuquerque;Recife;Livros;Python para Dados;4;119.00;cartão de crédito
+PED-00165;05/06/2025;Sofia Araújo;Recife;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00166;14/03/2025;Heitor Albuquerque;Recife;Papelaria;Kit Canetas;2;34.90;cartão de débito
+PED-00167;2025-06-20;Carla Costa;Caruaru;Casa;Cafeteira;;R$ 189,90;pix
+PED-00168;12/06/2025;Natália Lima;Recife;Livros;Storytelling com Dados;1;79.90;cartão de débito
+PED-00169;2025-05-21;Felipe Lima;PAULISTA;Casa;Luminária LED;1;74.50;pix
+PED-00170;2025-04-15;Gabriela Ferreira;Recife;Esporte;Tapete de Yoga;1;R$ 119,90;Pix
+PED-00171;2025-05-12;Otávio Araújo;Recife;Eletrônicos;Smartwatch;1;399.00;CARTÃO DE CRÉDITO
+PED-00172;31/05/2025;Heitor Lima;Caruaru;esporte;Garrafa Squeeze;2;29.90;cartão de débito
+PED-00173;2025-01-06;João Silva;Recife;Livros;Storytelling com Dados;3;R$ 79,90;cartão de crédito
+PED-00174;2025-04-20;Marcos Costa;Recife;Livros;Python para Dados;3;119.00;cartão de crédito
+PED-00175;2025-02-02;Ana Santos;Garanhuns;Casa;Garrafa Térmica;2;54.90;cartão de débito
+PED-00176;2025-06-03;Larissa Barbosa;Recife;Eletrônicos;Mouse sem Fio;0;89.90;cartão de crédito
+PED-00177;2025-04-26;Marcos Costa;Caruaru;casa;Luminária LED;3;R$ 74,50;cartão de crédito
+PED-00178;2025-01-29;Heitor Silva;Caruaru;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00179;2025-03-26;Yuri Santos;Olinda;Esporte;Tapete de Yoga;3;119.90;pix
+PED-00180;29/04/2025;Vitória Oliveira;Caruaru;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00181;18/05/2025;Paula Cavalcanti;Olinda;Casa;Garrafa Térmica;1;54,90;boleto
+PED-00182;2025-02-24;Larissa Cavalcanti;Recife;Livros;Estatística Básica;1;159.90;pix
+PED-00183;2025-01-16;Eduarda Cavalcanti;Recife;eletrônicos;Fone Bluetooth;1;129.90;CARTÃO DE CRÉDITO
+PED-00184;06/03/2025;Otávio Ferreira;Petrolina;Eletrônicos;Mouse sem Fio;2;R$ 89,90;CARTÃO DE CRÉDITO
+PED-00185;16/01/2025;Ana Silva;Recife;Eletrônicos;Mouse sem Fio;4;89.90;pix
+PED-00186;31/01/2025;Marcos Cavalcanti;Olinda;Casa;Garrafa Térmica;1;R$ 54,90;boleto
+PED-00187;2025-04-26;Larissa Costa;Caruaru;Esporte;Mochila Esportiva;1;159.00;CARTÃO DE DÉBITO
+PED-00188;2025-02-01;Ana Albuquerque;Garanhuns;Esporte;Garrafa Squeeze;1;29.90;cartão de crédito
+PED-00189;2025-04-23;Ana Ferreira;Petrolina;Livros;Entendendo Algoritmos;4;69.90;pix
+PED-00190;30/06/2025;Marcos Souza;Olinda;Livros;Python para Dados;2;119.00;cartão de crédito
+PED-00191;28/04/2025;Sofia Melo;  petrolina ;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00192;2025-01-08;Natália Araújo;Recife;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00193;24/01/2025;Natália Lima;OLINDA;Casa;Garrafa Térmica;5;54.90;CARTÃO DE CRÉDITO
+PED-00194;2025-03-04;Gabriela Silva;Paulista;Livros;Python para Dados;2;119.00;cartão de crédito
+PED-00195;30/06/2025;Isabela Santos;Caruaru;Livros;Estatística Básica;1;159.90;PIX
+PED-00196;2025-01-22;Diego Barbosa;CARUARU;Casa;Jogo de Toalhas;1;99.90;cartão de crédito
+PED-00197;2025-02-06;João Araújo;PAULISTA;Casa;Cafeteira;2;189,90;cartão de crédito
+PED-00198;14/06/2025;Natália Santos;Petrolina;Papelaria;Planner 2025;2;64,90;PIX
+PED-00199;2025-05-24;Isabela Barbosa;Recife;livros;Python para Dados;3;R$ 119,00;Boleto
+PED-00200;19/03/2025;Sofia Barbosa;Recife;Eletrônicos;Carregador Turbo;4;59.90;cartao de debito
+PED-00201;2025-06-18;Gabriela Araújo;Olinda;Livros;Entendendo Algoritmos;5;69,90;pix
+PED-00202;09/01/2025;Paula Silva;Recife;Livros;Estatística Básica;2;159.90;CARTÃO DE CRÉDITO
+PED-00173;2025-01-06;João Silva;Recife;Livros;Storytelling com Dados;3;R$ 79,90;cartão de crédito
+PED-00203;2025-01-06;Carla Albuquerque;Olinda;Eletrônicos;Smartwatch;3;R$ 399,00;CARTÃO DE DÉBITO
+PED-00204;2025-06-07;Sofia Oliveira;Petrolina;Esporte;Tapete de Yoga;1;119.90;PIX
+PED-00205;2025-06-01;Isabela Lima;PETROLINA;eletrônicos;Smartwatch;1;399.00;CARTÃO DE CRÉDITO
+PED-00206;2025-06-18;Rafael Araújo;Recife;Esporte;Mochila Esportiva;1;159.00;cartao de debito
+PED-00207;07/05/2025;Carla Barbosa;Garanhuns;Livros;Estatística Básica;2;159,90;cartão de débito
+PED-00208;2025-05-04;Paula Santos;RECIFE;Livros;Estatística Básica;1;159,90;cartão de débito
+PED-00181;18/05/2025;Paula Cavalcanti;Olinda;Casa;Garrafa Térmica;1;54,90;boleto
+PED-00209;2025-01-13;Natália Albuquerque;Petrolina;Esporte;Tênis de Corrida;2;349,90;cartão de crédito
+PED-00210;2025-04-15;Thiago Silva;Caruaru;Livros;Python para Dados;2;119,00;PIX
+PED-00211;2025-05-14;Bruno Barbosa;Recife;Casa;Jogo de Toalhas;4;99.90;pix
+PED-00212;2025-03-10;Vitória Cavalcanti;Caruaru;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-00213;08/06/2025;Rafael Cavalcanti;Recife;casa;Jogo de Toalhas;1;99.90;cartão de crédito
+PED-00214;10/03/2025;Thiago Souza;Olinda;Esporte;Tapete de Yoga;3;R$ 119,90;pix
+PED-00215;23/01/2025;Otávio Lima;RECIFE;papelaria;Caderno Inteligente;2;89.00;pix
+PED-00216;2025-04-14;João Melo;Recife;Casa;Luminária LED;2;74,50;cartão de crédito
+PED-00217;26/05/2025;Yuri Costa;Paulista;Papelaria;Kit Canetas;2;34,90;cartão de crédito
+PED-00218;2025-06-26;Yuri Santos;Petrolina;esporte;Mochila Esportiva;1;159.00;PIX
+PED-00219;2025-01-23;João Oliveira;Paulista;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00220;20/02/2025;João Barbosa;RECIFE;Casa;Garrafa Térmica;1;54,90;pix
+PED-00221;04/06/2025;Yuri Santos;Petrolina;Esporte;Tapete de Yoga;1;119.90;cartão de débito
+PED-00222;2025-01-18;Eduarda Barbosa;Caruaru;Casa;Cafeteira;2;consultar;BOLETO
+PED-00223;26/01/2025;Felipe Lima;Recife;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00224;2025-06-27;Eduarda Araújo;Recife;Eletrônicos;Mouse sem Fio;2;89.90;pix
+PED-00225;24/06/2025;Carla Ferreira;RECIFE;Casa;Luminária LED;1;74.50;pix
+PED-00226;2025-06-17;Heitor Albuquerque;Recife;Papelaria;Planner 2025;1;R$ 64,90;cartão de crédito
+PED-00227;2025-04-04;Thiago Oliveira;Petrolina;eletrônicos;Caixa de Som;1;249.90;pix
+PED-00228;2025-01-21;Marcos Silva;Recife;Esporte;Tapete de Yoga;1;119.90;pix
+PED-00229;02/05/2025;Thiago Santos;Olinda;Casa;Cafeteira;4;189.90;pix
+PED-00230;2025-03-19;Rafael Santos;Recife;Casa;Cafeteira;2;189.90;cartão de crédito
+PED-00231;2025-06-11;Otávio Barbosa;Recife;Esporte;Tênis de Corrida;1;349,90;pix
+PED-00232;03/05/2025;Paula Melo;Recife;Casa;Cafeteira;3;189.90;PIX
+PED-00233;30/03/2025;Rafael Ferreira;PETROLINA;esporte;Mochila Esportiva;4;159.00;cartão de débito
+PED-00234;03/03/2025;Paula Araújo;Caruaru;Livros;Estatística Básica;1;159.90;cartão de crédito
+PED-00235;2025-03-03;João Melo;Paulista;Eletrônicos;Caixa de Som;1;249,90;cartão de crédito
+PED-00236;2025-05-28;Rafael Araújo;PETROLINA;Papelaria;Kit Canetas;1;34,90;pix
+PED-00237;15/06/2025;Rafael Ferreira;Olinda;Eletrônicos;Smartwatch;2;399,00;PIX
+PED-00238;20/04/2025;Carla Costa;CARUARU;Papelaria;Planner 2025;1;64,90;CARTÃO DE CRÉDITO
+PED-00239;2025-06-11;Otávio Costa;Paulista;Casa;Jogo de Toalhas;2;99.90;PIX
+PED-00240;2025-06-20;Otávio Cavalcanti;Recife;Eletrônicos;Mouse sem Fio;1;89,90;pix
+PED-00241;2025-04-22;João Oliveira;RECIFE;Livros;Entendendo Algoritmos;2;69.90;pix
+PED-00242;2025-05-22;Larissa Barbosa;Recife;Esporte;Garrafa Squeeze;2;29.90;Pix
+PED-00220;20/02/2025;João Barbosa;RECIFE;Casa;Garrafa Térmica;1;54,90;pix
+PED-00243;2025-06-15;Isabela Melo;Petrolina;Livros;Estatística Básica;1;159.90;boleto
+PED-00244;2025-04-21;Felipe Melo;Caruaru;Esporte;Tapete de Yoga;1;R$ 119,90;cartão de crédito
+PED-00245;09/03/2025;Natália Ferreira;Garanhuns;Eletrônicos;Fone Bluetooth;1;R$ 129,90;cartão de crédito
+PED-00246;2025-03-26;Gabriela Lima;Paulista;Livros;Entendendo Algoritmos;1;69.90;cartao de credito
+PED-00247;2025-03-11;Otávio Oliveira;Garanhuns;Eletrônicos;Mouse sem Fio;1;89.90;PIX
+PED-00248;2025-05-18;João Barbosa;Recife;;Jogo de Toalhas;1;99.90;boleto
+PED-00249;2025-06-14;Ana Cavalcanti;Recife;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-00250;2025-06-10;João Cavalcanti;Recife;Eletrônicos;Fone Bluetooth;1;129,90;cartao de credito
+PED-00251;2025-06-08;Thiago Lima;Petrolina;Esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-00252;20/06/2025;Natália Lima;GARANHUNS;Esporte;Tênis de Corrida;1;349,90;pix
+PED-00253;2025-06-30;Isabela Oliveira;Garanhuns;Esporte;Tênis de Corrida;0;R$ 349,90;Pix
+PED-00254;2025-02-08;Ana Araújo;  recife ;Eletrônicos;Caixa de Som;3;249,90;PIX
+PED-00255;2025-06-14;Vitória Souza;Garanhuns;esporte;Garrafa Squeeze;2;29.90;pix
+PED-00256;2025-03-24;Otávio Melo;Caruaru;Casa;Luminária LED;1;74,50;pix
+PED-00257;08/01/2025;Diego Silva;Recife;Livros;Python para Dados;2;119.00;PIX
+PED-00258;28/06/2025;Vitória Araújo;Recife;Casa;Cafeteira;3;R$ 189,90;cartão de débito
+PED-00259;2025-01-11;Yuri Albuquerque;PETROLINA;casa;Cafeteira;2;R$ 189,90;pix
+PED-00260;2025-02-23;Marcos Silva;Recife;papelaria;Planner 2025;1;64.90;pix
+PED-00261;2025-02-26;Carla Albuquerque;Petrolina;Livros;Python para Dados;1;119.00;cartão de débito
+PED-00262;2025-03-13;Bruno Araújo;Olinda;Eletrônicos;Mouse sem Fio;3;89.90;Pix
+PED-00263;2025-02-11;Rafael Costa;Paulista;Esporte;Garrafa Squeeze;3;29.90;pix
+PED-00264;06/03/2025;Thiago Albuquerque;Recife;Casa;Jogo de Toalhas;4;99.90;cartão de crédito
+PED-00265;2025-06-12;Heitor Oliveira;Recife;Livros;Storytelling com Dados;2;79.90;cartão de débito
+PED-00266;18/06/2025;Rafael Cavalcanti;PAULISTA;eletrônicos;Smartwatch;1;399.00;pix
+PED-00267;2025-05-25;Bruno Cavalcanti;Recife;Papelaria;Caderno Inteligente;1;89.00;cartão de crédito
+PED-00268;2025-05-08;Yuri Costa;RECIFE;Eletrônicos;Caixa de Som;2;249.90;CARTÃO DE CRÉDITO
+PED-00269;2025-03-09;Isabela Barbosa;Recife;Eletrônicos;Smartwatch;2;399.00;pix
+PED-00270;2025-05-31;Rafael Araújo;Recife;esporte;Mochila Esportiva;1;159,00;pix
+PED-00271;2025-02-26;Bruno Ferreira;Paulista;Eletrônicos;Fone Bluetooth;2;129.90;pix
+PED-00272;2025-03-12;Natália Oliveira;Recife;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00273;2025-05-27;Carla Melo;Recife;Eletrônicos;Carregador Turbo;1;59.90;cartão de crédito
+PED-00274;2025-05-05;Otávio Araújo;  paulista ;Livros;Estatística Básica;1;159,90;pix
+PED-00275;2025-02-20;Eduarda Oliveira;Recife;Papelaria;Planner 2025;1;R$ 64,90;cartao de credito
+PED-00276;00/00/0000;Carla Cavalcanti;Recife;Eletrônicos;Mouse sem Fio;2;89,90;cartão de crédito
+PED-00277;;Carla Araújo;Olinda;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00278;2025-06-22;Yuri Ferreira;Caruaru;Livros;Entendendo Algoritmos;1;69.90;cartão de débito
+PED-00279;2025-04-25;Marcos Santos;Caruaru;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00280;2025-06-05;Isabela Silva;Recife;livros;Entendendo Algoritmos;4;69,90;Pix
+PED-00281;2025-04-29;Eduarda Souza;Petrolina;casa;Garrafa Térmica;4;54,90;boleto
+PED-00282;2025-04-27;Natália Silva;Recife;Eletrônicos;Fone Bluetooth;1;;cartão de débito
+PED-00283;2025-05-04;Felipe Melo;Recife;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00284;2025-03-04;Diego Cavalcanti;Recife;Eletrônicos;Smartwatch;1;399.00;boleto
+PED-00285;2025-02-22;Felipe Cavalcanti;Paulista;Papelaria;Planner 2025;2;64,90;cartão de crédito
+PED-00286;2025-02-01;Sofia Melo;Caruaru;Livros;Storytelling com Dados;4;R$ 79,90;cartão de crédito
+PED-00287;2025-05-09;João Cavalcanti;Recife;papelaria;Kit Canetas;1;34.90;pix
+PED-00288;09/04/2025;Larissa Oliveira;Olinda;Eletrônicos;Carregador Turbo;1;;cartão de crédito
+PED-00289;2025-06-01;Heitor Costa;Recife;Papelaria;Planner 2025;1;64.90;cartão de crédito
+PED-00290;2025-03-13;Vitória Souza;Recife;Papelaria;Caderno Inteligente;1;R$ 89,00;cartão de débito
+PED-00291;08/05/2025;Thiago Cavalcanti;Olinda;Papelaria;Planner 2025;1;64.90;cartão de crédito
+PED-00292;2025-05-09;João Silva;Olinda;Eletrônicos;Smartwatch;2;399.00;pix
+PED-00293;10/03/2025;Ana Souza;Caruaru;Livros;Estatística Básica;4;159.90;PIX
+PED-00294;2025-06-21;Natália Barbosa;Petrolina;Livros;Estatística Básica;3;159,90;cartão de crédito
+PED-00295;2025-01-05;Paula Costa;Recife;Livros;Entendendo Algoritmos;1;69.90;cartao de credito
+PED-00296;02/06/2025;Ana Costa;Garanhuns;Casa;Jogo de Toalhas;2;99.90;Pix
+PED-00297;2025-01-25;Otávio Albuquerque;Olinda;Casa;Jogo de Toalhas;3;grátis;pix
+PED-00298;10/01/2025;Felipe Silva;Recife;Livros;Entendendo Algoritmos;2;69,90;cartão de crédito
+PED-00299;2025-04-05;Thiago Costa;Paulista;papelaria;Planner 2025;2;64,90;cartao de credito
+PED-00300;2025-04-06;Gabriela Silva;Paulista;casa;Jogo de Toalhas;4;99.90;cartão de débito
+PED-00301;2025-02-14;Yuri Araújo;Olinda;Esporte;Tapete de Yoga;2;R$ 119,90;cartão de crédito
+PED-00302;2025-06-22;João Ferreira;Paulista;Eletrônicos;Fone Bluetooth;1;129,90;pix
+PED-00303;2025-04-23;Diego Santos;Recife;Eletrônicos;Mouse sem Fio;2;89.90;cartão de crédito
+PED-00304;2025-05-14;Carla Cavalcanti;Recife;livros;Python para Dados;1;119.00;pix
+PED-00305;2025-04-01;Sofia Araújo;Paulista;papelaria;Caderno Inteligente;1;89.00;pix
+PED-00306;2025-06-13;Marcos Santos;Recife;Eletrônicos;Caixa de Som;1;249.90;CARTÃO DE CRÉDITO
+PED-00307;2025-06-08;Otávio Araújo;Recife;Casa;Cafeteira;2;189.90;pix
+PED-00308;31/05/2025;Bruno Ferreira;Olinda;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00309;2025-04-06;Rafael Souza;Recife;casa;Jogo de Toalhas;1;grátis;Pix
+PED-00310;2025-06-14;Carla Oliveira;Recife;Esporte;Tênis de Corrida;1;349.90;boleto
+PED-00311;28/03/2025;Diego Lima;Caruaru;Esporte;Mochila Esportiva;1;159.00;PIX
+PED-00312;2025-06-02;João Oliveira;Recife;Esporte;Mochila Esportiva;2;159,00;pix
+PED-00313;23/01/2025;Vitória Albuquerque;GARANHUNS;Livros;Python para Dados;2;119.00;pix
+PED-00314;2025-05-23;Ana Barbosa;Caruaru;Casa;Jogo de Toalhas;1;;cartão de crédito
+PED-00315;2025-04-21;Isabela Melo;Caruaru;Papelaria;Caderno Inteligente;1;89.00;Pix
+PED-00316;01/03/2025;Eduarda Barbosa;Recife;Esporte;Garrafa Squeeze;1;R$ 29,90;pix
+PED-00317;2025-04-26;Thiago Lima;  garanhuns ;Casa;Cafeteira;1;189.90;boleto
+PED-00318;05/03/2025;Natália Araújo;  olinda ;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00319;2025-03-08;Heitor Cavalcanti;Recife;Eletrônicos;Fone Bluetooth;1;R$ 129,90;pix
+PED-00320;27/03/2025;Felipe Costa;Recife;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-00321;16/02/2025;Diego Costa;  garanhuns ;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-00322;2025-04-26;Felipe Silva;Recife;Esporte;Garrafa Squeeze;3;;cartão de crédito
+PED-00323;09/01/2025;Heitor Ferreira;Olinda;Eletrônicos;Smartwatch;dois;399.00;Boleto
+PED-00324;28/06/2025;João Cavalcanti;Olinda;Papelaria;Planner 2025;4;64.90;cartão de crédito
+PED-00325;2025-06-24;Gabriela Albuquerque;Recife;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00326;2025-06-24;Eduarda Santos;Olinda;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-00327;2025-06-30;Gabriela Santos;  olinda ;Livros;Storytelling com Dados;3;79.90;cartão de débito
+PED-00328;2025-06-21;Felipe Barbosa;Recife;Casa;Jogo de Toalhas;1;99,90;BOLETO
+PED-00329;27/06/2025;Vitória Melo;Paulista;Eletrônicos;Caixa de Som;3;249.90;cartão de crédito
+PED-00330;2025-05-11;Gabriela Araújo;Petrolina;Livros;Entendendo Algoritmos;3;69.90;pix
+PED-00331;2025-03-04;Isabela Melo;Petrolina;livros;Python para Dados;5;119.00;pix
+PED-00332;2025-06-01;Paula Santos;Recife;livros;Python para Dados;1;119.00;pix
+PED-00333;2025-01-27;Larissa Oliveira;Garanhuns;Esporte;Tapete de Yoga;1;119.90;boleto
+PED-00334;2025-01-02;Diego Souza;Petrolina;Esporte;Garrafa Squeeze;2;29.90;cartão de crédito
+PED-00335;14/04/2025;Thiago Costa;Recife;Esporte;Tapete de Yoga;3;119.90;BOLETO
+PED-00336;2025-06-25;Vitória Oliveira;Petrolina;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00337;30/06/2025;João Santos;Olinda;Eletrônicos;Caixa de Som;1;249.90;CARTÃO DE DÉBITO
+PED-00338;2025-02-21;Carla Ferreira;RECIFE;Esporte;Tapete de Yoga;1;119.90;pix
+PED-00339;02/03/2025;Heitor Costa;Olinda;Casa;Jogo de Toalhas;1;99.90;Pix
+PED-00340;2025-01-13;Bruno Lima;Caruaru;eletrônicos;Mouse sem Fio;1;89,90;cartão de crédito
+PED-00341;2025-06-23;Marcos Oliveira;Petrolina;Eletrônicos;Caixa de Som;3;249.90;pix
+PED-00342;2025-04-05;Otávio Silva;Recife;Livros;Estatística Básica;1;159.90;pix
+PED-00343;2025-01-19;Larissa Barbosa;Recife;Livros;Storytelling com Dados;1;79.90;PIX
+PED-00344;2025-05-10;João Ferreira;Caruaru;casa;Jogo de Toalhas;2;99.90;cartão de crédito
+PED-00345;11/03/2025;Carla Cavalcanti;Olinda;papelaria;Kit Canetas;1;34.90;cartão de crédito
+PED-00346;2025-04-05;Yuri Silva;  recife ;Livros;Estatística Básica;3;159.90;pix
+PED-00347;2025-04-25;Sofia Costa;Garanhuns;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00348;18/06/2025;Yuri Oliveira;Caruaru;Esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00349;2025-05-21;Diego Santos;Recife;Eletrônicos;Fone Bluetooth;1;129.90;CARTÃO DE DÉBITO
+PED-00350;31/02/2025;Eduarda Silva;RECIFE;Papelaria;Kit Canetas;1;34,90;cartão de crédito
+PED-00351;17/04/2025;Isabela Melo;RECIFE;Esporte;Tênis de Corrida;1;R$ 349,90;cartao de credito
+PED-00352;2025-05-26;Felipe Cavalcanti;Recife;Eletrônicos;Carregador Turbo;4;R$ 59,90;pix
+PED-00353;2025-13-01;Diego Barbosa;Garanhuns;Livros;Storytelling com Dados;1;79.90;pix
+PED-00354;2025-01-02;Marcos Ferreira;  petrolina ;Livros;Estatística Básica;5;159.90;PIX
+PED-00355;2025-04-03;Gabriela Ferreira;Garanhuns;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-00356;2025-05-08;Natália Melo;  recife ;Eletrônicos;Fone Bluetooth;1;129,90;cartão de crédito
+PED-00357;12/06/2025;Natália Oliveira;Recife;Eletrônicos;Fone Bluetooth;2;129,90;pix
+PED-00358;2025-01-14;Isabela Santos;Recife;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-00359;2025-05-29;Heitor Cavalcanti;Garanhuns;Livros;Estatística Básica;1;159,90;pix
+PED-00360;31/05/2025;Bruno Costa;OLINDA;casa;Cafeteira;2;R$ 189,90;cartão de crédito
+PED-00361;24/05/2025;Gabriela Oliveira;RECIFE;Casa;Cafeteira;1;R$ 189,90;CARTÃO DE DÉBITO
+PED-00362;2025-02-16;João Santos;Olinda;Esporte;Tapete de Yoga;4;119,90;PIX
+PED-00363;07/05/2025;Ana Melo;Recife;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00364;2025-06-25;Larissa Albuquerque;Recife;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-00365;2025-06-21;Paula Albuquerque;Recife;Esporte;Tênis de Corrida;1;349.90;boleto
+PED-00366;2025-03-08;Marcos Santos;  recife ;Esporte;Tênis de Corrida;1;349.90;cartao de credito
+PED-00367;2025-05-10;João Costa;Recife;Livros;Storytelling com Dados;1;R$ 79,90;cartão de crédito
+PED-00368;09/01/2025;Carla Oliveira;RECIFE;Esporte;Garrafa Squeeze;1;R$ 29,90;cartão de débito
+PED-00369;20/02/2025;Natália Barbosa;Caruaru;Casa;Jogo de Toalhas;1;99,90;pix
+PED-00370;2025-05-10;Rafael Costa;Recife;Livros;Python para Dados;3;119.00;cartão de crédito
+PED-00371;2025-01-14;Sofia Melo;Olinda;esporte;Tapete de Yoga;1;119.90;CARTÃO DE DÉBITO
+PED-00372;2025-06-05;Otávio Araújo;Garanhuns;Esporte;Tapete de Yoga;3;119.90;pix
+PED-00373;23/04/2025;Larissa Oliveira;GARANHUNS;Papelaria;Kit Canetas;1;34.90;pix
+PED-00374;2025-03-04;Rafael Costa;Recife;livros;Entendendo Algoritmos;2;69.90;cartão de débito
+PED-00375;2025-03-20;Thiago Souza;RECIFE;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-00376;2025-04-30;Larissa Albuquerque;Recife;Casa;Cafeteira;2;189.90;cartão de crédito
+PED-00377;2025-01-06;Rafael Lima;Recife;Livros;Storytelling com Dados;5;79,90;pix
+PED-00378;2025-03-16;Paula Silva;Recife;Papelaria;Planner 2025;-1;64.90;pix
+PED-00379;2025-02-12;Marcos Lima;GARANHUNS;Livros;Estatística Básica;2;;cartão de crédito
+PED-00380;2025-02-21;Otávio Melo;RECIFE;Eletrônicos;Caixa de Som;3;249,90;boleto
+PED-00381;2025-05-04;Natália Souza;RECIFE;eletrônicos;Smartwatch;1;399.00;pix
+PED-00382;26/03/2025;Eduarda Ferreira;Recife;Casa;Luminária LED;1;74.50;cartao de credito
+PED-00383;07/02/2025;Paula Barbosa;Recife;Esporte;Tapete de Yoga;1;R$ 119,90;pix
+PED-00384;25/01/2025;Bruno Souza;Caruaru;Papelaria;Caderno Inteligente;1;89.00;cartão de crédito
+PED-00385;08/02/2025;Thiago Costa;Caruaru;Livros;Storytelling com Dados;4;R$ 79,90;boleto
+PED-00386;11/05/2025;Rafael Santos;Olinda;Eletrônicos;Fone Bluetooth;2;129,90;pix
+PED-00387;2025-03-10;Isabela Silva;Recife;Livros;Storytelling com Dados;1;R$ 79,90;pix
+PED-00388;2025-02-24;Otávio Lima;Garanhuns;esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00389;2025-04-04;Paula Silva;  olinda ;Casa;Luminária LED;1;74.50;pix
+PED-00390;00/00/0000;Sofia Silva;Garanhuns;Eletrônicos;Mouse sem Fio;1;89,90;cartão de crédito
+PED-00391;2025-04-19;Bruno Silva;Caruaru;Livros;Python para Dados;4;119.00;boleto
+PED-00392;2025-05-31;Vitória Albuquerque;Recife;Casa;Luminária LED;3;74.50;pix
+PED-00393;2025-02-21;Felipe Souza;Recife;Esporte;Tênis de Corrida;1;349.90;CARTÃO DE DÉBITO
+PED-00394;2025-05-05;Marcos Silva;Recife;Esporte;Tênis de Corrida;2;349.90;pix
+PED-00395;20/06/2025;Ana Santos;Recife;Eletrônicos;Caixa de Som;1;249.90;cartao de credito
+PED-00396;31/01/2025;Sofia Costa;Recife;livros;Storytelling com Dados;2;79.90;pix
+PED-00397;2025-06-04;Natália Souza;Garanhuns;Casa;Garrafa Térmica;2;54.90;pix
+PED-00398;2025-05-30;Gabriela Albuquerque;Recife;Eletrônicos;Smartwatch;-1;399.00;pix
+PED-00399;2025-04-09;Sofia Cavalcanti;Recife;Papelaria;Caderno Inteligente;2;89.00;CARTÃO DE CRÉDITO
+PED-00400;2025-06-24;Rafael Costa;Caruaru;Casa;Garrafa Térmica;2;54.90;pix
+PED-00401;27/04/2025;Marcos Santos;Recife;Eletrônicos;Fone Bluetooth;1;129,90;cartão de crédito
+PED-00402;09/06/2025;Otávio Silva;Recife;Livros;Entendendo Algoritmos;1;69.90;cartão de débito
+PED-00403;2025-04-21;Ana Albuquerque;Recife;Eletrônicos;Smartwatch;1;399.00;boleto
+PED-00404;14/04/2025;Bruno Melo;  caruaru ;Livros;Storytelling com Dados;5;79,90;cartão de crédito
+PED-00405;10/06/2025;Eduarda Lima;Paulista;livros;Python para Dados;2;119.00;cartão de crédito
+PED-00406;06/02/2025;Isabela Costa;OLINDA;Papelaria;Planner 2025;1;64,90;cartão de crédito
+PED-00407;2025-04-13;Diego Costa;Recife;Livros;Estatística Básica;1;R$ 159,90;cartão de crédito
+PED-00408;2025-02-05;Eduarda Silva;Caruaru;Livros;Entendendo Algoritmos;1;R$ 69,90;pix
+PED-00409;06/02/2025;Thiago Santos;Paulista;Papelaria;Planner 2025;1;64,90;CARTÃO DE CRÉDITO
+PED-00410;12/04/2025;Diego Melo;Recife;Esporte;Mochila Esportiva;2;159.00;cartão de crédito
+PED-00411;2025-05-12;Vitória Albuquerque;Recife;Esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-00412;20/03/2025;Rafael Souza;Recife;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00413;2025-01-05;Felipe Cavalcanti;Recife;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-00414;2025-02-20;Felipe Ferreira;Paulista;Casa;Garrafa Térmica;1;54.90;Pix
+PED-00415;2025-06-06;Paula Barbosa;Recife;Casa;Luminária LED;2;74.50;pix
+PED-00416;05/02/2025;Larissa Ferreira;Recife;Casa;Luminária LED;2;74.50;cartão de crédito
+PED-00417;2025-03-14;Bruno Cavalcanti;Garanhuns;casa;Luminária LED;4;74.50;cartão de crédito
+PED-00418;11/02/2025;Bruno Oliveira;Olinda;Eletrônicos;Mouse sem Fio;5;89.90;cartão de crédito
+PED-00419;22/04/2025;Larissa Cavalcanti;Petrolina;Eletrônicos;Carregador Turbo;3;59.90;CARTÃO DE CRÉDITO
+PED-00420;2025-05-08;João Souza;Paulista;Papelaria;Kit Canetas;2;34.90;cartão de crédito
+PED-00421;2025-04-22;Isabela Oliveira;RECIFE;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00422;19/06/2025;Heitor Cavalcanti;Caruaru;Eletrônicos;Smartwatch;1;399.00;cartão de débito
+PED-00423;04/01/2025;Otávio Oliveira;PETROLINA;Livros;Python para Dados;1;119.00;pix
+PED-00424;28/06/2025;Thiago Silva;Olinda;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00425;2025-06-12;Bruno Ferreira;Caruaru;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00426;2025-01-28;Marcos Silva;Olinda;Papelaria;Caderno Inteligente;3;89.00;pix
+PED-00427;09/04/2025;João Araújo;Paulista;Casa;Luminária LED;1;74.50;pix
+PED-00428;2025-05-02;Yuri Lima;Petrolina;Livros;Storytelling com Dados;1;79.90;cartão de crédito
+PED-00429;2025-05-08;Ana Santos;Recife;Livros;Storytelling com Dados;2;79.90;cartao de credito
+PED-00430;2025-01-18;Paula Costa;Paulista;Casa;Garrafa Térmica;1;54.90;pix
+PED-00431;2025-06-11;Eduarda Costa;Garanhuns;Eletrônicos;Caixa de Som;1;R$ 249,90;cartão de débito
+PED-00432;2025-02-02;Otávio Souza;Olinda;Casa;Cafeteira;1;R$ 189,90;pix
+PED-00433;2025-03-18;Natália Lima;Olinda;casa;Garrafa Térmica;2;R$ 54,90;cartão de crédito
+PED-00434;2025-05-11;Sofia Barbosa;  recife ;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00435;2025-02-07;Gabriela Costa;Caruaru;livros;Python para Dados;2;R$ 119,00;pix
+PED-00436;13/02/2025;Natália Barbosa;OLINDA;Eletrônicos;Caixa de Som;1;249.90;boleto
+PED-00437;2025-01-02;Ana Barbosa;Recife;Eletrônicos;Mouse sem Fio;1;89.90;PIX
+PED-00438;2025-02-23;Carla Melo;  olinda ;Papelaria;Kit Canetas;1;34.90;CARTÃO DE DÉBITO
+PED-00439;2025-05-09;Carla Araújo;Paulista;Casa;Jogo de Toalhas;1;99.90;CARTÃO DE CRÉDITO
+PED-00440;2025-03-24;Vitória Cavalcanti;Recife;eletrônicos;Mouse sem Fio;2;89.90;pix
+PED-00441;2025-13-01;Sofia Cavalcanti;Recife;Livros;Storytelling com Dados;5;79,90;cartao de credito
+PED-00442;2025-03-04;Carla Oliveira;Recife;Livros;Python para Dados;3;119.00;cartão de débito
+PED-00443;2025-04-29;Carla Cavalcanti;Recife;Esporte;Tapete de Yoga;;119,90;pix
+PED-00444;2025-01-17;Eduarda Cavalcanti;Recife;Casa;Luminária LED;1;R$ 74,50;pix
+PED-00445;2025-06-11;Felipe Costa;Recife;Esporte;Mochila Esportiva;1;159.00;boleto
+PED-00446;2025-06-09;Ana Costa;Recife;Eletrônicos;Smartwatch;1;R$ 399,00;boleto
+PED-00447;2025-04-16;Gabriela Cavalcanti;Recife;Casa;Garrafa Térmica;1;R$ 54,90;pix
+PED-00448;2025-05-16;Thiago Santos;  olinda ;Esporte;Garrafa Squeeze;4;R$ 29,90;cartão de crédito
+PED-00449;03/03/2025;Ana Oliveira;Recife;eletrônicos;Fone Bluetooth;4;129,90;cartão de crédito
+PED-00450;2025-01-07;Diego Costa;  garanhuns ;Eletrônicos;Caixa de Som;;249,90;PIX
+PED-00451;2025-06-11;Rafael Silva;Garanhuns;Papelaria;Kit Canetas;1;34.90;pix
+PED-00452;2025-03-12;Diego Souza;CARUARU;esporte;Tênis de Corrida;2;349.90;cartão de débito
+PED-00453;2025-03-24;Gabriela Ferreira;Olinda;Casa;Garrafa Térmica;2;54.90;cartao de credito
+PED-00454;2025-06-14;Felipe Silva;  garanhuns ;Papelaria;Planner 2025;2;64.90;cartão de crédito
+PED-00455;2025-05-29;Gabriela Albuquerque;Recife;Esporte;Garrafa Squeeze;2;29,90;cartao de credito
+PED-00456;2025-06-09;Yuri Santos;Olinda;Livros;Estatística Básica;5;159.90;PIX
+PED-00457;20/05/2025;Isabela Albuquerque;Garanhuns;Casa;Jogo de Toalhas;3;99.90;cartão de crédito
+PED-00442;2025-03-04;Carla Oliveira;Recife;Livros;Python para Dados;3;119.00;cartão de débito
+PED-00458;24/06/2025;Yuri Albuquerque;  paulista ;Esporte;Tênis de Corrida;um;R$ 349,90;PIX
+PED-00459;2025-02-28;Carla Barbosa;Recife;Livros;Python para Dados;1;119.00;boleto
+PED-00460;04/05/2025;Diego Cavalcanti;Petrolina;Papelaria;Caderno Inteligente;4;89.00;Pix
+PED-00461;2025-04-18;Heitor Oliveira;Olinda;Papelaria;Caderno Inteligente;3;89,00;cartão de crédito
+PED-00462;2025-06-24;Thiago Albuquerque;Paulista;Livros;Python para Dados;2;119.00;cartao de credito
+PED-00463;2025-04-13;Yuri Barbosa;Garanhuns;Livros;Entendendo Algoritmos;1;69,90;pix
+PED-00464;2025-05-24;Carla Ferreira;Recife;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00465;2025-01-18;Gabriela Melo;Olinda;Casa;Jogo de Toalhas;0;99.90;pix
+PED-00466;2025-05-19;Otávio Cavalcanti;  paulista ;Casa;Luminária LED;2;R$ 74,50;pix
+PED-00467;2025-06-04;Marcos Souza;  caruaru ;Papelaria;Kit Canetas;2;R$ 34,90;cartão de crédito
+PED-00468;2025-02-03;Thiago Silva;Recife;Livros;Entendendo Algoritmos;3;69.90;cartão de crédito
+PED-00469;11/03/2025;Felipe Souza;Recife;Eletrônicos;Mouse sem Fio;2;89,90;pix
+PED-00470;2025-05-12;Isabela Silva;OLINDA;Livros;Entendendo Algoritmos;2;69.90;Pix
+PED-00471;2025-05-19;Thiago Albuquerque;Olinda;Casa;Luminária LED;2;74.50;pix
+PED-00472;2025-03-29;João Barbosa;Caruaru;Livros;Entendendo Algoritmos;3;R$ 69,90;pix
+PED-00473;06/04/2025;Larissa Cavalcanti;Olinda;Eletrônicos;Fone Bluetooth;1;R$ 129,90;pix
+PED-00474;13/05/2025;Yuri Barbosa;Recife
+PED-00475;30/04/2025;Rafael Melo;Paulista;livros;Estatística Básica;1;159.90;pix
+PED-00476;;Natália Santos;Recife;Esporte;Tênis de Corrida;2;R$ 349,90;PIX
+PED-00477;2025-06-26;Bruno Ferreira;Paulista;Esporte;Garrafa Squeeze;4;29.90;pix
+PED-00478;2025-05-14;Diego Melo;Petrolina;Papelaria;Planner 2025;1;64.90;PIX
+PED-00479;2025-02-14;Eduarda Santos;Petrolina;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00480;2025-06-05;Vitória Santos;Paulista;Livros;Entendendo Algoritmos;3;69.90;pix
+PED-00481;2025-04-29;Thiago Santos;Caruaru;Livros;Estatística Básica;dois;159.90;pix
+PED-00482;2025-04-01;Felipe Melo;Caruaru;Esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-00483;2025-06-07;Vitória Albuquerque;Caruaru;Livros;Python para Dados;1;R$ 119,00;cartão de crédito
+PED-00484;11/06/2025;Carla Oliveira;Recife;Livros;Estatística Básica;1;R$ 159,90;cartão de crédito
+PED-00485;09/01/2025;Yuri Costa;Caruaru;Casa;Cafeteira;1;R$ 189,90;boleto
+PED-00486;2025-01-29;Carla Araújo;Recife;Casa;Luminária LED;2;74.50;pix
+PED-00487;2025-06-12;Isabela Souza;Recife;Eletrônicos;Fone Bluetooth;2;129.90;cartão de crédito
+PED-00488;2025-04-05;Felipe Oliveira;Recife;Esporte;Tapete de Yoga;1;119,90;pix
+PED-00489;2025-01-14;Yuri Souza;CARUARU;Papelaria;Caderno Inteligente;1;89.00;Pix
+PED-00490;2025-01-19;Larissa Costa;Recife;Eletrônicos;Carregador Turbo;1;59.90;boleto
+PED-00491;2025-06-13;Eduarda Araújo;  garanhuns ;Eletrônicos;Smartwatch;2;R$ 399,00;cartão de crédito
+PED-00492;2025-02-25;Eduarda Souza;Recife;Eletrônicos;Caixa de Som;3;consultar;pix
+PED-00493;2025-05-23;Rafael Araújo;Caruaru;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00494;2025-05-05;Rafael Lima;Caruaru;Eletrônicos;Caixa de Som;-1;249.90;cartão de crédito
+PED-00495;2025-02-07;Marcos Albuquerque;Paulista;Esporte;Garrafa Squeeze;1;29.90;cartão de débito
+PED-00496;2025-03-01;Thiago Albuquerque;Olinda;Esporte;Tênis de Corrida;1;349.90;PIX
+PED-00497;2025-04-02;Marcos Souza;Caruaru;Eletrônicos;Fone Bluetooth;2;129.90;pix
+PED-00498;2025-03-25;Carla Silva;Recife;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00499;2025-05-22;Isabela Lima;Recife;Papelaria;Planner 2025;1;64.90;PIX
+PED-00475;30/04/2025;Rafael Melo;Paulista;livros;Estatística Básica;1;159.90;pix
+PED-00500;2025-06-21;Otávio Costa;Garanhuns;Esporte;Tapete de Yoga;1;R$ 119,90;cartão de débito
+PED-00501;2025-06-25;Sofia Araújo;Recife;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00502;2025-05-03;Paula Barbosa;Caruaru;Casa;Luminária LED;4;74.50;cartão de crédito
+PED-00503;2025-04-21;Natália Oliveira;Recife;Eletrônicos;Caixa de Som;1;R$ 249,90;cartao de debito
+PED-00504;21/04/2025;Paula Souza;  petrolina ;Livros;Storytelling com Dados;1;79,90;cartão de crédito
+PED-00505;05/06/2025;João Lima;Olinda;Eletrônicos;Fone Bluetooth;3;129.90;Pix
+PED-00506;04/02/2025;Diego Ferreira;Petrolina;Livros;Estatística Básica;1;159,90;pix
+PED-00507;08/02/2025;Eduarda Santos;Recife;Casa;Jogo de Toalhas;1;99.90;pix
+PED-00508;2025-01-05;Felipe Ferreira;  recife ;Eletrônicos;Carregador Turbo;2;59.90;cartão de crédito
+PED-00481;2025-04-29;Thiago Santos;Caruaru;Livros;Estatística Básica;dois;159.90;pix
+PED-00509;17/01/2025;Carla Lima;Olinda;Casa;Garrafa Térmica;2;54.90;Boleto
+PED-00510;2025-04-13;Eduarda Santos;Recife;papelaria;Kit Canetas;1;R$ 34,90;cartão de crédito
+
+PED-00511;09/05/2025;Diego Barbosa;  olinda ;Papelaria;Caderno Inteligente;1;R$ 89,00;CARTÃO DE CRÉDITO
+PED-00512;2025-05-15;Marcos Araújo;Garanhuns;Esporte;Garrafa Squeeze;1;29.90;cartão de crédito
+PED-00513;2025-01-10;Rafael Oliveira;OLINDA;Casa;Cafeteira;4;189.90;cartão de crédito
+PED-00514;28/06/2025;João Costa;  recife ;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-00515;10/04/2025;Carla Santos;Paulista;Casa;Garrafa Térmica;3;54.90;CARTÃO DE CRÉDITO
+PED-00516;2025-03-29;Vitória Oliveira;Caruaru;eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00517;18/03/2025;Isabela Albuquerque;Paulista;Esporte;Tapete de Yoga;1;119.90;Boleto
+PED-00502;2025-05-03;Paula Barbosa;Caruaru;Casa;Luminária LED;4;74.50;cartão de crédito
+PED-00518;2025-02-08;João Lima;Recife;Esporte;Tênis de Corrida;5;349.90;pix
+PED-00519;2025-06-25;Ana Lima;Garanhuns;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00520;07/05/2025;Heitor Ferreira;Olinda;Livros;Estatística Básica;1;159,90;cartão de débito
+PED-00521;04/02/2025;Thiago Souza;Recife;;Tênis de Corrida;2;R$ 349,90;pix
+PED-00522;2025-06-08;Rafael Araújo;  recife ;Esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00523;2025-02-02;Thiago Silva;PETROLINA;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00524;2025-05-24;Thiago Souza;Petrolina;Casa;Luminária LED;1;74.50;pix
+PED-00525;2025-02-15;Bruno Albuquerque;Olinda;Livros;Python para Dados;1;119.00;Pix
+PED-00526;22/05/2025;Heitor Santos;Recife;papelaria;Planner 2025;2;R$ 64,90;cartão de crédito
+PED-00527;2025-05-09;Isabela Santos;OLINDA;Livros;Entendendo Algoritmos;5;69.90;cartão de crédito
+PED-00528;2025-05-05;João Souza;Caruaru;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00529;2025-04-14;Thiago Lima;Petrolina;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00530;09/02/2025;Ana Araújo;Paulista;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-00531;22/03/2025;Felipe Albuquerque;Olinda;Papelaria;Caderno Inteligente;2;89.00;pix
+PED-00532;2025-05-17;Marcos Santos;Recife;Esporte;Tênis de Corrida;1;349.90;boleto
+PED-00533;23/05/2025;Felipe Souza;Recife;Esporte;Mochila Esportiva;1;159.00;pix
+PED-00534;08/02/2025;Vitória Lima;Recife;esporte;Garrafa Squeeze;5;29.90;cartão de crédito
+PED-00535;2025-06-15;Yuri Lima;Olinda;papelaria;Planner 2025;2;64.90;cartão de crédito
+PED-00536;09/03/2025;Ana Oliveira;Paulista;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00537;2025-05-01;Thiago Cavalcanti;Olinda;Esporte;Tapete de Yoga;1;119.90;cartão de débito
+PED-00538;2025-06-04;Diego Melo;Paulista;Casa;Luminária LED;1;R$ 74,50;boleto
+PED-00539;2025-03-24;Ana Oliveira;Petrolina;Eletrônicos;Smartwatch;2;399.00;cartão de crédito
+PED-00540;2025-06-30;Gabriela Araújo;Recife;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00538;2025-06-04;Diego Melo;Paulista;Casa;Luminária LED;1;R$ 74,50;boleto
+PED-00541;2025-01-25;Carla Souza;Paulista;Casa;Jogo de Toalhas;1;99.90;pix
+PED-00542;11/04/2025;Bruno Cavalcanti;Paulista;Livros;Storytelling com Dados;3;79.90;BOLETO
+PED-00543;01/01/2025;João Lima;Recife;Papelaria;Caderno Inteligente;4;89.00;pix
+PED-00544;2025-05-20;Otávio Costa;Paulista;Livros;Storytelling com Dados;2;79.90;cartão de crédito
+PED-00545;28/06/2025;Paula Oliveira;Recife;Esporte;Mochila Esportiva;2;R$ 159,00;PIX
+PED-00546;2025-05-05;Thiago Santos;Olinda;Eletrônicos;Caixa de Som;2;249.90;boleto
+PED-00547;2025-04-21;Eduarda Albuquerque;  recife ;Eletrônicos;Smartwatch;5;R$ 399,00;pix
+PED-00548;21/02/2025;Isabela Lima;RECIFE;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00549;2025-04-01;Felipe Santos;Garanhuns;Eletrônicos;Carregador Turbo;5;R$ 59,90;pix
+PED-00550;24/02/2025;Marcos Costa;Recife;Casa;Luminária LED;5;74.50;cartão de crédito
+PED-00551;2025-05-29;Isabela Santos;Recife;Eletrônicos;Smartwatch;1;399.00;Pix
+PED-00552;2025-05-25;Heitor Silva;Petrolina;Livros;Storytelling com Dados;3;79.90;pix
+PED-00523;2025-02-02;Thiago Silva;PETROLINA;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00553;2025-05-29;Diego Barbosa;Recife;eletrônicos;Caixa de Som;1;249.90;pix
+PED-00554;03/06/2025;Eduarda Araújo;Olinda;casa;Luminária LED;4;R$ 74,50;cartão de crédito
+PED-00555;19/02/2025;Marcos Ferreira;CARUARU;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00556;2025-06-09;Otávio Oliveira;Paulista;Eletrônicos;Fone Bluetooth;1;129.90;cartão de débito
+PED-00557;2025-01-30;Marcos Araújo;Garanhuns;Casa;Garrafa Térmica;1;54.90;cartão de crédito
+PED-00558;2025-04-10;Eduarda Ferreira;Recife;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00550;24/02/2025;Marcos Costa;Recife;Casa;Luminária LED;5;74.50;cartão de crédito
+PED-00559;24/02/2025;Yuri Silva;Olinda;Eletrônicos;Smartwatch;1;399.00;Pix
+PED-00560;01/06/2025;Eduarda Araújo;Recife;Eletrônicos;Smartwatch;3;R$ 399,00;cartão de crédito
+PED-00561;29/04/2025;Carla Santos;Recife;Eletrônicos;Fone Bluetooth;2;129.90;boleto
+PED-00562;2025-01-30;Eduarda Costa;Caruaru;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00563;2025-01-15;Diego Lima;RECIFE;papelaria;Planner 2025;;R$ 64,90;cartão de crédito
+PED-00564;29/01/2025;Vitória Melo;Paulista;Eletrônicos;Carregador Turbo;1;59.90;boleto
+PED-00565;2025-01-19;Diego Costa;Olinda;Esporte;Mochila Esportiva;4;159.00;PIX
+PED-00566;2025-05-29;Yuri Albuquerque;Caruaru;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00567;2025-06-10;Bruno Costa;Recife;Eletrônicos;Smartwatch;2;399.00;cartão de crédito
+PED-00568;2025-06-18;Natália Costa;  olinda ;Papelaria;Caderno Inteligente;2;R$ 89,00;cartão de crédito
+PED-00569;03/06/2025;Thiago Araújo;Olinda;Eletrônicos;Carregador Turbo;1;R$ 59,90;cartão de crédito
+PED-00570;2025-06-05;Marcos Souza;Olinda;esporte;Tênis de Corrida;5;349.90;pix
+PED-00571;2025-01-02;Eduarda Barbosa;Caruaru;;Garrafa Térmica;1;54.90;pix
+PED-00572;2025-05-11;Paula Costa;Recife;Casa;Cafeteira;2;189.90;cartão de crédito
+PED-00573;2025-02-03;Heitor Ferreira;CARUARU;livros;Storytelling com Dados;;79.90;PIX
+PED-00574;22/05/2025;Otávio Barbosa;Olinda;casa;Cafeteira;2;189.90;cartão de crédito
+PED-00575;2025-06-12;Sofia Ferreira;Recife;Papelaria;Kit Canetas;1;34.90;PIX
+PED-00576;2025-01-28;Larissa Ferreira;Recife;Eletrônicos;Caixa de Som;3;249.90;cartão de débito
+PED-00577;2025-06-21;Vitória Barbosa;Recife;eletrônicos;Mouse sem Fio;2;89.90;cartão de crédito
+PED-00578;25/03/2025;Eduarda Costa;Recife;Casa;Jogo de Toalhas;1
+PED-00579;2025-06-09;Felipe Ferreira;Olinda;Eletrônicos;Fone Bluetooth;2;R$ 129,90;cartão de crédito
+PED-00580;2025-05-22;Ana Barbosa;Recife;Casa;Jogo de Toalhas;2;99.90;cartão de crédito
+PED-00581;19/06/2025;Heitor Araújo;RECIFE;Eletrônicos;Smartwatch;2;R$ 399,00;PIX
+PED-00582;21/05/2025;João Silva;Recife;Esporte;Mochila Esportiva;1;159,00;pix
+PED-00583;2025-06-16;Isabela Ferreira;Garanhuns;Esporte;Tapete de Yoga;1;119.90;boleto
+PED-00584;28/06/2025;Diego Souza;Recife;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00585;2025-04-22;Thiago Araújo;Caruaru;Casa;Luminária LED;1;R$ 74,50;cartão de débito
+PED-00586;2025-02-10;Diego Cavalcanti;Garanhuns;Livros;Storytelling com Dados;2;79.90;boleto
+PED-00587;2025-06-26;Yuri Oliveira;Recife;casa;Jogo de Toalhas;2;99.90;cartão de crédito
+PED-00588;2025-06-11;Larissa Ferreira;RECIFE;Esporte;Mochila Esportiva;2;159.00;cartão de crédito
+PED-00589;2025-06-08;Thiago Cavalcanti;Garanhuns;Eletrônicos;Mouse sem Fio;2;89,90;pix
+PED-00590;2025-06-19;Ana Silva;Recife;Eletrônicos;Mouse sem Fio;1;89.90;boleto
+PED-00591;2025-05-02;Gabriela Araújo;Garanhuns;Casa;Luminária LED;1;74.50;cartão de débito
+PED-00592;2025-04-21;Carla Costa;Garanhuns;Eletrônicos;Fone Bluetooth;1;129.90;cartão de crédito
+PED-00593;2025-06-12;Gabriela Silva;Paulista;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00594;10/01/2025;Paula Costa;Recife;Casa;Luminária LED;2;74.50;cartão de crédito
+PED-00595;09/01/2025;Larissa Araújo;Recife;livros;Estatística Básica;3
+PED-00596;2025-05-27;Yuri Oliveira;Recife;Livros;Entendendo Algoritmos;2;69.90;pix
+PED-00597;22/03/2025;Natália Lima;RECIFE;eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-00598;2025-02-28;Bruno Costa;Recife;Eletrônicos;Caixa de Som;2;249.90;pix
+PED-00599;09/04/2025;Felipe Cavalcanti;Recife;Livros;Python para Dados;2;119.00;cartão de crédito
+PED-00600;29/06/2025;Ana Souza;Recife;Eletrônicos;Smartwatch;1;399,00;cartão de débito
+PED-00601;2025-05-08;Otávio Albuquerque;Caruaru;Casa;Garrafa Térmica;1;54.90;pix
+PED-00602;2025-02-03;Felipe Melo;Petrolina;Eletrônicos;Caixa de Som;;249.90;cartão de crédito
+PED-00603;2025-02-03;Natália Albuquerque;Olinda;Casa;Garrafa Térmica;1;R$ 54,90;cartão de débito
+PED-00604;2025-04-12;João Melo;Recife;Livros;Estatística Básica;1;159.90;cartão de débito
+PED-00605;2025-05-12;Vitória Melo;Recife;Livros;Entendendo Algoritmos;2;69.90;pix
+PED-00606;2025-05-02;Isabela Oliveira;Garanhuns;Casa;Luminária LED;3;74.50;cartão de crédito
+PED-00607;2025-04-10;Diego Santos;Garanhuns;Casa;Garrafa Térmica;4;54.90;PIX
+PED-00608;2025-02-18;Sofia Cavalcanti;Garanhuns;Livros;Estatística Básica;3;159,90;pix
+PED-00609;05/03/2025;Eduarda Araújo;Recife;Livros;Storytelling com Dados;3;79,90;cartão de crédito
+PED-00610;2025-03-29;Thiago Lima;  olinda ;Esporte;Garrafa Squeeze;1;R$ 29,90;Pix
+PED-00611;2025-05-09;Carla Souza;Recife;Livros;Estatística Básica;1;R$ 159,90;pix
+PED-00612;18/02/2025;Rafael Cavalcanti;Recife;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00613;2025-01-14;Carla Santos;Paulista;Livros;Storytelling com Dados;2;79.90;CARTÃO DE DÉBITO
+PED-00614;02/02/2025;Heitor Costa;Recife;papelaria;Planner 2025;1;64.90;cartão de crédito
+PED-00615;18/05/2025;Eduarda Souza;Petrolina;Casa;Luminária LED;1;74.50;boleto
+PED-00616;2025-01-21;Gabriela Araújo;PETROLINA;eletrônicos;Smartwatch;3;399.00;cartão de débito
+PED-00617;2025-02-27;Yuri Araújo;  recife ;Livros;Python para Dados;1;119.00;cartão de crédito
+PED-00618;2025-06-22;Ana Souza;Olinda;Livros;Storytelling com Dados;4;79.90;cartão de crédito
+PED-00619;28/01/2025;Bruno Barbosa;Recife;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-00620;2025-04-30;Marcos Souza;Recife;Eletrônicos;Carregador Turbo;1;R$ 59,90;pix
+PED-00606;2025-05-02;Isabela Oliveira;Garanhuns;Casa;Luminária LED;3;74.50;cartão de crédito
+PED-00621;2025-03-15;Eduarda Lima;  garanhuns ;Esporte;Tapete de Yoga;2;R$ 119,90;pix
+PED-00622;;Felipe Araújo;Petrolina;Eletrônicos;Carregador Turbo;1;59.90;Pix
+PED-00623;2025-06-30;Felipe Barbosa;Caruaru;Casa;Garrafa Térmica;1;54,90;pix
+PED-00624;2025-06-05;Gabriela Silva;Paulista;Eletrônicos;Fone Bluetooth;1;R$ 129,90;cartão de crédito
+PED-00625;2025-02-08;Natália Cavalcanti;Recife;Eletrônicos;Carregador Turbo;um;59.90;BOLETO
+PED-00626;2025-01-22;Paula Costa;Paulista;Casa;Garrafa Térmica;1;54.90;boleto
+PED-00627;2025-02-21;Carla Cavalcanti;PAULISTA;casa;Luminária LED;2;74.50;cartao de debito
+PED-00628;2025-04-04;Marcos Cavalcanti;Petrolina;Papelaria;Caderno Inteligente;1;89,00;cartão de crédito
+PED-00629;2025-03-26;Yuri Lima;Paulista;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00630;2025-04-05;Bruno Oliveira;Petrolina;Livros;Storytelling com Dados;1;79.90;cartão de crédito
+PED-00631;2025-05-25;Heitor Albuquerque;Recife;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00632;2025-03-19;Bruno Ferreira;Petrolina;Eletrônicos;Fone Bluetooth;2;129.90;CARTÃO DE DÉBITO
+PED-00633;2025-05-22;Vitória Cavalcanti;  olinda ;Eletrônicos;Smartwatch;2;399.00;cartão de débito
+PED-00634;2025-01-02;Bruno Lima;Recife;Esporte;Tênis de Corrida;5;349.90;pix
+PED-00635;30/04/2025;Isabela Silva;Olinda;Esporte;Tapete de Yoga;4;119.90;PIX
+PED-00636;13/04/2025;Ana Melo;Paulista;Papelaria;Caderno Inteligente;1;89.00;cartão de crédito
+PED-00637;2025-06-24;Diego Ferreira;Caruaru;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00638;21/04/2025;Bruno Souza;Caruaru;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00639;2025-06-14;Marcos Ferreira;Recife;Eletrônicos;Caixa de Som;1;249,90;cartão de crédito
+PED-00640;30/04/2025;Natália Lima;Recife;Esporte;Tapete de Yoga;2;119,90;pix
+PED-00641;02/01/2025;Yuri Santos;OLINDA;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-00642;21/04/2025;Larissa Lima;Recife;Esporte;Tapete de Yoga;1;119.90;boleto
+PED-00643;26/01/2025;Gabriela Cavalcanti;Olinda;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-00644;2025-06-28;Yuri Melo;CARUARU;Esporte;Tênis de Corrida;1;349,90;BOLETO
+PED-00645;2025-05-26;Eduarda Souza;RECIFE;Eletrônicos;Smartwatch;2;399.00;CARTÃO DE CRÉDITO
+PED-00646;04/04/2025;Yuri Barbosa;RECIFE;eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00647;2025-04-25;Yuri Ferreira;Olinda;Esporte;Tênis de Corrida;2;349.90;pix
+PED-00648;02/02/2025;Otávio Oliveira;Olinda;Eletrônicos;Smartwatch;2;R$ 399,00;PIX
+PED-00649;2025-06-16;Gabriela Silva;  caruaru ;Papelaria;Kit Canetas;1;R$ 34,90;cartão de crédito
+PED-00650;04/05/2025;Yuri Albuquerque;  recife ;Casa;Luminária LED;1;R$ 74,50;pix
+PED-00651;2025-02-20;Otávio Melo;Recife;Eletrônicos;Carregador Turbo;5;59.90;pix
+PED-00652;14/05/2025;Paula Souza;Garanhuns;Eletrônicos;Smartwatch;4;399.00;cartão de crédito
+PED-00653;2025-06-03;Paula Cavalcanti;Recife;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-00654;2025-06-11;Diego Barbosa;RECIFE;Livros;Storytelling com Dados;2;79.90;pix
+PED-00655;;Larissa Ferreira;Recife;Esporte;Tênis de Corrida;1;349.90;CARTÃO DE CRÉDITO
+PED-00656;2025-04-22;Marcos Souza;Recife;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00657;2025-04-17;Sofia Lima;Recife;Papelaria;Kit Canetas;2;34.90;cartao de credito
+PED-00658;2025-06-23;Felipe Melo;Caruaru;Eletrônicos;Smartwatch;3;399.00;CARTÃO DE CRÉDITO
+PED-00659;01/06/2025;Bruno Souza;Petrolina;Livros;Python para Dados;1;119.00;cartão de crédito
+PED-00660;2025-05-25;Gabriela Albuquerque;Paulista;Casa;Luminária LED;1;74.50;cartao de debito
+PED-00661;2025-05-17;Heitor Barbosa;Recife;Eletrônicos;Carregador Turbo;2;59.90;cartão de crédito
+PED-00662;2025-02-07;João Silva;OLINDA;Eletrônicos;Smartwatch;2;399.00;pix
+PED-00663;2025-03-08;Isabela Oliveira;Garanhuns;Livros;Storytelling com Dados;2;79.90;cartao de credito
+PED-00664;2025-03-18;Paula Lima;  recife ;Eletrônicos;Mouse sem Fio;1;R$ 89,90;pix
+PED-00665;2025-03-01;Yuri Ferreira;Garanhuns;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-00666;21/05/2025;Sofia Cavalcanti;Recife;Esporte;Mochila Esportiva;2;159.00;CARTÃO DE CRÉDITO
+PED-00639;2025-06-14;Marcos Ferreira;Recife;Eletrônicos;Caixa de Som;1;249,90;cartão de crédito
+PED-00667;02/05/2025;Ana Barbosa;Olinda;Eletrônicos;Caixa de Som;2;249.90;cartão de crédito
+PED-00668;2025-02-20;Larissa Lima;CARUARU;Livros;Python para Dados;1;119.00;pix
+PED-00669;2025-04-06;Paula Costa;Recife;Papelaria;Kit Canetas;2;34.90;boleto
+PED-00670;2025-04-02;Yuri Melo;Paulista;Esporte;Tênis de Corrida;1;R$ 349,90;PIX
+PED-00671;2025-01-05;Ana Lima;Recife;Eletrônicos;Smartwatch;1;399,00;cartão de crédito
+PED-00672;2025-06-26;Heitor Costa;Olinda;Papelaria;Caderno Inteligente;3;89.00;cartao de credito
+PED-00673;2025-01-23;Heitor Oliveira;Recife;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-00674;2025-01-22;Carla Costa;Paulista;Papelaria;Caderno Inteligente;3;R$ 89,00;CARTÃO DE DÉBITO
+PED-00675;2025-02-06;Yuri Santos;Olinda;Eletrônicos;Fone Bluetooth;2;129,90;cartão de crédito
+PED-00676;2025-03-26;João Oliveira;Recife;Eletrônicos;Fone Bluetooth;4;129.90;cartao de credito
+PED-00677;2025-02-25;Ana Araújo;Petrolina;Livros;Estatística Básica;3;159.90;cartão de crédito
+PED-00678;21/01/2025;Sofia Ferreira;Olinda;Livros;Estatística Básica;3;159,90;pix
+PED-00679;2025-01-02;Marcos Melo;Olinda;Livros;Storytelling com Dados;1;79,90;CARTÃO DE DÉBITO
+PED-00680;2025-02-20;Felipe Santos;Olinda;esporte;Tênis de Corrida;2;349.90;pix
+PED-00681;2025-01-12;Carla Barbosa;Recife;Casa;Cafeteira;3;189.90;cartao de credito
+PED-00682;12/02/2025;Yuri Ferreira;  recife ;Eletrônicos;Mouse sem Fio;1;89.90;Pix
+PED-00683;2025-05-27;Marcos Cavalcanti;Petrolina;Esporte;Tapete de Yoga;4;119.90;PIX
+PED-00684;01/02/2025;Ana Costa;Olinda;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-00685;2025-02-01;Rafael Lima;Garanhuns;Eletrônicos;Fone Bluetooth;1;R$ 129,90;PIX
+PED-00686;2025-05-07;Natália Ferreira;Caruaru;eletrônicos;Caixa de Som;5;249.90;pix
+PED-00687;2025-01-27;Yuri Santos;RECIFE;Eletrônicos;Carregador Turbo;1;59.90;cartão de crédito
+PED-00688;2025-01-07;Gabriela Albuquerque;Paulista;Esporte;Tapete de Yoga;1;119.90;pix
+PED-00689;29/05/2025;Marcos Albuquerque;Recife;Papelaria;Caderno Inteligente;1;89.00;boleto
+PED-00690;2025-06-30;Sofia Santos;Recife;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00691;29/05/2025;Gabriela Lima;  recife ;Esporte;Mochila Esportiva;2;159.00;CARTÃO DE CRÉDITO
+PED-00692;2025-04-24;Marcos Santos;Recife;Eletrônicos;Fone Bluetooth;2;129.90;CARTÃO DE DÉBITO
+PED-00693;2025-03-06;Thiago Cavalcanti;Recife;Papelaria;Kit Canetas;1;34.90;pix
+PED-00694;2025-06-05;Isabela Araújo;Caruaru;Eletrônicos;Mouse sem Fio;2;89.90;cartão de crédito
+PED-00695;2025-05-19;João Cavalcanti;Recife;Eletrônicos;Fone Bluetooth;2;129.90;cartão de crédito
+PED-00696;2025-01-18;Diego Souza;Recife;Eletrônicos;Smartwatch;0;399.00;pix
+PED-00697;29/04/2025;Paula Melo;Petrolina;Livros;Storytelling com Dados;5;79.90;cartão de crédito
+PED-00698;11/01/2025;Vitória Lima;Caruaru;Esporte;Tapete de Yoga;1;119.90;CARTÃO DE CRÉDITO
+PED-00699;2025-03-28;Rafael Barbosa;Paulista;Eletrônicos;Carregador Turbo;1;R$ 59,90;cartão de crédito
+PED-00700;2025-06-01;Vitória Araújo;PETROLINA;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00701;05/03/2025;Felipe Ferreira;Petrolina;Esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-00702;2025-06-17;Diego Ferreira;  garanhuns ;Livros;Entendendo Algoritmos;2;R$ 69,90;cartão de crédito
+PED-00703;14/06/2025;Felipe Albuquerque;Caruaru;Casa;Jogo de Toalhas;2;99.90;boleto
+PED-00704;2025-04-30;Diego Cavalcanti;Olinda;Eletrônicos;Mouse sem Fio;3;R$ 89,90;pix
+PED-00705;2025-05-14;Paula Albuquerque;Olinda;Papelaria;Kit Canetas;1;34,90;cartão de débito
+PED-00706;2025-06-05;Isabela Oliveira;Petrolina;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00707;2025-01-06;Yuri Ferreira;Paulista;eletrônicos;Carregador Turbo;1;59.90;cartão de crédito
+PED-00708;18/01/2025;Natália Melo;Paulista;esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-00709;29/05/2025;Eduarda Ferreira;  recife ;Eletrônicos;Carregador Turbo;4;59.90;cartao de credito
+PED-00710;2025-05-24;Thiago Souza;  recife ;Casa;Luminária LED;2;74.50;pix
+PED-00711;07/05/2025;Thiago Araújo;  paulista ;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00712;07/06/2025;Eduarda Araújo;GARANHUNS;Livros;Python para Dados;4;119.00;cartão de crédito
+PED-00713;2025-05-26;Ana Araújo;PETROLINA;;Carregador Turbo;5;59.90;pix
+PED-00714;2025-01-14;Ana Cavalcanti;Paulista;Esporte;Tapete de Yoga;1;119,90;pix
+PED-00715;21/02/2025;Larissa Santos;Recife;Casa;Cafeteira;1;189,90;CARTÃO DE CRÉDITO
+PED-00716;2025-04-09;Larissa Barbosa;Recife;Esporte;Tapete de Yoga;3;119.90;cartão de débito
+PED-00717;16/04/2025;Yuri Ferreira;Recife;Livros;Storytelling com Dados;4;79.90;pix
+PED-00718;2025-02-05;Yuri Silva;Recife;Esporte;Tênis de Corrida;1;349,90;PIX
+PED-00719;2025-02-13;Marcos Barbosa;Recife;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00720;2025-06-04;Yuri Melo;Recife;Eletrônicos;Smartwatch;1;399.00;cartão de débito
+PED-00721;2025-06-07;Rafael Souza;Recife;Livros;Entendendo Algoritmos;1;69.90;Boleto
+PED-00722;2025-04-22;João Lima;Recife;Esporte;Garrafa Squeeze;1;29.90;PIX
+PED-00723;2025-05-04;Heitor Melo;Caruaru;Livros;Estatística Básica;3;159.90;cartão de crédito
+PED-00724;2025-06-15;Rafael Silva;Caruaru;Casa;Luminária LED;1;74,50;cartão de crédito
+PED-00725;07/04/2025;Felipe Barbosa;Petrolina;Esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00726;2025-03-14;Bruno Ferreira;Recife;Casa;Cafeteira;2;189.90;cartão de débito
+PED-00727;2025-04-02;João Costa;Paulista;Papelaria;Caderno Inteligente;1;89.00;cartão de crédito
+PED-00728;2025-02-01;Ana Barbosa;Paulista;Eletrônicos;Mouse sem Fio;2;89.90;pix
+PED-00729;2025-03-28;Felipe Santos;Recife;Livros;Python para Dados;2;119.00;cartão de crédito
+PED-00730;25/02/2025;Natália Oliveira;RECIFE;Esporte;Garrafa Squeeze;1;R$ 29,90;pix
+PED-00731;2025-01-25;Bruno Melo;Recife;Papelaria;Planner 2025;2;64,90;pix
+PED-00732;2025-05-15;Heitor Albuquerque;Olinda;esporte;Tapete de Yoga;1;119,90;cartão de crédito
+PED-00733;24/05/2025;Otávio Costa;Caruaru
+PED-00734;28/06/2025;Heitor Araújo;Garanhuns;Casa;Cafeteira;4;189,90;cartão de crédito
+PED-00735;2025-06-27;Isabela Araújo;Caruaru;Esporte;Mochila Esportiva;1;159.00;pix
+PED-00736;15/06/2025;Isabela Cavalcanti;CARUARU;Casa;Jogo de Toalhas;2;99.90;cartão de crédito
+PED-00737;2025-04-02;Bruno Araújo;Recife;Casa;Luminária LED;1;74.50;PIX
+PED-00738;2025-04-17;Diego Silva;Olinda;Livros;Storytelling com Dados;4;79,90;pix
+PED-00739;09/06/2025;Carla Barbosa;CARUARU;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-00740;2025-04-11;Eduarda Cavalcanti;Garanhuns;Eletrônicos;Smartwatch;1;399,00;cartão de débito
+PED-00741;2025-05-08;Yuri Cavalcanti;Garanhuns;Eletrônicos;Caixa de Som;1;R$ 249,90;pix
+PED-00742;2025-06-06;Thiago Oliveira;Caruaru;Eletrônicos;Carregador Turbo;1;59.90;cartão de crédito
+PED-00743;2025-05-11;Heitor Santos;Olinda;Casa;Luminária LED;4;74.50;cartão de crédito
+PED-00744;24/01/2025;Diego Ferreira;Paulista;livros;Storytelling com Dados;1;79.90;cartao de credito
+PED-00745;2025-04-23;Marcos Souza;Recife;Papelaria;Caderno Inteligente;1;;boleto
+PED-00746;2025-02-03;Isabela Araújo;Recife;Eletrônicos;Caixa de Som;2;249.90;Pix
+PED-00747;30/06/2025;Larissa Albuquerque;Paulista;Eletrônicos;Carregador Turbo;2;59.90;cartão de débito
+PED-00748;2025-05-27;Isabela Lima;Caruaru;eletrônicos;Smartwatch;1;399,00;pix
+PED-00749;2025-06-28;Diego Oliveira;Olinda;eletrônicos;Mouse sem Fio;1;R$ 89,90;pix
+PED-00750;2025-04-09;Diego Souza;Recife;Esporte;Garrafa Squeeze;;29,90;pix
+PED-00751;2025-04-26;Ana Costa;Petrolina;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-00752;2025-02-18;Ana Cavalcanti;Caruaru;Casa;Garrafa Térmica;3;54.90;cartão de crédito
+PED-00753;11/03/2025;Bruno Silva;Petrolina;Livros;Storytelling com Dados;1;79.90;PIX
+PED-00754;2025-06-13;Paula Silva;Paulista;Eletrônicos;Mouse sem Fio;1;89,90;PIX
+PED-00755;31/02/2025;Bruno Araújo;Caruaru;Livros;Python para Dados;2;119.00;boleto
+PED-00756;2025-04-19;Rafael Melo;Petrolina;Casa;Cafeteira;2;R$ 189,90;pix
+PED-00757;11/06/2025;Felipe Silva;Paulista;esporte;Tênis de Corrida;1;349.90;CARTÃO DE CRÉDITO
+PED-00758;31/05/2025;Marcos Araújo;PETROLINA;Casa;Garrafa Térmica;2;54.90;cartão de crédito
+PED-00759;15/03/2025;Rafael Albuquerque;Caruaru;Livros;Entendendo Algoritmos;1;69.90;boleto
+PED-00760;2025-04-12;Yuri Costa;Recife;Eletrônicos;Caixa de Som;1;249,90;cartão de crédito
+PED-00761;2025-03-19;Marcos Barbosa;Garanhuns;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00762;24/03/2025;Felipe Costa;Caruaru;Esporte;Tapete de Yoga;1;119,90;cartão de crédito
+PED-00763;26/06/2025;Felipe Ferreira;Petrolina;Casa;Luminária LED;4;74.50;pix
+PED-00764;20/01/2025;Ana Cavalcanti;Petrolina;eletrônicos;Fone Bluetooth;1;129,90;pix
+PED-00765;2025-04-28;Thiago Ferreira;Recife;eletrônicos;Smartwatch;1;R$ 399,00;pix
+PED-00766;2025-06-04;Felipe Araújo;Paulista;Eletrônicos;Caixa de Som;1;R$ 249,90;pix
+PED-00767;2025-06-13;Marcos Ferreira;Paulista;Eletrônicos;Smartwatch;3;R$ 399,00;BOLETO
+PED-00768;2025-02-05;João Lima;RECIFE;Livros;Storytelling com Dados;0;79.90;boleto
+PED-00769;2025-02-28;Thiago Ferreira;Olinda;Esporte;Tênis de Corrida;1;R$ 349,90;Pix
+PED-00770;2025-03-25;Sofia Lima;Olinda;Casa;Luminária LED;2;74,50;cartao de debito
+PED-00771;07/06/2025;Rafael Oliveira;Garanhuns;Eletrônicos;Mouse sem Fio;1;89.90;PIX
+PED-00772;2025-04-09;Larissa Costa;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartão de débito
+PED-00773;2025-01-19;Natália Ferreira;Olinda;Livros;Estatística Básica;1;R$ 159,90;CARTÃO DE CRÉDITO
+PED-00774;2025-06-07;Sofia Oliveira;Garanhuns;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00775;2025-03-30;João Cavalcanti;PAULISTA;Papelaria;Caderno Inteligente;1;R$ 89,00;pix
+PED-00776;2025-03-14;Sofia Silva;Recife;Eletrônicos;Smartwatch;2;399.00;cartão de crédito
+PED-00777;24/05/2025;Natália Oliveira;Petrolina;Esporte;Tênis de Corrida;3;349,90;boleto
+PED-00778;18/05/2025;Bruno Araújo;Caruaru;Livros;Storytelling com Dados;2;79.90;Pix
+PED-00779;2025-02-25;Rafael Lima;Garanhuns;Livros;Storytelling com Dados;1;79.90;boleto
+PED-00780;2025-05-14;Felipe Souza;RECIFE;Livros;Storytelling com Dados;1;79.90;cartão de débito
+PED-00781;2025-05-18;Sofia Albuquerque;  recife ;Papelaria;Caderno Inteligente;4;89.00;cartão de débito
+PED-00782;2025-05-14;Gabriela Albuquerque;CARUARU;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-00783;2025-06-25;Larissa Silva;Paulista;Papelaria;Planner 2025;1;64,90;boleto
+PED-00784;2025-06-11;Isabela Melo;Recife;Esporte;Mochila Esportiva;1;159,00;Pix
+PED-00785;08/06/2025;Vitória Araújo;Caruaru;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-00786;2025-06-20;Rafael Souza;RECIFE;Eletrônicos;Smartwatch;2;399.00;CARTÃO DE CRÉDITO
+PED-00787;15/06/2025;Marcos Barbosa;Petrolina;Casa;Luminária LED;3;74.50;PIX
+PED-00788;2025-05-29;Diego Araújo;Olinda;Eletrônicos;Fone Bluetooth;1;129.90;boleto
+PED-00789;2025-05-11;Felipe Barbosa;Petrolina;Esporte;Mochila Esportiva;1;R$ 159,00;cartão de crédito
+PED-00790;2025-01-08;Gabriela Santos;Garanhuns;Livros;Estatística Básica;1;159.90;cartão de crédito
+PED-00791;2025-04-20;Diego Araújo;  garanhuns ;Livros;Estatística Básica;1;159.90;pix
+PED-00792;30/06/2025;Yuri Santos;RECIFE;esporte;Mochila Esportiva;2;159.00;cartão de débito
+PED-00793;2025-02-27;Diego Silva;PAULISTA;livros;Storytelling com Dados;1;79,90;pix
+PED-00794;2025-05-17;João Souza;Olinda;Casa;Luminária LED;1;74.50;pix
+PED-00795;2025-05-28;Paula Araújo;Olinda;Eletrônicos;Carregador Turbo;2;R$ 59,90;pix
+PED-00796;04/04/2025;Paula Souza;Recife;Eletrônicos;Fone Bluetooth;3;129.90;cartão de débito
+PED-00797;19/04/2025;Rafael Costa;Caruaru;Eletrônicos;Mouse sem Fio;1;R$ 89,90;CARTÃO DE CRÉDITO
+PED-00798;2025-05-15;Heitor Silva;Garanhuns;Livros;Python para Dados;2;119.00;cartão de crédito
+PED-00799;2025-05-17;Yuri Lima;Olinda;Livros;Python para Dados;1;119.00;boleto
+PED-00800;2025-01-11;Isabela Lima;Petrolina;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00801;2025-06-16;Otávio Costa;Petrolina;esporte;Garrafa Squeeze;1;29,90;PIX
+PED-00802;2025-04-09;Sofia Araújo;Garanhuns;Livros;Entendendo Algoritmos;2;69.90;pix
+PED-00803;2025-03-30;Larissa Araújo;PAULISTA;Casa;Cafeteira;1;189.90;cartão de débito
+PED-00804;2025-06-02;Ana Lima;Olinda;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-00805;2025-02-15;Paula Ferreira;OLINDA;Casa;Luminária LED;1;74,50;cartão de crédito
+PED-00806;2025-05-30;Rafael Santos;  caruaru ;Papelaria;Kit Canetas;1;34.90;cartão de crédito
+PED-00807;2025-05-18;Diego Souza;Caruaru;casa;Cafeteira;4;189,90;cartão de crédito
+PED-00808;2025-02-15;Felipe Costa;Recife;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00809;30/03/2025;Yuri Santos;Recife;Papelaria;Planner 2025;3;64.90;pix
+PED-00810;2025-04-20;Larissa Ferreira;Recife;Casa;Garrafa Térmica;1;54.90;CARTÃO DE CRÉDITO
+PED-00811;2025-06-14;Natália Albuquerque;Recife;Casa;Cafeteira;2;189.90;cartão de débito
+PED-00812;2025-06-16;Ana Ferreira;PAULISTA;Eletrônicos;Fone Bluetooth;1;129.90;CARTÃO DE CRÉDITO
+PED-00813;2025-05-11;Otávio Araújo;Caruaru;livros;Entendendo Algoritmos;4;R$ 69,90;boleto
+PED-00814;2025-01-06;Thiago Souza;Paulista;Casa;Cafeteira;3;189.90;boleto
+PED-00815;19/04/2025;Gabriela Oliveira;Recife;Livros;Storytelling com Dados;2;R$ 79,90;PIX
+PED-00802;2025-04-09;Sofia Araújo;Garanhuns;Livros;Entendendo Algoritmos;2;69.90;pix
+PED-00816;2025-04-29;Bruno Santos;PAULISTA;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00817;14/05/2025;Heitor Oliveira;CARUARU;Papelaria;Planner 2025;3;R$ 64,90;cartão de crédito
+PED-00818;05/05/2025;Isabela Albuquerque;Garanhuns;Esporte;Garrafa Squeeze;2;29.90;CARTÃO DE CRÉDITO
+PED-00819;2025-06-27;Vitória Oliveira;  petrolina ;Eletrônicos;Smartwatch;2;consultar;cartão de crédito
+PED-00820;2025-01-14;Diego Oliveira;Caruaru;Casa;Jogo de Toalhas;2;99.90;cartão de débito
+PED-00821;21/06/2025;Paula Silva;Recife;Casa;Garrafa Térmica;3;54.90;cartão de débito
+PED-00822;2025-04-11;Felipe Barbosa;Garanhuns;Eletrônicos;Smartwatch;1;399,00;pix
+PED-00823;2025-06-09;Felipe Melo;Olinda;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-00824;2025-04-24;Yuri Souza;Petrolina;Esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00825;11/01/2025;Carla Albuquerque;Recife;Esporte;Mochila Esportiva;1;159.00;pix
+PED-00826;2025-05-03;Carla Silva;Recife;Eletrônicos;Carregador Turbo;1;59,90;Pix
+PED-00827;2025-03-15;Larissa Lima;Caruaru;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-00828;2025-06-08;Vitória Silva;  recife ;eletrônicos;Smartwatch;1;399.00;pix
+PED-00829;2025-01-21;Sofia Melo;GARANHUNS;Papelaria;Planner 2025;1;64,90;cartão de crédito
+PED-00830;2025-03-20;Diego Costa;Caruaru;Eletrônicos;Smartwatch;2;399.00;BOLETO
+PED-00831;01/02/2025;Vitória Oliveira;Olinda;Eletrônicos;Mouse sem Fio;3;R$ 89,90;cartão de crédito
+PED-00832;2025-06-03;Heitor Lima;Garanhuns;Eletrônicos;Mouse sem Fio;1;89,90;cartão de crédito
+PED-00833;2025-05-20;Bruno Melo;Caruaru;Eletrônicos;Smartwatch;2;399.00;cartão de crédito
+PED-00834;2025-03-22;Vitória Lima;Olinda;Casa;Cafeteira;3;189.90;cartão de crédito
+PED-00835;2025-06-09;Heitor Araújo;Recife;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00836;22/06/2025;Marcos Oliveira;Garanhuns;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00837;17/06/2025;Heitor Barbosa;Olinda;esporte;Garrafa Squeeze;1;29,90;cartao de credito
+PED-00838;25/05/2025;Rafael Melo;Recife;Esporte;Tênis de Corrida;1;349.90;CARTÃO DE DÉBITO
+PED-00839;07/04/2025;Paula Ferreira;  caruaru ;Livros;Storytelling com Dados;2;79.90;cartao de credito
+PED-00840;11/01/2025;Yuri Cavalcanti;Recife;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-00841;2025-03-31;Eduarda Cavalcanti;Recife;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00842;12/05/2025;Otávio Melo;Recife;Eletrônicos;Caixa de Som;5;249.90;pix
+PED-00843;13/05/2025;Marcos Ferreira;Olinda;Casa;Garrafa Térmica;1;54.90;boleto
+PED-00844;2025-06-10;Eduarda Souza;Caruaru;Livros;Entendendo Algoritmos;1;69.90;CARTÃO DE CRÉDITO
+PED-00845;2025-01-14;Yuri Santos;  paulista ;Esporte;Garrafa Squeeze;2;R$ 29,90;pix
+PED-00846;2025-04-04;Larissa Ferreira;RECIFE;casa;Jogo de Toalhas;1;99.90;cartão de crédito
+PED-00847;2025-06-30;Heitor Souza;Recife;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-00848;2025-05-18;Felipe Lima;Olinda;Casa;Cafeteira;1;189.90;pix
+PED-00849;02/06/2025;Felipe Costa;Petrolina;Casa;Jogo de Toalhas;1;99.90;cartão de crédito
+PED-00850;2025-05-05;Rafael Ferreira;RECIFE;Casa;Jogo de Toalhas;1;R$ 99,90;cartão de crédito
+PED-00851;2025-06-24;Isabela Souza;CARUARU;Eletrônicos;Caixa de Som;1;249.90;Pix
+PED-00852;2025-05-29;Heitor Cavalcanti;Olinda;Livros;Python para Dados;1;119,00;pix
+PED-00853;2025-02-09;Carla Araújo;Paulista;esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00854;2025-04-22;Paula Souza;Olinda;Esporte;Tênis de Corrida;2;349,90;cartão de crédito
+PED-00855;23/01/2025;Gabriela Costa;Garanhuns;eletrônicos;Caixa de Som;2;249.90;cartão de débito
+PED-00856;05/06/2025;Felipe Melo;  olinda ;Eletrônicos;Smartwatch;1;399.00;pix
+PED-00857;2025-01-01;Sofia Ferreira;Paulista;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00858;2025-04-13;Paula Lima;Olinda;Casa;Garrafa Térmica;3;54.90;cartão de crédito
+PED-00859;2025-06-21;Larissa Lima;RECIFE;Casa;Garrafa Térmica;2;54.90;PIX
+PED-00860;2025-03-09;Rafael Silva;Paulista;Casa;Garrafa Térmica;1;R$ 54,90;cartão de crédito
+PED-00861;2025-01-01;Otávio Lima;Petrolina;esporte;Tênis de Corrida;2;349.90;cartão de crédito
+PED-00860;2025-03-09;Rafael Silva;Paulista;Casa;Garrafa Térmica;1;R$ 54,90;cartão de crédito
+PED-00862;2025-03-15;Felipe Araújo;  paulista ;Esporte;Tênis de Corrida;2;R$ 349,90;cartão de crédito
+PED-00863;2025-03-16;Natália Silva;Paulista;Casa;Garrafa Térmica;1;54.90;pix
+PED-00864;25/03/2025;Ana Melo;Recife;Eletrônicos;Carregador Turbo;1;59.90;cartão de crédito
+PED-00839;07/04/2025;Paula Ferreira;  caruaru ;Livros;Storytelling com Dados;2;79.90;cartao de credito
+PED-00865;2025-04-11;João Melo;Recife;Eletrônicos;Carregador Turbo;2;59.90;cartão de débito
+PED-00866;2025-06-02;Isabela Souza;Olinda;Casa;Jogo de Toalhas;1;99.90;boleto
+PED-00867;2025-04-23;Thiago Silva;Recife;Eletrônicos;Fone Bluetooth;1;129,90;cartão de débito
+PED-00868;2025-03-16;Carla Souza;RECIFE;Esporte;Mochila Esportiva;2;159.00;cartão de débito
+PED-00869;25/06/2025;Marcos Ferreira;Caruaru;Eletrônicos;Caixa de Som;1;R$ 249,90;pix
+PED-00870;2025-04-01;Eduarda Melo;Olinda;Esporte;Garrafa Squeeze;1;29.90;boleto
+PED-00871;2025-02-26;João Melo;Olinda;Livros;Storytelling com Dados;1;79.90;cartão de crédito
+PED-00872;01/06/2025;Bruno Melo;Olinda;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-00873;2025-06-10;Otávio Araújo;Petrolina;casa;Luminária LED;1;74.50;pix
+PED-00874;2025-01-29;Gabriela Ferreira;Caruaru;Casa;Garrafa Térmica;1;54.90;pix
+PED-00875;2025-05-31;Otávio Santos;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartão de crédito
+PED-00876;15/06/2025;Paula Melo;  paulista ;Esporte;Tênis de Corrida;-1;349.90;pix
+PED-00877;2025-05-15;Bruno Cavalcanti;Petrolina;Casa;Luminária LED;2;74,50;pix
+PED-00878;2025-04-24;Sofia Barbosa;Caruaru;Eletrônicos;Caixa de Som;2;R$ 249,90;cartão de crédito
+PED-00879;2025-02-16;Eduarda Araújo;Petrolina;Eletrônicos;Carregador Turbo;4;59.90;cartão de débito
+PED-00880;2025-05-26;Gabriela Barbosa;  caruaru 
+PED-00881;05/03/2025;Natália Lima;Garanhuns;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00862;2025-03-15;Felipe Araújo;  paulista ;Esporte;Tênis de Corrida;2;R$ 349,90;cartão de crédito
+PED-00882;2025-01-21;João Lima;Olinda;Papelaria;Caderno Inteligente;1;89.00;cartao de credito
+PED-00883;26/01/2025;Diego Cavalcanti;Olinda;Livros;Storytelling com Dados;2;R$ 79,90;cartão de crédito
+PED-00884;2025-03-12;Bruno Lima;Caruaru;Eletrônicos;Fone Bluetooth;2;129.90;cartão de débito
+PED-00885;2025-03-11;Diego Lima;Olinda;Casa;Jogo de Toalhas;3;99.90;PIX
+PED-00886;2025-02-01;Thiago Melo;Recife;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-00887;2025-04-09;Diego Oliveira;PAULISTA;Livros;Storytelling com Dados;2;79.90;boleto
+PED-00888;2025-05-23;Eduarda Oliveira;Caruaru;Papelaria;Caderno Inteligente;2;89.00;cartão de crédito
+PED-00889;10/04/2025;Ana Melo;RECIFE;esporte;Mochila Esportiva;1;159.00;pix
+PED-00890;2025-01-05;Paula Lima;OLINDA;Casa;Cafeteira;3;R$ 189,90;cartão de crédito
+PED-00891;2025-04-02;Ana Melo;Olinda;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00892;11/06/2025;Natália Souza;Caruaru;Esporte;Garrafa Squeeze;1;29.90;Pix
+PED-00891;2025-04-02;Ana Melo;Olinda;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-00893;02/06/2025;Carla Oliveira;Petrolina;Casa;Jogo de Toalhas;1;99.90;pix
+PED-00894;2025-06-15;Gabriela Oliveira;Recife;esporte;Tênis de Corrida;1;349.90;CARTÃO DE CRÉDITO
+PED-00895;2025-05-07;Paula Cavalcanti;Garanhuns;Livros;Entendendo Algoritmos;1;69.90;PIX
+PED-00896;09/03/2025;Larissa Barbosa;  caruaru ;Livros;Entendendo Algoritmos;2;69.90;cartão de crédito
+PED-00897;29/01/2025;Otávio Ferreira;Olinda;Papelaria;Caderno Inteligente;4;89.00;cartão de crédito
+PED-00898;18/02/2025;Yuri Santos;Recife;eletrônicos;Mouse sem Fio;4;89.90;cartao de debito
+PED-00899;26/05/2025;Thiago Lima;Paulista;Papelaria;Planner 2025;1;64.90;pix
+PED-00900;2025-03-15;Sofia Souza;  recife ;Livros;Storytelling com Dados;3;79.90;pix
+PED-00901;2025-02-08;Gabriela Cavalcanti;Olinda;Esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-00902;2025-01-04;Gabriela Melo;Caruaru;Eletrônicos;Caixa de Som;5;R$ 249,90;pix
+PED-00903;2025-04-27;Heitor Araújo;Recife;Livros;Storytelling com Dados;2;79.90;boleto
+PED-00904;2025-06-20;Otávio Silva;Recife;casa;Luminária LED;1;74,50;pix
+PED-00905;2025-06-20;Heitor Melo;Recife;Esporte;Garrafa Squeeze;2;29.90;pix
+PED-00906;19/04/2025;Ana Araújo;Recife;Eletrônicos;Caixa de Som;4;249.90;cartão de crédito
+PED-00907;2025-03-24;Yuri Lima;Recife;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-00908;2025-01-31;Larissa Silva;Olinda;Casa;Garrafa Térmica;1;54.90;cartão de crédito
+PED-00909;2025-01-26;Bruno Silva;Garanhuns;Esporte;Tênis de Corrida;1;349.90;pix
+PED-00910;2025-06-14;Gabriela Barbosa;  olinda ;esporte;Mochila Esportiva;1;R$ 159,00;PIX
+PED-00911;07/03/2025;Eduarda Oliveira;Paulista;eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-00912;12/05/2025;Thiago Souza;Garanhuns;Eletrônicos;Smartwatch;2;R$ 399,00;pix
+PED-00913;2025-03-18;Diego Cavalcanti;Recife;Eletrônicos;Caixa de Som;3;249,90;cartão de débito
+PED-00914;2025-04-13;Heitor Barbosa;Caruaru;Esporte;Mochila Esportiva;3;159.00;boleto
+PED-00915;2025-04-22;Sofia Costa;Recife;Eletrônicos;Smartwatch;2;399.00;pix
+PED-00916;2025-06-01;Rafael Silva;Garanhuns;casa;Garrafa Térmica;2;R$ 54,90;cartao de debito
+PED-00917;2025-02-25;Paula Ferreira;PETROLINA;Eletrônicos;Smartwatch;1;399.00;Pix
+PED-00918;2025-05-22;Eduarda Lima;Garanhuns;Eletrônicos;Mouse sem Fio;4;89.90;cartão de crédito
+PED-00919;11/04/2025;Rafael Melo;Caruaru;eletrônicos;Caixa de Som;1;249.90;cartão de débito
+PED-00920;20/01/2025;Ana Albuquerque;  petrolina ;Casa;Cafeteira;2;189.90;cartao de credito
+PED-00921;01/05/2025;Otávio Lima;RECIFE;Casa;Cafeteira;3;189.90;cartão de crédito
+PED-00922;25/01/2025;Sofia Souza;  petrolina ;Esporte;Garrafa Squeeze;2;29.90;cartão de crédito
+PED-00923;29/06/2025;Paula Cavalcanti;Caruaru;Casa;Jogo de Toalhas;1;99.90;cartao de debito
+PED-00924;27/02/2025;Isabela Santos;Recife;Eletrônicos;Caixa de Som;2;249,90;BOLETO
+PED-00925;2025-02-12;Natália Santos;PAULISTA;Eletrônicos;Carregador Turbo;2;R$ 59,90;pix
+PED-00926;31/01/2025;Eduarda Ferreira;Recife;Esporte;Garrafa Squeeze;3;29,90;pix
+PED-00927;14/04/2025;Vitória Cavalcanti;Caruaru;Papelaria;Kit Canetas;2;34.90;CARTÃO DE CRÉDITO
+PED-00928;2025-05-03;Ana Costa;Recife;Livros;Storytelling com Dados;1;79,90;cartao de credito
+PED-00929;2025-01-24;Felipe Oliveira;Caruaru;eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00930;2025-06-12;Rafael Ferreira;Paulista;Esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-00931;2025-05-30;Paula Albuquerque;Olinda;Livros;Storytelling com Dados;2;79,90;cartao de credito
+PED-00932;2025-04-26;Eduarda Barbosa;  recife ;Eletrônicos;Carregador Turbo;2;R$ 59,90;cartão de crédito
+PED-00933;2025-06-17;Thiago Cavalcanti;  recife ;Livros;Storytelling com Dados;2;79.90;boleto
+PED-00934;2025-06-18;Rafael Costa;  recife ;Esporte;Mochila Esportiva;4;159.00;pix
+PED-00935;2025-04-19;Eduarda Cavalcanti;Petrolina;Eletrônicos;Mouse sem Fio;2;89.90;cartão de crédito
+PED-00936;2025-06-15;Natália Ferreira;Olinda;Papelaria;Caderno Inteligente;2;89.00;pix
+PED-00937;2025-03-22;Paula Ferreira;CARUARU;livros;Estatística Básica;1;R$ 159,90;boleto
+PED-00936;2025-06-15;Natália Ferreira;Olinda;Papelaria;Caderno Inteligente;2;89.00;pix
+PED-00938;20/03/2025;Isabela Souza;RECIFE;Eletrônicos;Smartwatch;3;;PIX
+PED-00939;2025-01-21;Eduarda Oliveira;PETROLINA;Papelaria;Caderno Inteligente;1;89,00;cartão de crédito
+PED-00940;21/05/2025;Gabriela Oliveira;Recife;Esporte;Mochila Esportiva;3;159.00;pix
+PED-00941;2025-04-09;Yuri Lima;Recife;Eletrônicos;Caixa de Som;1;249.90;cartão de débito
+PED-00942;2025-06-11;Isabela Costa;OLINDA;Livros;Entendendo Algoritmos;2;69.90;CARTÃO DE CRÉDITO
+PED-00943;2025-05-18;Heitor Lima;Olinda;Livros;Storytelling com Dados;3;79,90;cartão de crédito
+PED-00944;2025-01-13;Diego Ferreira;Recife;Eletrônicos;Mouse sem Fio;1;R$ 89,90;pix
+PED-00945;2025-01-19;Diego Santos;Recife;Livros;Storytelling com Dados;1;79.90;pix
+PED-00946;2025-02-03;Carla Lima;Recife;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-00947;14/06/2025;Larissa Lima;GARANHUNS;Livros;Storytelling com Dados;1;R$ 79,90;cartão de débito
+PED-00948;07/06/2025;Diego Lima;Petrolina;Casa;Jogo de Toalhas;1;99.90;cartão de crédito
+PED-00949;07/01/2025;Ana Silva;Recife;Esporte;Garrafa Squeeze;1;29.90;boleto
+PED-00950;2025-06-22;Paula Ferreira;Caruaru;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-00951;2025-05-20;Heitor Albuquerque;Petrolina;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-00952;2025-04-23;Bruno Silva;Recife;Eletrônicos;Smartwatch;3;R$ 399,00;pix
+PED-00953;25/02/2025;Natália Oliveira;Petrolina;Livros;Entendendo Algoritmos;2;grátis;cartão de débito
+PED-00954;2025-03-18;Felipe Silva;RECIFE;Eletrônicos;Smartwatch;1;R$ 399,00;cartão de crédito
+PED-00955;29/05/2025;João Ferreira;Caruaru;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-00956;2025-01-28;Heitor Barbosa;Paulista;Papelaria;Planner 2025;2;64.90;pix
+PED-00957;2025-03-09;Vitória Silva;Recife;Eletrônicos;Carregador Turbo;1;59,90;cartão de crédito
+PED-00958;28/03/2025;Larissa Santos;Olinda;Eletrônicos;Carregador Turbo;5;59.90;Pix
+PED-00959;26/01/2025;Felipe Cavalcanti;Caruaru;Livros;Storytelling com Dados;1;79.90;CARTÃO DE CRÉDITO
+PED-00935;2025-04-19;Eduarda Cavalcanti;Petrolina;Eletrônicos;Mouse sem Fio;2;89.90;cartão de crédito
+PED-00960;2025-01-25;Gabriela Lima;Recife;Casa;Luminária LED;3;74.50;pix
+PED-00961;06/04/2025;João Santos;Caruaru;Papelaria;Caderno Inteligente;1;89,00;CARTÃO DE CRÉDITO
+PED-00961;06/04/2025;João Santos;Caruaru;Papelaria;Caderno Inteligente;1;89,00;CARTÃO DE CRÉDITO
+PED-00962;00/00/0000;Ana Araújo;Caruaru;Eletrônicos;Carregador Turbo;2;59,90;cartão de crédito
+PED-00963;16/06/2025;Natália Cavalcanti;Recife;Esporte;Mochila Esportiva;1;159.00;BOLETO
+PED-00964;09/02/2025;Marcos Silva;Recife;Livros;Estatística Básica;dois;R$ 159,90;pix
+PED-00965;2025-06-17;Bruno Ferreira;Olinda;Livros;Estatística Básica;2;R$ 159,90;cartão de crédito
+PED-00966;2025-04-24;Isabela Albuquerque;RECIFE;Esporte;Garrafa Squeeze;três;R$ 29,90;cartão de crédito
+PED-00967;26/06/2025;Eduarda Costa;Petrolina;Eletrônicos;Smartwatch;0;R$ 399,00;cartão de débito
+PED-00968;2025-04-07;Diego Barbosa;Paulista;Livros;Entendendo Algoritmos;3;69.90;cartão de crédito
+PED-00969;2025-06-23;Ana Melo;Recife;;Python para Dados;4;R$ 119,00;cartao de debito
+PED-00970;2025-06-18;Natália Lima;Paulista;Casa;Jogo de Toalhas;3;99.90;boleto
+PED-00971;2025-04-25;João Barbosa;Olinda;Papelaria;Caderno Inteligente;2;N/A;PIX
+PED-00972;2025-02-28;Diego Cavalcanti;Recife;Casa;Luminária LED;3;74.50;pix
+PED-00973;2025-02-13;Larissa Souza;RECIFE;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-00974;17/02/2025;Larissa Santos;Caruaru;Esporte;Tênis de Corrida;2;349.90;cartão de débito
+PED-00975;18/01/2025;Carla Souza;Garanhuns;casa;Garrafa Térmica;1;54.90;cartão de crédito
+PED-00976;08/05/2025;Sofia Ferreira;Petrolina;Esporte;Mochila Esportiva;2;R$ 159,00;cartão de crédito
+PED-00977;2025-01-14;Carla Santos;Petrolina;Esporte;Tênis de Corrida;3;349.90;pix
+PED-00978;26/06/2025;Thiago Araújo;Olinda;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-00979;2025-03-22;Rafael Barbosa;Caruaru;Casa;Cafeteira;2;189.90;pix
+PED-00980;02/06/2025;Larissa Oliveira;Recife;Casa;Cafeteira;2;189.90;pix
+PED-00981;01/03/2025;Yuri Silva;Caruaru;Eletrônicos;Mouse sem Fio;2;89.90;cartão de débito
+PED-00979;2025-03-22;Rafael Barbosa;Caruaru;Casa;Cafeteira;2;189.90;pix
+PED-00982;2025-04-04;João Melo;  recife ;Esporte;Tapete de Yoga;2;R$ 119,90;Pix
+PED-00983;2025-06-08;Vitória Oliveira;Garanhuns;Eletrônicos;Smartwatch;1;399.00;boleto
+PED-00956;2025-01-28;Heitor Barbosa;Paulista;Papelaria;Planner 2025;2;64.90;pix
+PED-00984;2025-04-12;Paula Ferreira;Recife;livros;Storytelling com Dados;1;79,90;cartão de crédito
+PED-00985;2025-05-05;Bruno Santos;Recife;Casa;Garrafa Térmica;3;54.90;pix
+PED-00986;2025-04-01;Eduarda Santos;Paulista;Casa;Garrafa Térmica;2;54.90;cartao de credito
+PED-00987;2025-06-20;Paula Oliveira;Recife;eletrônicos;Smartwatch;3;399.00;pix
+PED-00988;28/04/2025;Diego Costa;RECIFE;casa;Cafeteira;1;R$ 189,90;cartão de crédito
+PED-00989;2025-02-24;Diego Santos;Caruaru;Papelaria;Kit Canetas;1;34.90;PIX
+PED-00990;2025-04-07;Sofia Barbosa;Caruaru;Casa;Garrafa Térmica;1;54.90;cartão de crédito
+
+PED-00991;2025-04-18;Bruno Melo;RECIFE;Papelaria;Kit Canetas;5;34,90;pix
+PED-00992;09/04/2025;Marcos Ferreira;Olinda;Eletrônicos;Fone Bluetooth;2;129.90;cartão de crédito
+PED-00993;07/04/2025;Vitória Albuquerque;  paulista ;Esporte;Tapete de Yoga;1;119.90;pix
+PED-00994;2025-02-01;Ana Araújo;  recife ;Casa;Jogo de Toalhas;1;R$ 99,90;cartão de crédito
+PED-00995;16/04/2025;Natália Cavalcanti;Recife;Livros;Storytelling com Dados;2;79,90;cartão de crédito
+PED-00996;2025-04-17;Gabriela Ferreira;Caruaru;Eletrônicos;Mouse sem Fio;2;89,90;cartão de crédito
+PED-00997;2025-06-22;Felipe Cavalcanti;Paulista;Casa;Jogo de Toalhas;1;99.90;pix
+PED-00998;01/01/2025;Rafael Costa;Olinda;Esporte;Mochila Esportiva;3;159.00;Pix
+PED-00999;2025-01-01;Sofia Santos;Caruaru;Casa;Cafeteira;1;189.90;Pix
+PED-00995;16/04/2025;Natália Cavalcanti;Recife;Livros;Storytelling com Dados;2;79,90;cartão de crédito
+PED-01000;2025-02-21;Larissa Melo;Paulista;Eletrônicos;Caixa de Som;1;249,90;pix
+PED-01001;2025-05-15;Eduarda Ferreira;Olinda;livros;Python para Dados;1;119,00;cartao de credito
+PED-01002;2025-05-17;Yuri Lima;Recife;Livros;Python para Dados;1;119,00;boleto
+PED-01003;2025-01-30;Heitor Oliveira;Garanhuns;Livros;Python para Dados;2;119.00;cartão de crédito
+PED-01004;24/05/2025;Larissa Souza;Petrolina;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-01005;27/05/2025;Rafael Araújo;Recife;Eletrônicos;Mouse sem Fio;5;R$ 89,90;PIX
+PED-01006;20/05/2025;Bruno Barbosa;Petrolina;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-01007;2025-01-28;Ana Araújo;Caruaru;eletrônicos;Carregador Turbo;1;59.90;cartao de credito
+PED-01008;01/05/2025;Carla Cavalcanti;  caruaru ;Papelaria;Caderno Inteligente;1;89.00;pix
+PED-01009;2025-03-06;Heitor Melo;Garanhuns;Livros;Python para Dados;1;119.00;cartão de crédito
+PED-01010;2025-06-03;Vitória Santos;GARANHUNS;Esporte;Mochila Esportiva;2;159,00;pix
+PED-01011;2025-01-03;Rafael Ferreira;Petrolina;Esporte;Tapete de Yoga;3;R$ 119,90;pix
+PED-01012;02/05/2025;Sofia Ferreira;Recife;Livros;Storytelling com Dados;5;79.90;Pix
+PED-01013;2025-01-10;Sofia Costa;RECIFE;Casa;Luminária LED;0;74.50;cartão de crédito
+PED-01014;2025-06-15;Yuri Santos;Paulista;Casa;Cafeteira;1;189.90;cartão de crédito
+PED-01015;2025-03-22;Eduarda Barbosa;  caruaru ;Eletrônicos;Fone Bluetooth;1;129,90;PIX
+PED-01001;2025-05-15;Eduarda Ferreira;Olinda;livros;Python para Dados;1;119,00;cartao de credito
+PED-01016;27/02/2025;Thiago Cavalcanti;CARUARU;Esporte;Garrafa Squeeze;1;29.90;cartão de débito
+PED-01017;2025-03-31;Gabriela Araújo;Olinda;Esporte;Mochila Esportiva;5;R$ 159,00;boleto
+PED-01018;2025-06-11;Sofia Santos;Caruaru;Esporte;Tênis de Corrida;2;349,90;cartão de crédito
+PED-01019;2025-04-15;Sofia Araújo;Recife;Livros;Python para Dados;1;119.00;pix
+PED-01020;27/01/2025;Thiago Souza;Olinda;Eletrônicos;Carregador Turbo;5;59.90;pix
+PED-01021;14/06/2025;João Barbosa;Olinda;Livros;Python para Dados;3;119.00;cartão de crédito
+PED-01022;2025-05-23;Felipe Souza;Petrolina;papelaria;Caderno Inteligente;3;89.00;cartão de crédito
+PED-01023;2025-03-12;Felipe Lima;Garanhuns;Papelaria;Planner 2025;1;64.90;cartão de débito
+PED-01024;2025-02-22;Isabela Cavalcanti;Paulista;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-01025;2025-03-29;Ana Lima;Recife;Eletrônicos;Carregador Turbo;2;59.90;cartão de débito
+PED-01026;06/05/2025;Yuri Silva;PAULISTA;Papelaria;Kit Canetas;3;34.90;boleto
+PED-01027;2025-03-14;Yuri Silva;  garanhuns ;Esporte;Tênis de Corrida;1;349.90;pix
+PED-01028;2025-06-04;Isabela Barbosa;Paulista;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-01029;2025-04-27;Isabela Ferreira;Recife;Papelaria;Planner 2025;1;64.90;PIX
+PED-01030;2025-05-12;Diego Silva;Recife;Esporte;Tapete de Yoga;2;119.90;cartão de crédito
+PED-01031;2025-01-09;Bruno Santos;Recife;Casa;Jogo de Toalhas;1;99.90;pix
+PED-01032;02/01/2025;Marcos Santos;Paulista;Livros;Python para Dados;1;119.00;cartão de débito
+PED-01033;2025-06-09;Diego Silva;Recife;papelaria;Kit Canetas;2;34.90;pix
+PED-01034;2025-04-02;João Silva;Recife;Livros;Entendendo Algoritmos;1;69,90;pix
+PED-01035;2025-06-23;Paula Cavalcanti;Olinda;Papelaria;Caderno Inteligente;2;89.00;pix
+PED-01036;2025-06-13;Natália Ferreira;Petrolina;Papelaria;Kit Canetas;2;34.90;cartão de crédito
+PED-01037;17/06/2025;Ana Silva;Recife;Eletrônicos;Smartwatch;1;399.00;pix
+PED-01038;23/06/2025;Vitória Lima;Olinda;esporte;Garrafa Squeeze;3;29.90;pix
+PED-01039;2025-03-07;Heitor Barbosa;Recife;Casa;Cafeteira;2;R$ 189,90;pix
+PED-01040;2025-03-24;Isabela Cavalcanti;Recife;esporte;Mochila Esportiva;4;159.00;pix
+PED-01041;17/06/2025;Carla Silva;Caruaru;Livros;Python para Dados;1;119.00;pix
+PED-01042;2025-06-14;Felipe Ferreira;Caruaru;Casa;Cafeteira;1;189.90;pix
+PED-01043;2025-06-01;Bruno Araújo;Recife;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-01044;2025-03-31;Carla Lima;Recife;Livros;Entendendo Algoritmos;1;69.90;cartão de crédito
+PED-01045;2025-05-04;Natália Oliveira;Garanhuns;Esporte;Mochila Esportiva;5;159.00;pix
+PED-01046;2025-06-07;Sofia Lima;Recife;Eletrônicos;Fone Bluetooth;1;R$ 129,90;cartão de débito
+PED-01047;02/06/2025;Bruno Araújo;Petrolina;Papelaria;Planner 2025;2;64.90;PIX
+PED-01048;2025-01-27;Paula Araújo;Petrolina;Papelaria;Kit Canetas;2;34.90;PIX
+PED-01049;2025-01-20;Vitória Araújo;Petrolina;Eletrônicos;Smartwatch;1;399,00;cartão de crédito
+PED-01050;01/04/2025;Gabriela Costa;Olinda;Eletrônicos;Caixa de Som;3;249.90;pix
+PED-01051;2025-03-29;Natália Araújo;Recife;livros;Python para Dados;2;119.00;cartão de crédito
+PED-01052;13/02/2025;Sofia Souza;Olinda;Livros;Storytelling com Dados;3;79.90;pix
+PED-01053;2025-03-18;Marcos Silva;RECIFE;Esporte;Garrafa Squeeze;3;29.90;pix
+PED-01054;26/06/2025;Felipe Silva;Petrolina;Eletrônicos;Smartwatch;1;R$ 399,00;cartao de debito
+PED-01055;2025-01-14;Gabriela Araújo;Petrolina;Papelaria;Caderno Inteligente;3;R$ 89,00;pix
+PED-01034;2025-04-02;João Silva;Recife;Livros;Entendendo Algoritmos;1;69,90;pix
+PED-01056;2025-05-27;Paula Santos;Recife;Esporte;Garrafa Squeeze;1;29.90;cartão de crédito
+PED-01057;2025-02-01;Heitor Ferreira;Paulista;Papelaria;Planner 2025;2;64.90;CARTÃO DE CRÉDITO
+PED-01058;2025-03-09;Natália Costa;Recife;Esporte;Mochila Esportiva;2;159.00;cartão de crédito
+PED-01059;2025-05-15;Marcos Barbosa;Recife;esporte;Garrafa Squeeze;3;29.90;Pix
+PED-01060;2025-05-12;Heitor Oliveira;Petrolina;Eletrônicos;Caixa de Som;-1;R$ 249,90;Pix
+PED-01061;17/05/2025;João Melo;Olinda;Esporte;Garrafa Squeeze;1;R$ 29,90;pix
+PED-01062;2025-03-30;Paula Souza;Caruaru;livros;Storytelling com Dados;4;79,90;cartão de débito
+PED-01063;2025-01-26;Vitória Lima;Recife;Livros;Python para Dados;2;119.00;pix
+PED-01064;19/03/2025;Rafael Barbosa;Paulista;Esporte;Mochila Esportiva;4;159.00;cartão de crédito
+PED-01065;2025-02-10;Ana Silva;Olinda;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-01066;2025-01-04;Paula Barbosa;RECIFE;Eletrônicos;Caixa de Som;2;249.90;pix
+PED-01067;17/05/2025;Rafael Melo;Paulista;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-01068;2025-02-01;Sofia Araújo;  recife ;casa;Cafeteira;3;189.90;cartão de crédito
+PED-01069;2025-05-07;Gabriela Cavalcanti;Recife;Esporte;Mochila Esportiva;1;159.00;cartão de crédito
+PED-01070;2025-06-14;Felipe Souza;Olinda;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-01071;21/05/2025;Yuri Barbosa;Caruaru;Esporte;Tapete de Yoga;2;119.90;pix
+PED-01072;06/06/2025;Gabriela Souza;Olinda;Papelaria;Planner 2025;3;64.90;pix
+PED-01070;2025-06-14;Felipe Souza;Olinda;Eletrônicos;Carregador Turbo;1;59.90;pix
+PED-01073;2025-06-15;Larissa Melo;Paulista;Casa;Luminária LED;2;74.50;pix
+PED-01074;2025-01-12;Yuri Ferreira;Recife;Casa;Cafeteira;1;189,90;cartão de crédito
+PED-01075;26/05/2025;Vitória Souza;Caruaru;eletrônicos;Fone Bluetooth;2;129,90;CARTÃO DE CRÉDITO
+PED-01076;2025-01-29;Thiago Cavalcanti;Olinda;Esporte;Garrafa Squeeze;4;29.90;pix
+PED-01077;2025-05-09;Bruno Barbosa;Paulista;Papelaria;Kit Canetas;1;34.90;pix
+PED-01078;2025-04-18;Isabela Albuquerque;PETROLINA;Esporte;Garrafa Squeeze;1;29.90;pix
+PED-01079;03/04/2025;Felipe Melo;  recife ;Papelaria;Planner 2025;3;64,90;pix
+PED-01080;11/05/2025;Eduarda Costa;Olinda;Livros;Storytelling com Dados;1;R$ 79,90;pix
+PED-01081;2025-06-09;Gabriela Costa;Recife;Livros;Entendendo Algoritmos;1;69.90;pix
+PED-01082;2025-06-29;Isabela Araújo;Olinda;Eletrônicos;Mouse sem Fio;4;89.90;pix
+PED-01083;2025-06-22;Sofia Melo;Garanhuns;Eletrônicos;Carregador Turbo;5;59.90;cartão de crédito
+PED-01084;11/06/2025;Natália Melo;  recife ;Eletrônicos;Caixa de Som;3;249,90;cartão de crédito
+PED-01085;2025-04-01;Natália Souza;Olinda;Eletrônicos;Smartwatch;1;399.00;pix
+PED-01086;2025-04-27;Gabriela Melo;  caruaru ;Livros;Entendendo Algoritmos;3;69.90;cartão de crédito
+PED-01087;2025-05-31;Thiago Ferreira;CARUARU;Papelaria;Caderno Inteligente;2;R$ 89,00;cartão de crédito
+PED-01088;2025-05-13;João Costa;Garanhuns;Esporte;Mochila Esportiva;2;159.00;pix
+PED-01089;2025-06-28;Gabriela Costa;Petrolina;Casa;Jogo de Toalhas;2;99.90;CARTÃO DE CRÉDITO
+PED-01090;2025-06-05;Heitor Lima;Caruaru;Casa;Cafeteira;1;189.90;pix
+PED-01091;2025-02-22;João Albuquerque;Olinda;livros;Storytelling com Dados;1;79.90;cartao de credito
+PED-01092;2025-06-05;Natália Souza;Caruaru;Eletrônicos;Fone Bluetooth;2;129,90;cartão de crédito
+PED-01093;2025-04-11;Eduarda Silva;Recife;Papelaria;Kit Canetas;1;34,90;pix
+PED-01094;2025-05-20;Rafael Cavalcanti;Olinda;Eletrônicos;Fone Bluetooth;1;129.90;pix
+PED-01095;2025-04-10;Carla Albuquerque;  recife ;Eletrônicos;Carregador Turbo;2;59,90;pix
+PED-01096;2025-01-05;Carla Barbosa;Olinda;Esporte;Mochila Esportiva;1;R$ 159,00;CARTÃO DE CRÉDITO
+PED-01097;2025-03-23;Carla Silva;Olinda;Livros;Storytelling com Dados;1;79.90;cartão de crédito
+PED-01098;2025-05-11;Thiago Costa;Petrolina;Livros;Entendendo Algoritmos;2;69.90;pix
+PED-01099;2025-01-16;João Santos;Paulista;Livros;Estatística Básica;1;159.90;cartão de crédito
+PED-01100;15/03/2025;Felipe Santos;Recife;Papelaria;Kit Canetas;1;R$ 34,90;CARTÃO DE CRÉDITO
+PED-01101;;Diego Lima;Garanhuns;Esporte;Tênis de Corrida;1;349.90;boleto
+PED-01102;15/02/2025;Rafael Santos;  recife ;Casa;Luminária LED;1;R$ 74,50;cartão de crédito
+PED-01103;2025-02-02;Eduarda Oliveira;Olinda;Esporte;Tapete de Yoga;1;R$ 119,90;pix
+PED-01104;2025-02-09;Natália Melo;Recife;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-01105;07/04/2025;Ana Silva;Recife;Esporte;Tapete de Yoga;3;119,90;pix
+PED-01106;2025-03-15;Rafael Albuquerque;Petrolina;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-01107;03/03/2025;Isabela Barbosa;Caruaru;Livros;Storytelling com Dados;1;79.90;pix
+PED-01108;2025-03-19;Carla Ferreira;Olinda;Esporte;Tapete de Yoga;1;119.90;cartao de debito
+PED-01109;2025-03-17;Yuri Araújo;Olinda;Eletrônicos;Smartwatch;2;399,00;cartão de crédito
+PED-01110;09/06/2025;Carla Santos;Recife;Eletrônicos;Fone Bluetooth;4;129.90;pix
+PED-01111;2025-06-04;Natália Souza;Recife;Esporte;Mochila Esportiva;3;159.00;PIX
+PED-01112;2025-04-01;Carla Melo;Recife;Livros;Storytelling com Dados;1;79,90;Boleto
+PED-01113;2025-01-27;Sofia Ferreira;Recife;Eletrônicos;Caixa de Som;2;249.90;cartão de débito
+PED-01114;2025-04-15;Thiago Ferreira;Paulista;Casa;Jogo de Toalhas;2;99.90;pix
+PED-01115;12/03/2025;Thiago Melo;Recife;Esporte;Garrafa Squeeze;2;29.90;CARTÃO DE DÉBITO
+PED-01116;2025-01-27;Diego Ferreira;Recife;Esporte;Tapete de Yoga;1;R$ 119,90;cartão de crédito
+PED-01117;10/02/2025;Otávio Ferreira;Caruaru;Eletrônicos;Mouse sem Fio;2;R$ 89,90;pix
+PED-01118;2025-06-23;Heitor Araújo;PETROLINA;Eletrônicos;Caixa de Som;1;249.90;boleto
+PED-01119;25/05/2025;Larissa Oliveira;Paulista;Casa;Jogo de Toalhas;1;99.90;cartão de crédito
+PED-01117;10/02/2025;Otávio Ferreira;Caruaru;Eletrônicos;Mouse sem Fio;2;R$ 89,90;pix
+PED-01120;01/02/2025;Felipe Costa;Olinda;Eletrônicos;Carregador Turbo;1;59.90;cartão de débito
+PED-01121;2025-06-01;Yuri Santos;Caruaru;Livros;Estatística Básica;1;159.90;cartão de crédito
+PED-01122;28/03/2025;Carla Santos;Paulista;Livros;Storytelling com Dados;1;79.90;cartao de credito
+PED-01123;2025-06-15;Thiago Oliveira;OLINDA;Casa;Jogo de Toalhas;2;R$ 99,90;pix
+PED-01124;2025-05-27;João Albuquerque;Recife;Livros;Python para Dados;2;R$ 119,00;cartão de crédito
+PED-01125;14/02/2025;Natália Lima;Recife;Casa;Jogo de Toalhas;1;R$ 99,90;cartão de débito
+PED-01126;2025-01-01;Paula Silva;Recife;Esporte;Garrafa Squeeze;3;29.90;Pix
+PED-01117;10/02/2025;Otávio Ferreira;Caruaru;Eletrônicos;Mouse sem Fio;2;R$ 89,90;pix
+PED-01127;2025-06-30;Carla Oliveira;Caruaru;Esporte;Mochila Esportiva;1;159.00;cartão de débito
+PED-01128;2025-05-15;Marcos Araújo;Recife;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
+PED-01129;2025-02-24;Bruno Ferreira;Garanhuns;Casa;Jogo de Toalhas;3;99.90;cartão de crédito
+PED-01130;2025-03-27;Felipe Barbosa;Paulista;Casa;Jogo de Toalhas;-1;99.90;boleto
+PED-01110;09/06/2025;Carla Santos;Recife;Eletrônicos;Fone Bluetooth;4;129.90;pix
+PED-01131;2025-01-04;Ana Lima;Petrolina;Eletrônicos;Caixa de Som;1;249.90;cartão de débito
+PED-01132;2025-02-07;Yuri Lima;Recife;Esporte;Tapete de Yoga;1;119.90;cartão de crédito
+PED-01133;15/03/2025;Felipe Santos;RECIFE;eletrônicos;Smartwatch;1;399.00;pix
+PED-01134;2025-04-11;Sofia Araújo;  recife ;Esporte;Garrafa Squeeze;3;29,90;PIX
+PED-01135;10/04/2025;Yuri Santos;RECIFE;Casa;Luminária LED;1;74,50;cartão de crédito
+
+PED-01136;2025-03-15;Heitor Oliveira;Recife;Esporte;Garrafa Squeeze;5;29.90;pix
+PED-01137;2025-04-01;Ana Ferreira;Paulista;Esporte;Tênis de Corrida;2;R$ 349,90;cartão de crédito
+PED-01138;23/01/2025;Diego Ferreira;RECIFE;Eletrônicos;Carregador Turbo;1;59.90;cartão de débito
+PED-01139;2025-05-12;Ana Costa;Recife;Papelaria;Planner 2025;1;64,90;pix
+PED-01140;23/04/2025;Heitor Lima;Petrolina;esporte;Garrafa Squeeze;4;R$ 29,90;cartão de crédito
+PED-01141;2025-01-17;Isabela Lima;Caruaru;esporte;Tênis de Corrida;1;349.90;pix
+PED-01142;04/06/2025;Bruno Melo;Recife;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-01143;26/05/2025;Natália Araújo;Recife;eletrônicos;Fone Bluetooth;1;129,90;CARTÃO DE CRÉDITO
+PED-01144;08/03/2025;Felipe Costa;Recife;Casa;Garrafa Térmica;2;54.90;boleto
+PED-01145;2025-03-25;Otávio Santos;Recife;Esporte;Tênis de Corrida;1;349.90;cartão de crédito
+PED-01146;2025-02-19;Yuri Cavalcanti;Caruaru;esporte;Tênis de Corrida;2;R$ 349,90;Boleto
+PED-01147;2025-02-05;Yuri Costa;Petrolina;;Garrafa Squeeze;2;29.90;boleto
+PED-01148;25/05/2025;Paula Costa;Olinda;Eletrônicos;Fone Bluetooth;2;129.90;cartao de credito
+PED-01141;2025-01-17;Isabela Lima;Caruaru;esporte;Tênis de Corrida;1;349.90;pix
+PED-01149;27/01/2025;Gabriela Ferreira;Petrolina;Eletrônicos;Smartwatch;2;399.00;pix
+PED-01150;2025-03-13;Sofia Melo;Recife;Casa;Luminária LED;3;R$ 74,50;cartão de crédito
+PED-01151;2025-06-15;Bruno Silva;Petrolina;Esporte;Garrafa Squeeze;2;29.90;pix
+PED-01152;2025-05-27;Heitor Santos;Recife;papelaria;Planner 2025;3;64.90;cartão de débito
+PED-01153;19/04/2025;Ana Cavalcanti;Recife;Livros;Entendendo Algoritmos;1;R$ 69,90;Pix
+PED-01154;2025-03-20;Larissa Costa;Recife;Eletrônicos;Caixa de Som;1;249.90;cartão de crédito
+PED-01155;2025-02-28;Yuri Barbosa;Recife;Papelaria;Caderno Inteligente;1;89,00;cartão de débito
+PED-01156;2025-03-02;Marcos Barbosa;PAULISTA;Livros;Python para Dados;1;119.00;cartão de débito
+PED-01157;2025-06-04;Isabela Ferreira;RECIFE;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-01158;2025-05-21;Heitor Souza;Recife;Eletrônicos;Mouse sem Fio;1;89.90;pix
+PED-01159;2025-05-28;Ana Souza;Olinda;Papelaria;Caderno Inteligente;1;89.00;cartão de crédito
+PED-01160;10/06/2025;Heitor Silva;Recife;Papelaria;Planner 2025;1;64,90;pix
+PED-01161;03/02/2025;Otávio Araújo;Paulista;Livros;Entendendo Algoritmos;1;69.90;boleto
+PED-01162;13/05/2025;Otávio Araújo;Olinda;Eletrônicos;Fone Bluetooth;1;129.90;boleto
+PED-01163;17/05/2025;Eduarda Oliveira;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartão de débito
+PED-01164;2025-06-09;Marcos Cavalcanti;Paulista;Livros;Entendendo Algoritmos;2;69.90;Pix
+PED-01165;16/04/2025;Bruno Oliveira;Recife;casa;Garrafa Térmica;2;R$ 54,90;pix
+PED-01166;2025-06-26;Eduarda Souza;Recife;Esporte;Tênis de Corrida;1;349,90;cartão de débito
+PED-01167;2025-06-06;Diego Santos;Recife;Esporte;Tênis de Corrida;2;349.90;CARTÃO DE DÉBITO
+PED-01168;2025-02-22;Carla Oliveira;Recife;Eletrônicos;Fone Bluetooth;1;129.90;PIX
+PED-01169;03/06/2025;Felipe Costa;Garanhuns;Papelaria;Kit Canetas;4;34.90;cartão de crédito
+PED-01170;08/05/2025;Otávio Santos;Petrolina;Esporte;Garrafa Squeeze;2;29.90;pix
+PED-01171;2025-04-20;Eduarda Melo;Recife;Casa;Luminária LED;1;74.50;cartão de crédito
+PED-01172;01/01/2025;Sofia Araújo;Olinda;eletrônicos;Fone Bluetooth;2;129.90;cartão de débito
+PED-01173;2025-01-22;Felipe Barbosa;Paulista;Eletrônicos;Fone Bluetooth;3;129.90;pix
+PED-01174;27/04/2025;Larissa Costa;Olinda;Eletrônicos;Smartwatch;1;399.00;boleto
+PED-01175;20/01/2025;Felipe Araújo;Recife;Papelaria;Planner 2025;1;64.90;cartão de crédito
+PED-01176;2025-04-10;Larissa Souza;GARANHUNS;Casa;Cafeteira;2;189.90;cartão de crédito
+PED-01177;2025-02-07;Otávio Ferreira;Petrolina;casa;Cafeteira;2;189,90;pix
+PED-01178;09/06/2025;Larissa Santos;Garanhuns;Esporte;Garrafa Squeeze;2;29,90;PIX
+PED-01179;2025-03-06;Paula Santos;Paulista;Casa;Garrafa Térmica;1;54.90;cartão de débito
+PED-01180;05/04/2025;Natália Albuquerque;Petrolina;eletrônicos;Smartwatch;1;399.00;pix
+PED-01181;2025-01-09;Yuri Lima;Recife;Casa;Luminária LED;3;74.50;cartão de crédito
+PED-01182;2025-04-11;Thiago Oliveira;Recife;Livros
+PED-01183;2025-04-10;Ana Silva;Recife;Papelaria;Caderno Inteligente;2;89.00;cartão de crédito
+PED-01184;27/03/2025;Eduarda Ferreira;Recife;Eletrônicos;Mouse sem Fio;1;89,90;CARTÃO DE DÉBITO
+PED-01185;2025-04-18;Otávio Santos;Recife;Livros;Entendendo Algoritmos;1;69,90;cartão de débito
+PED-01186;06/05/2025;Gabriela Ferreira;Petrolina;Esporte;Mochila Esportiva;2;159.00;cartão de débito
+PED-01187;2025-02-20;Sofia Lima;Caruaru;Papelaria;Caderno Inteligente;1;89,00;pix
+PED-01188;2025-05-01;Larissa Lima;Recife;Eletrônicos;Smartwatch;4;R$ 399,00;pix
+PED-01189;2025-01-02;Diego Cavalcanti;Garanhuns;Eletrônicos;Carregador Turbo;4;59.90;pix
+PED-01190;20/05/2025;Gabriela Barbosa;Olinda;papelaria;Caderno Inteligente;1;89.00;cartão de crédito
+PED-01191;20/06/2025;Felipe Lima;Recife;casa;Luminária LED;1;74.50;pix
+PED-01192;2025-01-24;Marcos Ferreira;Recife;esporte;Tapete de Yoga;1;119.90;pix
+PED-01193;2025-04-17;João Albuquerque;Recife;Eletrônicos;Fone Bluetooth;1;129.90;cartão de crédito
+PED-01194;01/03/2025;Sofia Melo;Olinda;Eletrônicos;Mouse sem Fio;1;89.90;cartão de crédito
+PED-01195;17/04/2025;Sofia Silva;Paulista;Eletrônicos;Smartwatch;3;R$ 399,00;boleto
+PED-01196;2025-06-27;Heitor Lima;Recife;Livros;Entendendo Algoritmos;2;R$ 69,90;pix
+PED-01197;06/06/2025;Larissa Barbosa;Recife;Esporte;Mochila Esportiva;1;159.00;boleto
+PED-01198;2025-05-16;Marcos Melo;Recife;Livros;Python para Dados;4;119,00;cartão de crédito
+PED-01199;2025-05-12;Ana Silva;Recife;Eletrônicos;Caixa de Som;1;249.90;pix
+PED-01200;2025-04-30;Felipe Santos;Paulista;Eletrônicos;Smartwatch;1;399.00;cartão de crédito
