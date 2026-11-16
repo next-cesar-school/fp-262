@@ -17,9 +17,9 @@ Material das aulas de Fundamentos de Python Aplicado a Dados da CESAR School do 
 | Aula 07 - Tratamento de Exceções | [Conteúdo](/aula07/README.md) - [Práticas](/aula07/praticas/) - [Exercícios Resolvidos](/aula07/exercicios/) |
 | Aula 08 - Estruturas de Dados | [Conteúdo](/aula08/README.md) - [Práticas](/aula08/praticas/)- [Exercícios Resolvidos](/aula08/exercicios/) |
 | 🦾 Semana de Projeto | [Projetos](/semana-projeto/) |
-| Aula 09 - Módulos e Pacotes | `em breve` |
-| Aula 10 - Numpy | `em breve` |
-| Aula 11 - Numpy | `em breve` |
+| Aula 09 - Módulos e Pacotes | [Conteúdo](/aula09/README.md) |
+| Aula 10 - Fundamentos de NumPy | `em breve` |
+| Aula 11 - NumPy na Análise de Dados | `em breve` |
 
 ### 🦾 Semana de Projetos
 
