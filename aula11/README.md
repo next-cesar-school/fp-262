@@ -336,6 +336,10 @@ print(medias[aprovados])
 
 ### Mostrar estudantes em recuperação
 
+Estudantes em **recuperação** são aqueles que **não atingiram a média para aprovação** (7), mas também **não foram reprovados direto**: como ficaram com média entre 5 e 7, ainda têm uma nova chance (como uma prova final) para melhorar a nota e serem aprovados.
+
+Ou seja, precisamos de **duas condições ao mesmo tempo**: média maior ou igual a 5 **e** menor que 7.
+
 ```python
 recuperacao = (medias >= 5) & (medias < 7)
 
