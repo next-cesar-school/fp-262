@@ -229,7 +229,19 @@ print(np.argmax(vendas, axis=1))
 #[1 2]
 ```
 
-Para cada linha (vendedor), o NumPy informa em qual coluna (dia) está a maior venda.
+Aqui, cada linha representa um vendedor e cada coluna representa um dia. Com `axis=1`, o NumPy percorre **cada linha separadamente** e devolve o **índice da coluna** onde está o maior valor daquela linha. Por isso o resultado tem um número para cada vendedor:
+
+| Linha (vendedor) | Vendas do dia 0, 1, 2 | Maior venda | Coluna (índice) |
+| ---------------- | --------------------- | ----------- | --------------- |
+| 0                | 1200, 1500, 1100      | 1500        | **1**           |
+| 1                | 900, 1000, 1300       | 1300        | **2**           |
+
+Ou seja, `[1 2]` significa:
+
+* o vendedor da linha `0` vendeu mais no dia de índice `1` (o **segundo** dia);
+* o vendedor da linha `1` vendeu mais no dia de índice `2` (o **terceiro** dia).
+
+> 💡 Lembre-se: os valores retornados são **posições** (índices começando em 0), e não os valores das vendas. Para obter o valor da maior venda de cada vendedor, use `vendas.max(axis=1)`, que retorna `[1500 1300]`.
 
 > ⚠️ Se houver empate, `argmax` e `argmin` retornam a **primeira** posição encontrada.
 
@@ -380,7 +392,6 @@ print(notas.mean(axis=1))
 
 > ⚠️ `np.loadtxt` funciona melhor quando os dados são bem organizados e numéricos. Para arquivos CSV com cabeçalho, texto, valores ausentes ou dados mistos, normalmente usamos outras estratégias, como `csv`, `pandas` ou limpeza prévia dos dados.
 
-
 ### Salvando resultados com `np.savetxt`
 
 Depois de calcular um resultado, podemos gravá-lo em um arquivo:
@@ -437,20 +448,20 @@ np.savetxt('medias.csv', medias, delimiter=',', fmt='%.2f', header='media', comm
 
 ## Resumo dos principais recursos
 
-| Recurso          | Para que serve                         | Exemplo                                  |
-| ---------------- | -------------------------------------- | ---------------------------------------- |
-| `axis=0`         | Agregar por coluna                     | `notas.mean(axis=0)`                     |
-| `axis=1`         | Agregar por linha                      | `notas.mean(axis=1)`                     |
-| Máscara booleana | Filtrar dados por condição             | `notas[notas >= 7]`                      |
-| `&`              | E lógico entre condições               | `(x >= 5) & (x < 7)`                     |
-| `\|`             | OU lógico entre condições              | `(x < 5) \| (x > 9)`                     |
-| `~`              | Negar uma máscara                      | `x[~aprovados]`                          |
-| `.sum()` em máscara | Contar quantos valores são `True`   | `(notas >= 7).sum()`                     |
-| `np.argmax()`    | Posição do maior valor                 | `np.argmax(medias)`                      |
-| `np.argmin()`    | Posição do menor valor                 | `np.argmin(medias)`                      |
-| Broadcasting     | Operar arrays de formatos compatíveis  | `notas * pesos`                          |
-| `np.loadtxt()`   | Ler arquivo numérico simples           | `np.loadtxt('notas.csv', delimiter=',')` |
-| `np.savetxt()`   | Salvar array em arquivo                | `np.savetxt('saida.csv', x, fmt='%.2f')` |
+| Recurso             | Para que serve                         | Exemplo                                  |
+| ------------------- | -------------------------------------- | ---------------------------------------- |
+| `axis=0`            | Agregar por coluna                     | `notas.mean(axis=0)`                     |
+| `axis=1`            | Agregar por linha                      | `notas.mean(axis=1)`                     |
+| Máscara booleana    | Filtrar dados por condição             | `notas[notas >= 7]`                      |
+| `&`                 | E lógico entre condições               | `(x >= 5) & (x < 7)`                     |
+| `\|`                | OU lógico entre condições              | `(x < 5) \| (x > 9)`                     |
+| `~`                 | Negar uma máscara                      | `x[~aprovados]`                          |
+| `.sum()` em máscara | Contar quantos valores são `True`      | `(notas >= 7).sum()`                     |
+| `np.argmax()`       | Posição do maior valor                 | `np.argmax(medias)`                      |
+| `np.argmin()`       | Posição do menor valor                 | `np.argmin(medias)`                      |
+| Broadcasting        | Operar arrays de formatos compatíveis  | `notas * pesos`                          |
+| `np.loadtxt()`      | Ler arquivo numérico simples           | `np.loadtxt('notas.csv', delimiter=',')` |
+| `np.savetxt()`      | Salvar array em arquivo                | `np.savetxt('saida.csv', x, fmt='%.2f')` |
 
 ---
 
