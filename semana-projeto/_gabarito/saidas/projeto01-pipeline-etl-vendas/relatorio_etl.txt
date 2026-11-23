@@ -1,0 +1,55 @@
+====================================================
+RELATÓRIO DO PIPELINE ETL - VENDAS 1º SEMESTRE/2025
+====================================================
+
+>> QUALIDADE DOS DADOS
+  Linhas lidas (sem cabeçalho): 1239
+  Linhas em branco ignoradas:   4
+  Registros válidos:            1130
+  Registros rejeitados:         105
+  Taxa de aproveitamento:       91.5%
+
+  Rejeições por motivo:
+    - pedido duplicado                35
+    - quantidade inválida             14
+    - quantidade não positiva         14
+    - preço inválido                  14
+    - categoria ausente                7
+    - data ausente                     7
+    - número de colunas inválido       7
+    - data inválida                    7
+
+>> INDICADORES DE NEGÓCIO
+  Faturamento total: R$ 276.681,70
+  Pedidos válidos:   1130
+  Ticket médio:      R$ 244,85
+  Produto campeão (unidades): Storytelling com Dados (146 un.)
+
+  Faturamento por categoria:
+  Eletrônicos            R$ 110.756,30  ( 40.0%)
+  Esporte                 R$ 67.767,90  ( 24.5%)
+  Livros                  R$ 42.919,60  ( 15.5%)
+  Casa                    R$ 40.450,20  ( 14.6%)
+  Papelaria               R$ 14.787,70  (  5.3%)
+
+  Faturamento por cidade:
+  Recife                 R$ 112.256,70  ( 40.6%)
+  Olinda                  R$ 48.887,10  ( 17.7%)
+  Caruaru                 R$ 36.860,90  ( 13.3%)
+  Petrolina               R$ 30.450,60  ( 11.0%)
+  Paulista                R$ 25.922,00  (  9.4%)
+  Garanhuns               R$ 22.304,40  (  8.1%)
+
+  Faturamento por forma de pagamento:
+  Pix                    R$ 119.527,10  ( 43.2%)
+  Cartão de Crédito       R$ 99.657,10  ( 36.0%)
+  Cartão de Débito        R$ 34.558,20  ( 12.5%)
+  Boleto                  R$ 22.939,30  (  8.3%)
+
+  Faturamento por mês:
+  Jan   R$ 41.296,30 ███████████████████
+  Fev   R$ 31.478,60 ██████████████
+  Mar   R$ 38.963,40 ██████████████████
+  Abr   R$ 43.851,20 ████████████████████
+  Mai   R$ 55.959,50 ██████████████████████████
+  Jun   R$ 65.132,70 ██████████████████████████████

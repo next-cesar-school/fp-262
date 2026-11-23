@@ -1,0 +1,75 @@
+============================================================
+RAIO-X SALARIAL DA ÁREA DE DADOS - PESQUISA 2025
+============================================================
+
+>> SOBRE OS DADOS
+  Respostas válidas:              625
+  Sem salário informado:          13
+  Outliers removidos (> R$ 60.000): 2 -> ids 57, 402
+  Cargos distintos:               5
+  Estados (UF) representados:     10
+
+>> PANORAMA GERAL
+  Média:          R$ 10.563
+  Mediana:        R$ 8.900
+  Desvio padrão:  R$ 5.700
+  Menor salário:  R$ 2.850
+  Maior salário:  R$ 34.800
+
+>> SALÁRIO POR CARGO (ordenado pela mediana)
+  Grupo                                  N       Média     Mediana         Mín         Máx
+  --------------------------------------------------------------------------------------
+  Engenheiro(a) de Machine Learning     52   R$ 14.813   R$ 12.325    R$ 5.650   R$ 34.800
+  Engenheiro(a) de Dados               139   R$ 12.638   R$ 11.450    R$ 4.700   R$ 28.600
+  Cientista de Dados                   118   R$ 11.472   R$ 10.375    R$ 4.200   R$ 29.900
+  Analista de Dados                    221    R$ 8.808    R$ 8.000    R$ 3.150   R$ 22.000
+  Analista de BI                        95    R$ 8.157    R$ 7.200    R$ 2.850   R$ 20.050
+
+>> SALÁRIO POR NÍVEL
+  Grupo                                  N       Média     Mediana         Mín         Máx
+  --------------------------------------------------------------------------------------
+  Júnior                               213    R$ 5.554    R$ 5.300    R$ 2.850    R$ 9.300
+  Pleno                                202    R$ 9.412    R$ 8.900    R$ 5.200   R$ 16.500
+  Sênior                               146   R$ 15.107   R$ 14.475    R$ 9.000   R$ 27.250
+  Especialista                          64   R$ 20.503   R$ 19.300   R$ 11.750   R$ 34.800
+
+>> SALÁRIO POR MODELO DE TRABALHO
+  Grupo                                  N       Média     Mediana         Mín         Máx
+  --------------------------------------------------------------------------------------
+  Remoto                               293   R$ 10.852    R$ 9.200    R$ 3.600   R$ 30.550
+  Híbrido                              237   R$ 10.786    R$ 9.150    R$ 3.300   R$ 34.800
+  Presencial                            95    R$ 9.117    R$ 7.800    R$ 2.850   R$ 30.250
+
+>> MEDIANA POR CARGO
+  Engenheiro(a) de Machine Learning   ████████████████████████████████████████ R$ 12.325
+  Engenheiro(a) de Dados              █████████████████████████████████████ R$ 11.450
+  Cientista de Dados                  ██████████████████████████████████ R$ 10.375
+  Analista de Dados                   ██████████████████████████ R$ 8.000
+  Analista de BI                      ███████████████████████ R$ 7.200
+
+>> TOP 5 ESTADOS (mediana salarial)
+  1º SP   R$ 10.150  (169 respostas)
+  2º DF   R$ 10.100  (25 respostas)
+  3º RJ    R$ 9.700  (47 respostas)
+  4º PR    R$ 9.300  (44 respostas)
+  5º BA    R$ 9.225  (44 respostas)
+  ... PE aparece em 7º lugar, com mediana de R$ 8.550
+
+>> DISTRIBUIÇÃO DOS SALÁRIOS (faixas de R$ 3.000)
+  R$ 0 a R$ 2.999        1
+  R$ 3.000 a R$ 5.999   ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 140
+  R$ 6.000 a R$ 8.999   ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 173
+  R$ 9.000 a R$ 11.999  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 107
+  R$ 12.000 a R$ 14.999 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 78
+  R$ 15.000 a R$ 17.999 ▇▇▇▇▇▇▇▇▇▇▇▇▇ 57
+  R$ 18.000 a R$ 20.999 ▇▇▇▇▇▇▇▇ 33
+  R$ 21.000 a R$ 23.999 ▇▇▇▇ 19
+  R$ 24.000 a R$ 26.999 ▇ 6
+  R$ 27.000 a R$ 29.999 ▇▇ 7
+  R$ 30.000 a R$ 32.999  2
+  R$ 33.000 a R$ 35.999  2
+
+>> INSIGHTS AUTOMÁTICOS
+  - Um(a) Sênior ganha, na mediana, 2.7x o salário de um(a) Júnior.
+  - Correlação entre anos de experiência e salário: 0.80 (forte).
+  - Remoto x Presencial (mediana): R$ 9.200 x R$ 7.800.

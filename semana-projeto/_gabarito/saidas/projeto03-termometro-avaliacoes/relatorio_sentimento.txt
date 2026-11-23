@@ -1,0 +1,37 @@
+==========================================================
+TERMÔMETRO DE AVALIAÇÕES - LOJA NExT
+==========================================================
+
+Avaliações analisadas: 876  |  descartadas (nota inválida): 24
+Léxico: 24 palavras positivas, 23 negativas, 53 stopwords
+
+>> DESEMPENHO DO CLASSIFICADOR (comparado com a nota)
+  Acurácia sem tratar negação: 82.1%
+  Acurácia COM negação:        84.9%
+
+  Matriz de confusão (linhas = real pela nota | colunas = previsto pelo texto)
+                positivo    neutro  negativo
+  positivo           383        37        30
+  neutro              19       109        14
+  negativo             0        32       252
+
+>> RANKING DE PRODUTOS (% de comentários positivos)
+  Produto                Positivos  Negativos  Nota média    N  Termômetro
+  Cafeteira                  66.4%      16.0%        3.94  119  🟩🟩🟩🟩🟩🟩🟩🟥🟥
+  Luminária LED              66.1%      16.5%        4.03  115  🟩🟩🟩🟩🟩🟩🟩🟥🟥
+  Fone Bluetooth             55.4%      22.8%        3.59  101  🟩🟩🟩🟩🟩🟩🟥🟥
+  Caderno Inteligente        50.0%      34.8%        3.46  112  🟩🟩🟩🟩🟩🟥🟥🟥
+  Mochila Esportiva          42.2%      34.3%        3.09  102  🟩🟩🟩🟩🟥🟥🟥
+  Tênis de Corrida           37.5%      35.6%        3.33  104  🟩🟩🟩🟩🟥🟥🟥🟥
+  Smartwatch                 23.9%      58.1%        2.52  117  🟩🟩🟥🟥🟥🟥🟥🟥
+  Caixa de Som               23.6%      52.8%        2.55  106  🟩🟩🟥🟥🟥🟥🟥
+
+>> PALAVRAS MAIS FREQUENTES (sem stopwords)
+  Em avaliações positivas: bom (+) 122, compra     89, recomendo (+) 87, excelente (+) 76, funciona (+) 73, qualidade     66, gostei (+) 56, produto     52
+  Em avaliações negativas: não     73, fraco (-) 56, ruim (-) 52, defeito (-) 45, produto     42, pior (-) 37, compra     37, quebrou (-) 36
+
+>> EXEMPLOS DE ERROS DO CLASSIFICADOR (para investigar)
+  [nota 1 | previsto neutro] Bonito, mas parou de funcionar
+  [nota 1 | previsto neutro] Bonito, mas parou de funcionar...
+  [nota 5 | previsto neutro] Não é ruim, gostei!!
+  [nota 5 | previsto negativo] Achei que seria fraco, mas não é...

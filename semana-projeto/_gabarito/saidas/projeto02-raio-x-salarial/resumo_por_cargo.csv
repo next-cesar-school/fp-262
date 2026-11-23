@@ -1,0 +1,6 @@
+cargo,n,media,mediana,minimo,maximo,desvio_padrao
+Analista de BI,95,8157.37,7200.00,2850.00,20050.00,4233.91
+Analista de Dados,221,8807.92,8000.00,3150.00,22000.00,4123.50
+Cientista de Dados,118,11471.61,10375.00,4200.00,29900.00,5658.25
+Engenheiro(a) de Dados,139,12637.77,11450.00,4700.00,28600.00,5837.55
+Engenheiro(a) de Machine Learning,52,14813.46,12325.00,5650.00,34800.00,8321.92
